@@ -20,7 +20,7 @@ Publication window: **1 January–23 October 2026**. This is a dated, source-bac
 
 Nature and Nature-branded research/review journals, Nature Communications, and **npj Digital Medicine only**. Separate Communications-series titles, other npj titles and Scientific Reports are excluded. Biomedical research includes molecular/cellular biology, genomics/omics, proteins and drug discovery when substantive AI is central. Pure medicine without AI is excluded.
 
-The website distinguishes **curated analyses** from **source-extracted records**. Missing extraction fields do not establish absence in the study. Counts never combine patients, images and cells. The coverage ledger explains the denominator; this collection is not a claim about the complete biomedical-AI share of a journal.
+The current snapshot includes **1,701 paper-specific interpretations across 47 journals**, with questions, methods, findings and evidence boundaries for every indexed paper. Abstract interpretation and selected full-text checks are distinguished; extracted factual fields retain their verification status. Missing extraction fields do not establish absence in the study. Counts never combine patients, images and cells. The coverage ledger explains the denominator; this collection is not a claim about the complete biomedical-AI share of a journal.
 
 ## Run locally
 

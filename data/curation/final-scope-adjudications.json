@@ -1,0 +1,170 @@
+{
+  "s41592-026-03156-0": {
+    "status": "excluded",
+    "reason": "EviAnn builds annotations from transcript alignments and protein homology; learned gene finders are background/comparators rather than a central proposed AI method.",
+    "source_url": "https://www.nature.com/articles/s41592-026-03156-0",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41594-026-01814-7": {
+    "status": "excluded",
+    "reason": "The ribosome-folding work uses NMR, protein engineering and molecular dynamics. Its mention that ML cannot predict these intermediates does not establish an AI contribution.",
+    "source_url": "https://www.nature.com/articles/s41594-026-01814-7",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-72508-3": {
+    "status": "excluded",
+    "reason": "FireANTs is a classical training-free Riemannian image-registration optimizer; deep learning is a comparator rather than the method studied here.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72508-3",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-73792-9": {
+    "status": "excluded",
+    "reason": "Learned remote-sensing models assess mining, forests and habitats, without a substantive biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-026-73792-9",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-72918-3": {
+    "status": "excluded",
+    "reason": "The work studies natural human perceptual learning using behavior and fMRI; ML appears as an analogy, with no applied artificial learner in the reviewed Methods.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72918-3",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-72900-z": {
+    "status": "excluded",
+    "reason": "General analog generative-computing hardware is tested on nonmedical tasks; brain inspiration does not establish a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72900-z",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-71446-4": {
+    "status": "excluded",
+    "reason": "The artificial photonic-neuron device demonstrates generic computation and sensing, without an evaluated medical or biological-data task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71446-4",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-70634-6": {
+    "status": "excluded",
+    "reason": "Primate neural recordings and stimulation investigate natural valuation/action learning, not an applied artificial RL system.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70634-6",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-03256-3": {
+    "status": "excluded",
+    "reason": "The review compares low-power wireless communication technologies; no substantive AI-method or AI-system evaluation is established.",
+    "source_url": "https://www.nature.com/articles/s41746-026-03256-3",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02366-2": {
+    "status": "excluded",
+    "reason": "RADAR uses classical physics-aware vessel filters and topology-preserving reconstruction; deep learning is background/comparator rather than an applied AI component.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02366-2",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02922-w": {
+    "status": "excluded",
+    "reason": "The primary study estimates associations of remote consultations using adjusted logistic models. Reused NLP extraction of covariates is incidental rather than a substantive AI contribution.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02922-w",
+    "reviewed_date": "2026-10-23"
+  },
+  "s44222-025-00391-6": {
+    "status": "excluded",
+    "reason": "Mechanomedicine reviews forces, mechanical biomarkers and devices; AI is a future integration opportunity rather than a substantive present AI synthesis.",
+    "source_url": "https://www.nature.com/articles/s44222-025-00391-6",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-03375-x": {
+    "status": "included",
+    "reason": "Primary learned PCA/ridge-logistic predictive scoring is cross-validated and externally tested. It is linear statistical learning rather than a neural AI system.",
+    "source_url": "https://www.nature.com/articles/s41746-026-03375-x",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-73636-6": {
+    "status": "included",
+    "reason": "Beyond sensing hardware, Results evaluates a learned acoustic voice-recognition model and Methods discusses transfer of learned acoustic representations. This supports a biomedical/human-interface AI component, not demonstrated diagnostic efficacy.",
+    "source_url": "https://www.nature.com/articles/s41467-026-73636-6",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-73865-9": {
+    "status": "included",
+    "reason": "Although reinforcement learning in the title/abstract is natural human behavior, Results/Methods also implement cross-validated ML classification of drug-versus-placebo brain-network matrices.",
+    "source_url": "https://www.nature.com/articles/s41467-026-73865-9",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41586-026-10465-z": {
+    "status": "included",
+    "reason": "Dedicated sections train PLM-embedding LASSO/Ridge predictors with sequence-cluster cross-validation and experimentally test model-guided double-mutant designs. AI is a present method, not just a future use of the data.",
+    "source_url": "https://www.nature.com/articles/s41586-026-10465-z",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41586-026-10513-8": {
+    "status": "included",
+    "reason": "AI-based cryo-EM protein assignment and modeling are central to identifying the components and architecture of native oocyte complexes; this is computational structural biology.",
+    "source_url": "https://www.nature.com/articles/s41586-026-10513-8",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02891-0": {
+    "status": "included",
+    "reason": "The mixed digital-intervention review includes an evaluated AI-powered acne chatbot intervention in Results. The profile distinguishes this AI component from the other non-AI interventions.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02891-0",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02844-7": {
+    "status": "included",
+    "reason": "The review substantively discusses current multimodal ML prognosis and AI-enabled personalization evidence, including their limited prescriptive value; AI is not only a future keyword.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02844-7",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02639-w": {
+    "status": "included",
+    "reason": "Results and Methods apply and validate a machine-learning actigraphy pipeline against polysomnography in six of the thirteen participants.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02639-w",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02346-6": {
+    "status": "included",
+    "reason": "Results applies learned feature ranking, LASSO and random-forest classifiers to cognitive test performance, rather than only delivering digital tasks.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02346-6",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02806-z": {
+    "status": "included",
+    "reason": "Results includes a current evaluated GPT virtual-patient application in dental diagnostics, beyond future discussion of AI-enabled simulation.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02806-z",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02702-6": {
+    "status": "included",
+    "reason": "PASTEC is a purpose-built medical-AI evaluation data infrastructure. The present study evaluates prospective data collection and usability, not prospective predictive-model validation.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02702-6",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02659-6": {
+    "status": "included",
+    "reason": "Methods explicitly describes similarity-based machine learning used to derive the individualized multivariate inflammatory biomarker.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02659-6",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41746-026-02603-8": {
+    "status": "included",
+    "reason": "A learned EEG classifier is selected through nested cross-validation and applied using a fixed threshold in a subsequent prospective treatment-stratification study.",
+    "source_url": "https://www.nature.com/articles/s41746-026-02603-8",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41467-026-71863-5": {
+    "status": "included",
+    "reason": "The study develops a cross-validated host–microbe predictive classifier, a substantive statistical-learning component beyond explanatory association analyses.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71863-5",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41593-026-02227-x": {
+    "status": "excluded",
+    "reason": "The main contribution is natural dopamine/acetylcholine behavioral physiology. A reused deep pose estimator is routine measurement preprocessing rather than a substantive AI development/evaluation.",
+    "source_url": "https://www.nature.com/articles/s41593-026-02227-x",
+    "reviewed_date": "2026-10-23"
+  },
+  "s41586-026-10190-7": {
+    "status": "excluded",
+    "reason": "The neurofeedback experiment tests biological dendritic learning. A reused spike-inference model is preprocessing; no substantive artificial learning system is established.",
+    "source_url": "https://www.nature.com/articles/s41586-026-10190-7",
+    "reviewed_date": "2026-10-23"
+  }
+}

@@ -1,0 +1,2543 @@
+[
+  {
+    "id": "s41746-026-02947-1",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: PRISMA systematic review with QUADAS-2 quality assessment. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02947-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02947-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02898-7",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Systematic taxonomy of sensing, modeling and calibration with reporting guidance. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02898-7#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02898-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02918-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: JBI/PRISMA scoping review of 140 studies. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02918-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02918-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02891-0",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Systematic review of fourteen telemedicine and patient-support studies. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02891-0#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02891-0#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02880-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Scoping comparison of microscopy, rapid tests and deep parasite detection. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02880-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02880-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02886-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Meta-analysis of fifteen randomized trials involving 1,737 participants. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02886-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02886-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02878-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Systematic synthesis of incidence, arrhythmia xAI and electrophysiological modeling. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02878-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02878-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02729-9",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Systematic review with GRADE certainty and NASSS implementation assessment. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02729-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02729-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02858-1",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Task-specific systematic review and meta-analysis. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02858-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02858-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02844-7",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Narrative evidence framework across preparation, stratification and dynamic adaptation. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02844-7#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02844-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02837-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Systematic evidence mapping of studies and registered trials. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02837-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02837-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02832-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Scoping review categorizing measurement, uptake, amplification and reduction. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02832-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02832-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02820-1",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Random-effects meta-analysis with robust handling of within-study dependence. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02820-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02820-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02744-w",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Systematic review with Cochrane bias appraisal and thematic synthesis. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02744-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02744-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02806-z",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Scoping review of knowledge/procedural simulators and evaluation methods. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02806-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02806-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02789-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: PRISMA systematic review with PROBAST+AI/TRIPOD+AI appraisal. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02789-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02789-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02776-2",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: Critical literature reflection using a person-centered practice framework. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02776-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02776-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02705-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A scoping review and framework synthesis consolidate implementation constructs using affinity diagramming. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02705-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02705-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02694-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A scoping review screened 1,851 records and included 158 validated activity-classification studies. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02694-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02694-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02690-7",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A systematic review identified 32 randomized trials, with 27 meta-analyzed across workflow, engagement, and clinical-outcome tiers. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02690-7#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02690-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02679-2",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A PRISMA-ScR review compared 77 acute-care frameworks across principles, assessment, lifecycle coverage, and oversight. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02679-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02679-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02698-z",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A scoping synthesis extracted 4,667 primary studies from 218 recent systematic reviews and classified stage, geography, specialty, and design. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02698-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02698-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02687-2",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A diagnostic meta-analysis synthesized 13 studies covering 17 tests, including algorithmic and traditional scoring. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02687-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02687-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02650-1",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A systematic review synthesized 30 studies using real-world passive sensor data for Alzheimer disease and related dementias. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02650-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02650-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02653-y",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A systematic review examined 14 studies of passive sensing, language, mood logs, and ecological momentary assessments. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02653-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02653-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02640-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A systematic review and meta-analysis assessed 89 models from 35 studies using PROBAST. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02640-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02640-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02608-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A PRISMA-guided review synthesized 36 empirical evaluations, predominantly of DALL-E tools. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02608-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02608-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02620-7",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A systematic review compares 38 studies of sensing protocols, induction paradigms, and statistical or learned analytics. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02620-7#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02620-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02516-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A narrative review discusses opportunistic screening, individualized risk assessment, and quantitative bone-quality analysis. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02516-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02516-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02567-9",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Evidence synthesis rather than a newly recruited clinical experiment: A scoping review of 55 studies produced a structured taxonomy and the READY framework, checked by five domain experts. Trials or prospective cohorts in the reviewed literature are not new study arms of this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02567-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02567-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02302-w",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "This publication is a systematic review/meta-analysis of existing studies, not a new patient intervention, prospective AI evaluation, or reader experiment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02302-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02302-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02301-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "This publication is a systematic review/meta-analysis of existing studies, not a new patient intervention, prospective AI evaluation, or reader experiment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02301-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02301-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02929-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly states retrospective analysis of anonymized EHRs from 30 hospitals; stratified random sampling selects records and is not patient treatment allocation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02929-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02929-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02922-w",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Retrospective annual EHR cohorts and adjusted associations between remote care and later service use; no newly allocated intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02922-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02922-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02900-2",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The authors explicitly describe a retrospective multicenter reinforcement-learning study; estimated mortality is off-policy, not outcomes from randomized AI-directed treatment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02900-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02900-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02822-z",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Secondary model development on existing PAOLA-1 randomized-trial slides and outcomes. Original trial treatment assignment does not make this new histology model study a new patient RCT.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02822-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02822-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02893-y",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "The abstract calls this retrospective proof-of-concept AI assistance and specifically requests future prospective/video validation; actual endoscopist reading comparisons are reported.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02893-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02893-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02834-9",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Explicitly a multicenter retrospective study of 665 patients; validation splits are not prospective new-case evaluation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02834-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02834-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02792-2",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly identifies a retrospective cohort of 433 subjects; classification and computational causal inference do not establish a clinical intervention trial.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02792-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02792-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02779-z",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly states retrospective multicenter angiography model development and external testing, without allocated model-guided treatment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02779-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02779-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02652-z",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Learning and policy assessment use past transplant/nutrition records from 2008–2025; prospective evaluation is future work rather than the reported design.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02652-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02652-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02683-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The authors explicitly retrospectively included lobectomy patients from 2008–2023; imaging associations are observational.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02683-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02683-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02672-9",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Target-trial emulation uses observational cases and propensity matching; it approximates a hypothetical trial and is not actual randomized embryo allocation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02672-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02672-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02338-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Retrospective selection of 1,664 PET patients with angiography from a larger clinical population; three external sites provide held-out diagnostic testing, not prospective accrual.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02338-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02338-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02310-w",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly states a multinational retrospective ocular-image study; segmentation and classifier comparisons do not establish prospective deployment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02310-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02310-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02248-z",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly states retrospective collection of PICC cases; internal and external image validation are not prospective patient accrual.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02248-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02248-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02957-z",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "A reader study compares retinal specialists and AI and assesses AI-assisted clinicians on treatment-response images. Patient image-collection timing and model-freeze chronology are not given.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02957-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02957-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02936-4",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Thirty-six surgeons identify anatomy in 640 short video snippets with and without AI assistance. The intervention is a surgeon recognition task, not randomized patient surgery.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02936-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02936-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02916-8",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Junior ophthalmologists perform model-assisted ocular-GVHD diagnosis. The abstract does not establish whether the enrolled model cohorts were accrued after model completion.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02916-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02916-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02905-x",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "The abstract explicitly reports a 120-case multireader multicase experiment with assisted junior-reader sensitivity; it does not allocate patient care.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02905-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02905-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02831-y",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "An MRI expert reader study compares diagnostic performance on prostate cases. A virtual screening scenario is not patient-randomized screening.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02831-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02831-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02850-9",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Seventeen dermatologists and four models diagnose nail images. Prospective comparative study wording does not establish prospectively accrued patients or a frozen-model sequence.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02850-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02850-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02759-3",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Junior radiologists interpret MRI with CAD assistance, with changes in accuracy and reading time; patient care is not randomized.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02759-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02759-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02703-5",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Digitized cervical slides are randomized to reading sequences, with four cytopathologists crossing over after washout. Slide/reader randomization is not allocation of women to care.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02703-5#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02703-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02695-2",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Eighteen physicians predict glioma IDH status on image cohorts for comparison with two AI models; this is a reader comparison, not treatment allocation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02695-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02695-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02697-0",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Radiologists assess renal tumor CT/MRI cases for comparison with MPANet. Cohort timing is not specified in the abstract.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02697-0#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02697-0#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02645-y",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Physicians make treatment recommendations for 300 simulated hypertension cases with model configurations. This is a human-AI decision experiment, not treatment of randomized patients.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02645-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02645-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02606-5",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Twelve surgical oncologists prospectively complete a randomized crossed reader experiment on 166 explicitly retrospective cases. Patient data are historical; reader sequence randomization is not a patient RCT.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02606-5#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02606-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02588-4",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Two spine surgeons predict complications with and without LLM explanations. Patient sources combine retrospective and prospective data, but model-before-accrual timing is not established.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02588-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02588-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02974-y",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "A pre-registered three-arm randomized intervention enrolls 977 university students. It is participant randomization in a student population; the abstract does not establish selection as a patient/symptom-defined clinical cohort.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02974-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02974-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02959-x",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "An LLM voice assistant is deployed for new patient calls in a stabilization phase followed by nurse-led real-world evaluation. Prospective use is established, but no unchanged model configuration across phases is specified.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02959-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02959-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02934-6",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly separates retrospective development from prospectively collected internal/external cohorts. It does not state whether all validation cases arrived after model completion, so strict prospective model validation remains unresolved.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02934-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02934-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02904-y",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Authors report retrospective cases plus 512 prospective cases. Prior Methods audit identified unresolved conflict between the reported 2024 pilot and a model released in 2025; retain prospective collection as reported, but model-before-accrual validation is unconfirmed.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02904-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02904-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02889-8",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Patient queries are explicitly collected prospectively and independently scored after human/ChatGPT answers. This is answer-quality assessment, not model-guided patient treatment or a clinical reader decision experiment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02889-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02889-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02874-1",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "After development/validation, the LSTM undergoes prospective daily evaluation with live EHR extracts. This explicit live-prediction sequence supports prospective model validation; no patient intervention randomization is described.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02874-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02874-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02856-3",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "A prospective study enrolls 995 adults; novices acquire ultrasound with an existing commercial real-time AI-guidance system, compared with same-session reference echocardiography. This establishes prospective use/evaluation, not patient-randomized treatment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02856-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02856-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02818-9",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The model is developed on large clinical datasets and then tested in an explicitly independent prospective cohort of 1,338 children. Accrual is prospective; abstract alone does not confirm a frozen model preceded every test-case accrual.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02818-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02818-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02798-w",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "A registered prospective test cohort is reported separately from validation, but the abstract does not specify model-lock versus accrual sequence. Regimen-specific recommendations are counterfactual model estimates, not randomized treatment assignment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02798-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02798-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02592-8",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "An existing commercial pathology system is evaluated prospectively in routine reporting at three NHS centers, with staged and concurrent AI-assisted workflows. This is prospective deployment evaluation without patient randomization.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02592-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02592-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02770-8",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "A prospective observational course records 50 residents operating on porcine simulators. New experimental videos are collected, but this is surgical-skill assessment rather than a patient trial or clinical image-reader task; model timing is unspecified.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02770-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02770-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02702-6",
+    "study_design": {
+      "collection": true,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Prospective one-week routine-use evaluation collects and annotates cardiac-device recordings. PASTEC is infrastructure for future AI validation; no AI diagnostic model is validated in this reported comparison.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02702-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02702-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02715-1",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "The review contains a newly clinic-acquired feasibility demonstration alongside reference monitors. That establishes new signal collection but does not establish frozen learned-model validation timing.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02715-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02715-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02635-0",
+    "study_design": {
+      "collection": true,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Adults with diabetes are recruited for a randomized hypothetical copay vignette. Choices and attitudes are measured, without allocating actual screening or care; this is neither patient-care RCT nor clinician reader experiment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02635-0#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02635-0#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02696-1",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Exploratory prospective clinical testing and human-AI dentist comparisons are explicitly reported. The abstract does not establish model completion before prospective recruitment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02696-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02696-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02699-y",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract states retrospective development followed by internal, prospective, and external cohort testing. Prospective collection is reported, but strict model-before-accrual timing is not established in the abstract.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02699-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02699-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02657-8",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": true,
+      "reader": false
+    },
+    "design_note": "Adults undergoing endoscopy are randomized 1:1 to previously developed automated ciprofol delivery or clinician management in a prospective four-center trial. Separate development and clinical-validation groups establish actual prospective AI intervention evaluation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02657-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02657-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02632-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Two LLMs answer 99 constructed laboratory scenarios, with expert ratings. These are simulated reasoning tests rather than newly recruited patient outcomes or clinician decisions with AI assistance.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02632-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02632-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02659-6",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Sixty-one volunteers prospectively wear sensor patches before and after administered vaccines, with paired serum markers. Biomarker data are newly collected, but the abstract does not establish a frozen AI model or randomized patient intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02659-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02659-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02639-w",
+    "study_design": {
+      "collection": true,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Thirteen cardiac-surgery patients undergo planned sensor recordings before, during, and after hospitalization. This is prospective observational collection, not a validated AI predictor or randomized circadian intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02639-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02639-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02651-0",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "The abstract explicitly describes a prospective CLE trial while developing the Swin-based AI model. New biopsies are collected, but AI development during collection does not establish frozen-model prospective validation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02651-0#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02651-0#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02644-z",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "A customized model is developed and 433 patients are prospectively enrolled for shadow diagnosis comparison. The abstract does not fully establish frozen-model versus accrual timing; expert output ratings are not patient treatment allocation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02644-z#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02644-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02643-0",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": true,
+      "reader": false
+    },
+    "design_note": "After training on earlier videos, 318 patients are prospectively randomized to real-time ENDOVISTA-ENT-assisted or conventional endoscopy. Actual patient procedure allocation establishes a clinical AI RCT.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02643-0#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02643-0#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02629-y",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": true
+    },
+    "design_note": "Ultrasound videos are explicitly prospectively collected, and assisted sonographer detection is assessed. Training and validation use those collected videos, so prospective data source alone does not establish prospective locked-model validation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02629-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02629-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02583-9",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": true,
+      "reader": false
+    },
+    "design_note": "Forty-eight people with chronic aphasia are randomized to actual language therapy in the model-recommended or opposite language. This is patient treatment allocation and prospective clinical testing of model-guided selection.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02583-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02583-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02605-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Psychiatrists rate generated educational vignettes. Expert content ratings are not a clinical reader decision experiment or treatment allocation; no new patient data are collected.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02605-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02605-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02573-x",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": null,
+      "reader": null
+    },
+    "design_note": "The abstract reports operation-time and complication comparisons but does not specify prospective recruitment, allocation, or model timing. All clinical design dimensions remain unresolved rather than inferred from favorable outcomes.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02573-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02573-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02579-5",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Clinical labels are assigned to simulated and existing safety-dataset messages. Message classification is not prospective patient collection, clinical intervention randomization, or a clinician decision experiment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02579-5#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02579-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02589-3",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": null,
+      "reader": false
+    },
+    "design_note": "Retrospective report assessment is followed by a new 800-patient comprehension evaluation. Patient participation is established, but explicit prospective model timing and random allocation are not reported.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02589-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02589-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02576-8",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": true,
+      "reader": false
+    },
+    "design_note": "Screening/surveillance participants are recruited and randomized to EndoMind-assisted or conventional colonoscopy. This is real patient procedure allocation, not retrospective image evaluation or a reader crossover.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02576-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02576-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02569-7",
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Report-Angel is trained on earlier image-text pairs and evaluated in author-described prospective internal/external video cohorts. Prospective collection is clear; the abstract does not fully establish locked-model versus recruitment chronology.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02569-7#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02569-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02344-8",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Age prediction is trained using existing hospital ECGs and evaluated in two independent wearable cohorts. Cohort independence alone does not establish current prospective accrual or model-before-accrual timing.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02344-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02344-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02269-8",
+    "study_design": {
+      "collection": true,
+      "validation": true,
+      "patient_rct": true,
+      "reader": false
+    },
+    "design_note": "The current randomized trial assigns 261 postoperative orthopedic patients to GPT-4 WeChat support or routine doctor communication and follows actual recovery outcomes.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02269-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02269-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02352-8",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "The analysis explicitly integrates public single-cell, spatial, and bulk transcriptomic datasets; machine learning evaluates biomarker classification rather than new clinical accrual or allocated treatment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02352-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02352-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02346-6",
+    "study_design": {
+      "collection": null,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Four validation studies include new cognitive-test and retest assessments, but the abstract does not establish prospective frozen-AI testing or a patient-randomized care intervention. This is a digital assessment platform rather than a described learned predictor.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-026-02346-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02346-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02289-4",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "StructMIL is evaluated on existing Camelyon16 and PANDA benchmarks. Cross-center/scanner domain tests do not constitute prospective new patient collection or intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02289-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02289-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02222-9",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "StrokeFlow is tested on the existing public ISLES 2022 imaging benchmark, not prospectively accrued patient cases or allocated stroke care.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02222-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02222-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02061-8",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "FlowAxis reports computational evaluations on four existing vascular benchmarks and theoretical guarantees; this is not a new clinical intervention study.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02061-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02061-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02287-6",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Geo-MIL experiments use three public gastric-cancer datasets, with no new prospective patient accrual or clinical intervention in the reported experiment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02287-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02287-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02308-4",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Natural and intervention modules model existing refractive records and treatment cohorts. A causal-learning framework and modeled individual effects do not establish random treatment allocation in this publication.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02308-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02308-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02331-5",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": null,
+      "reader": null
+    },
+    "design_note": "VaTEP is an embryo-video outcome prediction framework. The abstract does not report recruitment timing, frozen-model sequence, or actual randomized embryo selection; retain unresolved clinical design labels.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02331-5#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02331-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02323-5",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "KT-LLM evaluates deidentified OPTN/UNOS cohorts and policy-grounded agents, not a new randomized transplant intervention. Current prospective collection and deployment chronology are not established.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02323-5#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02323-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02290-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "The knowledge graph reuses public biomedical links and genetic associations; drug candidates are computational predictions, not administered randomized treatments.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02290-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02290-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02288-5",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "VertebraFormer uses a benchmark assembled from existing public/private CT datasets. Cross-domain evaluations do not establish current prospective recruitment or deployed model validation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02288-5#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02288-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02262-1",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": null,
+      "reader": null
+    },
+    "design_note": "The abstract reports internal/external segmentation tests and surgeon workflow measurements. Acquisition timing, model-lock chronology, and patient intervention allocation are unspecified; do not infer them from time savings.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02262-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02262-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02173-1",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Drug-safety modeling reuses FAERS reports from 2016–2024 and computational molecular networks. Spontaneous-report analysis is not prospective collection or a randomized medication intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02173-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02173-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02333-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Four language models complete irritability instruments under prompt conditions. Experimental units are model responses, not patients, clinicians, or prospectively observed clinical outcomes.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02333-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02333-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02326-2",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "SlowFast classifies videos from 167 individuals across three splits. The abstract does not specify prospective recording or model completion before test-case accrual.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02326-2#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02326-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02319-1",
+    "study_design": {
+      "collection": null,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Breath samples are collected from 206 participants for fivefold cross-validation, but prospective recruitment chronology is not stated. Internal cross-validation is not prospective frozen-model validation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02319-1#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02319-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02212-x",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "CVTC is evaluated on ADNI, NACC, OASIS and other existing MRI datasets. Cross-validation and cross-dataset tests do not establish prospective patient validation.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02212-x#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02212-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02324-4",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "LLM workflows are optimized and evaluated on clinical-note datasets with expert label re-adjudication. This is not an allocated patient intervention; note-source accrual timing is not specified.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02324-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02324-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02304-8",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Agent evaluations use oncology QA benchmarks and clinical datasets followed by physician ratings. Plan-quality ratings are not treatment allocation, and prospective patient model-testing chronology is not specified.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02304-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02304-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02293-8",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "StyleGAN and YOLO use existing public still-image datasets. External image testing is not prospective live-colonoscopy validation or patient intervention randomization.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02293-8#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02293-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02316-4",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Gradient boosting predicts survival in four cohorts; neither random treatment allocation nor prospective model-before-accrual timing is established in the abstract.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02316-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02316-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02314-6",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "The polygenic/lifestyle analysis uses UK Biobank and hospital genetic cohorts. Lifestyle groups are observational, so the mortality association is not a randomized intervention effect.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02314-6#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02314-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02298-3",
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "xHAIM is evaluated on the existing HAIM-MIMIC-MM benchmark. Multimodal prediction and generated explanations do not establish prospective patient recruitment or a clinical intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02298-3#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02298-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02297-4",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Molecular cohorts support prognosis modeling with organoid and xenograft perturbation experiments. Laboratory interventions are not patient randomization; prospective patient accrual timing is not established.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02297-4#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02297-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02186-w",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Multi-omics characterization and enhancer experiments support a prognostic framework. Experimental molecular validation is not prospective clinical AI validation or a randomized patient intervention.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02186-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02186-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02305-7",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "Transcriptomic and plasma datasets support diagnostic models, including an independent 540-person cohort. Independence alone does not establish prospective frozen-model testing or randomized care.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02305-7#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02305-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02303-9",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "TCGA/CPTAC and multicenter data support immune-ratio models and survival associations. Registration and external prediction do not themselves establish prospective accrual or patient randomization.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02303-9#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02303-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02300-y",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": null
+    },
+    "design_note": "Three-hospital imaging/report datasets support model and cost comparisons. The abstract does not establish prospective collection, frozen-model chronology, or actual randomized reporting workflows.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02300-y#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02300-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02132-w",
+    "study_design": {
+      "collection": null,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    },
+    "design_note": "S-RACE curates hospital records for research and compares automated with manual curation. Infrastructure and model benchmarks do not establish randomized patient care or prospectively validated deployment.",
+    "source_evidence": {
+      "section": "Original publisher abstract",
+      "url": "https://www.nature.com/articles/s41746-025-02132-w#Abs1",
+      "verification": "abstract; manual interpretation"
+    },
+    "evidence_links": [
+      {
+        "label": "Design evidence: original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02132-w#Abs1"
+      }
+    ]
+  }
+]

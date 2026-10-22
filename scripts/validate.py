@@ -10,7 +10,7 @@ assert len(decisions)==coverage['recall_candidates']
 for p in papers:
  assert '2026-01-01'<=p['date']<='2026-10-23',p['id']
  assert p['journal']=='npj Digital Medicine' or p['journal']=='Nature' or p['journal'].startswith('Nature ')
- assert all(p.get(k) for k in ['title','doi','url','research_problem','ai_method','scope_reason']),p['id']
+ assert all(p.get(k) for k in ['title','doi','url','research_problem','ai_method','study_summary','limitations','scope_reason']),p['id']
  assert not re.search(r'[\u4e00-\u9fff]', ' '.join(str(p.get(k,'')) for k in ['research_problem','ai_method','study_summary','scope_reason'])),p['id']
  assert not set(p)&{'abstract','epmc_abstract','previous_review','data_availability','code_availability'}
  assert p['curation_level'] in ['curated','source_extracted']

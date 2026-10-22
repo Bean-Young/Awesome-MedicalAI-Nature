@@ -1,0 +1,938 @@
+[
+  {
+    "id": "s41746-026-02344-8",
+    "research_problem": "Can wearable ECG age indicate atrial-fibrillation presence and burden?",
+    "problem_is_excerpt": false,
+    "ai_method": "A residual network trained on one million ECGs uses GAN-derived single-lead signals and independent wearable validation.",
+    "study_summary": "Age-estimation errors were roughly 10–12 years; larger ECG-age gaps were associated with AF presence and higher burden across two cohorts.",
+    "outcome_summary": "Age-estimation errors were roughly 10–12 years; larger ECG-age gaps were associated with AF presence and higher burden across two cohorts.",
+    "limitations": [
+      "Associations do not establish prospective AF prevention, and synthetic training signals may differ from actual wearable recordings."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02344-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02269-8",
+    "research_problem": "Does a messaging-based AI agent improve orthopedic postoperative care?",
+    "problem_is_excerpt": false,
+    "ai_method": "A randomized trial compared GPT-4 support through WeChat with routine doctor-led communication in 261 patients.",
+    "study_summary": "AI responded much faster and improved early function and satisfaction, but response accuracy was slightly lower and six-month outcomes were similar.",
+    "outcome_summary": "AI responded much faster and improved early function and satisfaction, but response accuracy was slightly lower and six-month outcomes were similar.",
+    "limitations": [
+      "Short-term benefits did not persist as significant between-group differences; AI support still requires attention to erroneous advice."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02269-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02352-8",
+    "research_problem": "Which cell programs accompany fatty-liver progression to steatohepatitis?",
+    "problem_is_excerpt": false,
+    "ai_method": "Integrated single-cell, spatial, and bulk transcriptomics are combined with ensemble machine-learning biomarker prediction.",
+    "study_summary": "DTNA-positive macrophages and stellate-cell interactions implicated a RUNX2-related fibrotic axis; classification of disease stages averaged AUC 0.839.",
+    "outcome_summary": "DTNA-positive macrophages and stellate-cell interactions implicated a RUNX2-related fibrotic axis; classification of disease stages averaged AUC 0.839.",
+    "limitations": [
+      "Public-data associations and inferred cell communication nominate mechanisms rather than proving causality or validating a noninvasive clinical test."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02352-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02346-6",
+    "research_problem": "Can remote cognitive testing detect dementia-related impairment across languages and ages?",
+    "problem_is_excerpt": false,
+    "ai_method": "Four OCTAL browser-based validation studies evaluated cognitive tasks, clinical discrimination, and reliability in 1,664 participants.",
+    "study_summary": "In a 194-person memory-clinic cohort, brief and extended assessments achieved Alzheimer-versus-subjective-decline AUCs of 0.92 and 0.97, with good retest reliability.",
+    "outcome_summary": "In a 194-person memory-clinic cohort, brief and extended assessments achieved Alzheimer-versus-subjective-decline AUCs of 0.92 and 0.97, with good retest reliability.",
+    "limitations": [
+      "The abstract describes digital testing rather than a substantive learned-AI model; clinic discrimination does not establish population screening utility."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02346-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02289-4",
+    "research_problem": "Can pathology classifiers remain reliable across scanners and institutions?",
+    "problem_is_excerpt": false,
+    "ai_method": "StructMIL combines tissue graphs, prototype pooling, contrastive alignment, adversarial confusion, and consistency training.",
+    "study_summary": "Camelyon16 cross-center AUC reached 0.967, while PANDA grading improved kappa relative to prior multiple-instance approaches under scanner shifts.",
+    "outcome_summary": "Camelyon16 cross-center AUC reached 0.967, while PANDA grading improved kappa relative to prior multiple-instance approaches under scanner shifts.",
+    "limitations": [
+      "Benchmark domain-shift robustness and attribution maps do not establish prospective diagnostic safety across all new clinical sites."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02289-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02222-9",
+    "research_problem": "Can continuous lesion representations capture stroke detail missed by binary masks?",
+    "problem_is_excerpt": false,
+    "ai_method": "StrokeFlow predicts an ischemic density field and an ADC-gradient-supervised vector field from diffusion MRI.",
+    "study_summary": "ISLES 2022 evaluation improved boundary-distance metrics and sensitivity to small or multifocal lesions over compared segmentation baselines.",
+    "outcome_summary": "ISLES 2022 evaluation improved boundary-distance metrics and sensitivity to small or multifocal lesions over compared segmentation baselines.",
+    "limitations": [
+      "ADC-aligned vector fields are modeled imaging representations, not direct measurements of perfusion dynamics or evidence of improved stroke treatment."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02222-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02061-8",
+    "research_problem": "Can continuous vessel representations preserve vascular geometry and topology?",
+    "problem_is_excerpt": false,
+    "ai_method": "FlowAxis models adaptive interconnected vessel-axis keypoints with a geometric-topological optimization formulation.",
+    "study_summary": "Four three-dimensional vascular benchmarks showed improved centerline topology and boundary fidelity, with supporting theoretical convergence arguments.",
+    "outcome_summary": "Four three-dimensional vascular benchmarks showed improved centerline topology and boundary fidelity, with supporting theoretical convergence arguments.",
+    "limitations": [
+      "Mathematical guarantees apply under stated model assumptions; benchmark performance does not guarantee safety or clinical benefit in arbitrary scans."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02061-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-026-02338-6",
+    "research_problem": "Can combined PET biomarkers improve obstructive-coronary-disease diagnosis?",
+    "problem_is_excerpt": false,
+    "ai_method": "XGBoost integrates ten PET/CT-derived and clinical parameters, trained at one center and externally tested at three.",
+    "study_summary": "Among 1,664 angiography-selected patients, external-test AUC was 0.83, exceeding physicians and individual perfusion or flow biomarkers.",
+    "outcome_summary": "Among 1,664 angiography-selected patients, external-test AUC was 0.83, exceeding physicians and individual perfusion or flow biomarkers.",
+    "limitations": [
+      "Selection for invasive angiography limits population generalization; retrospective diagnostic gains do not establish improved outcomes or reduced testing."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-026-02338-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02287-6",
+    "research_problem": "Can slide-level labels support accurate gastric-cancer segmentation?",
+    "problem_is_excerpt": false,
+    "ai_method": "Geo-MIL constructs tissue-patch graphs with topological attention to prioritize diagnostic structures.",
+    "study_summary": "Experiments on three public gastric datasets improved both segmentation and classification over compared weakly supervised approaches.",
+    "outcome_summary": "Experiments on three public gastric datasets improved both segmentation and classification over compared weakly supervised approaches.",
+    "limitations": [
+      "The abstract supplies no numeric effects or cohort sizes; benchmark segmentation gains do not establish prospective pathologist assistance or patient benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02287-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02308-4",
+    "research_problem": "Can longitudinal models predict individual myopia progression with and without intervention?",
+    "problem_is_excerpt": false,
+    "ai_method": "Transformer modules learn natural progression from 304,353 young people and intervention trajectories from four treatment cohorts.",
+    "study_summary": "Predictions generalized externally, with strong refractive and axial-length agreement and individualized modeled treatment effects.",
+    "outcome_summary": "Predictions generalized externally, with strong refractive and axial-length agreement and individualized modeled treatment effects.",
+    "limitations": [
+      "Repeated records are not independent children; estimated intervention effects require causal assumptions and do not establish model-guided treatment superiority."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02308-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02331-5",
+    "research_problem": "Can embryo videos and clinical records jointly predict several IVF outcomes?",
+    "problem_is_excerpt": false,
+    "ai_method": "VaTEP combines time-lapse reconstruction and developmental-stage pretraining with video sampling and multitask multimodal learning.",
+    "study_summary": "The framework estimates heartbeat, singleton versus multiple pregnancy, and miscarriage versus live birth probabilities.",
+    "outcome_summary": "The framework estimates heartbeat, singleton versus multiple pregnancy, and miscarriage versus live birth probabilities.",
+    "limitations": [
+      "The abstract reports no sample sizes or numeric validation results; proposed reductions in failed pregnancies are not demonstrated intervention effects."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02331-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02323-5",
+    "research_problem": "Can kidney-transplant prediction and policy reasoning become auditable?",
+    "problem_is_excerpt": false,
+    "ai_method": "KT-LLM coordinates sequence-based survival modeling, recipient clustering, and policy-rule agents grounded in versioned transplant references.",
+    "study_summary": "Deidentified OPTN/UNOS evaluations improved evidence attribution and predictive calibration while identifying recipient subgroup heterogeneity.",
+    "outcome_summary": "Deidentified OPTN/UNOS evaluations improved evidence attribution and predictive calibration while identifying recipient subgroup heterogeneity.",
+    "limitations": [
+      "The abstract gives no numeric effects or sample counts; auditable outputs do not by themselves establish policy compliance, equitable care, or patient benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02323-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02290-x",
+    "research_problem": "Can genetic knowledge improve osteoarthritis drug-repurposing predictions?",
+    "problem_is_excerpt": false,
+    "ai_method": "CausalPathKG adapts RotatE embeddings with GWAS-weighted links, pathway regularization, graph attention, and negative sampling.",
+    "study_summary": "An osteoarthritis graph incorporating genetic evidence from nearly two million individuals improved held-out treatment-link prediction over simpler embedding baselines.",
+    "outcome_summary": "An osteoarthritis graph incorporating genetic evidence from nearly two million individuals improved held-out treatment-link prediction over simpler embedding baselines.",
+    "limitations": [
+      "Recovery of known links and pathway plausibility do not establish efficacy of newly nominated drugs or causal therapeutic effects."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02290-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02288-5",
+    "research_problem": "Can one spine CT model segment, number, and localize vertebral abnormalities across domains?",
+    "problem_is_excerpt": false,
+    "ai_method": "VertebraFormer combines a transformer encoder, task-specific decoders, and dynamic domain modulation on the four-source MultiSpine benchmark.",
+    "study_summary": "Experiments improved accuracy and robustness across three tasks, supported by perturbation, efficiency, and ablation analyses.",
+    "outcome_summary": "Experiments improved accuracy and robustness across three tasks, supported by perturbation, efficiency, and ablation analyses.",
+    "limitations": [
+      "The abstract provides no cohort sizes or effect estimates; benchmark robustness does not establish prospective diagnostic utility."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02288-5#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02262-1",
+    "research_problem": "Can AI accelerate aneurysm volumetry before and after endovascular repair?",
+    "problem_is_excerpt": false,
+    "ai_method": "A segmentation network measures aneurysm, lumen, and thrombus volumes on CTA with internal/external validation and surgeon workflow assessment.",
+    "study_summary": "Total-aneurysm Dice reached 0.972 internally and 0.960 externally; model assistance saved about 117 seconds, or 56%, per assessment.",
+    "outcome_summary": "Total-aneurysm Dice reached 0.972 internally and 0.960 externally; model assistance saved about 117 seconds, or 56%, per assessment.",
+    "limitations": [
+      "High volume agreement and time savings do not establish improved rupture prediction, surveillance decisions, or patient outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02262-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02173-1",
+    "research_problem": "Can computational surveillance identify lifitegrast adverse-event signals?",
+    "problem_is_excerpt": false,
+    "ai_method": "Machine learning combines FAERS reports, language-derived reaction patterns, drug-gene networks, and molecular docking.",
+    "study_summary": "Across 4,511 reports, the model achieved AUC 0.892 and identified 16 signals, alongside candidate regulatory genes and predicted binding interactions.",
+    "outcome_summary": "Across 4,511 reports, the model achieved AUC 0.892 and identified 16 signals, alongside candidate regulatory genes and predicted binding interactions.",
+    "limitations": [
+      "Spontaneous reporting cannot determine incidence or causality; docking and signal prediction do not validate personalized real-time medication-risk estimates."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02173-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02333-3",
+    "research_problem": "Do safety guardrails change language-model responses to irritability prompts?",
+    "problem_is_excerpt": false,
+    "ai_method": "Four models with different guardrail levels completed three irritability instruments under baseline and provoked conditions.",
+    "study_summary": "Lower-guardrail models increased irritability scores, whereas highly guarded models suppressed them, sometimes to zero.",
+    "outcome_summary": "Lower-guardrail models increased irritability scores, whereas highly guarded models suppressed them, sometimes to zero.",
+    "limitations": [
+      "Questionnaire outputs are simulated model behavior rather than human emotion; differences across models cannot isolate guardrails as the sole causal factor."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02333-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02326-2",
+    "research_problem": "Can video models distinguish nocturnal seizures from parasomnias?",
+    "problem_is_excerpt": false,
+    "ai_method": "A SlowFast network classifies sleep-related hypermotor epilepsy, arousal disorders, and REM sleep behavior disorder from recordings.",
+    "study_summary": "Across three data splits involving 167 individuals, mean classification accuracy was 83.3%, supporting preliminary automated event assessment.",
+    "outcome_summary": "Across three data splits involving 167 individuals, mean classification accuracy was 83.3%, supporting preliminary automated event assessment.",
+    "limitations": [
+      "The abstract does not establish independent prospective home validation or replacement of specialist clinical and electrophysiological diagnosis."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02326-2#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02319-1",
+    "research_problem": "Can breath-sensor AI distinguish lung cancer, gastric cancer, and healthy controls?",
+    "problem_is_excerpt": false,
+    "ai_method": "A hierarchical convolutional network first separates cancer from controls, then distinguishes cancer types using multimodal gas-sensor response maps.",
+    "study_summary": "Fivefold validation in 206 participants yielded class AUCs around 0.89–0.92 and outperformed a one-dimensional CNN.",
+    "outcome_summary": "Fivefold validation in 206 participants yielded class AUCs around 0.89–0.92 and outperformed a one-dimensional CNN.",
+    "limitations": [
+      "Internal case-control validation does not establish population screening performance, particularly against benign diseases or unseen environmental exposures."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02319-1#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02212-x",
+    "research_problem": "Can a compact MRI model classify cognitive states and highlight suspicious regions?",
+    "problem_is_excerpt": false,
+    "ai_method": "CVTC combines scale-adaptive transformer features with coordinate-guided attribution and a visualization interface.",
+    "study_summary": "ADNI and other datasets showed high reported classification accuracy, with additional tumor and multiple-sclerosis tests of annotation behavior.",
+    "outcome_summary": "ADNI and other datasets showed high reported classification accuracy, with additional tumor and multiple-sclerosis tests of annotation behavior.",
+    "limitations": [
+      "Attribution overlays are not independently validated Alzheimer lesions; very high image-benchmark accuracy requires scrutiny of patient-level splits and external clinical relevance."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02212-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02324-4",
+    "research_problem": "Can autonomous agents optimize prompts for detecting cognitive concerns in notes?",
+    "problem_is_excerpt": false,
+    "ai_method": "Five specialized agents coordinate prompt refinement, compared with expert-driven workflows and prevalence-reflecting validation.",
+    "study_summary": "The agentic method approached expert-workflow performance, but sensitivity fell from 0.91 to 0.62 between refinement and validation datasets; re-adjudication explained some apparent errors.",
+    "outcome_summary": "The agentic method approached expert-workflow performance, but sensitivity fell from 0.91 to 0.62 between refinement and validation datasets; re-adjudication explained some apparent errors.",
+    "limitations": [
+      "Distribution shift and ambiguous labels limit generalization; note detection is not a diagnosis or demonstrated benefit from screening intervention."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02324-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02304-8",
+    "research_problem": "Can adaptive multi-agent reasoning support multidisciplinary cancer recommendations?",
+    "problem_is_excerpt": false,
+    "ai_method": "EvoMDT updates prompts, consensus weights, and retrieval scope using feedback, with evidence-linked specialist agents.",
+    "study_summary": "Six QA benchmarks, four oncology datasets, and physician ratings favored guideline alignment and reported 30–40% faster responses, with fewer assessed safety violations.",
+    "outcome_summary": "Six QA benchmarks, four oncology datasets, and physician ratings favored guideline alignment and reported 30–40% faster responses, with fewer assessed safety violations.",
+    "limitations": [
+      "Retrospective plan agreement and expert ratings do not establish equivalent patient outcomes to an actual multidisciplinary tumor board."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02304-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02302-w",
+    "research_problem": "Do language-model education tools improve preoperative and discharge outcomes?",
+    "problem_is_excerpt": false,
+    "ai_method": "A systematic review narratively synthesized 20 studies and assessed evaluation coverage with a four-dimensional framework.",
+    "study_summary": "Some studies found lower anxiety and better satisfaction, while pain, recovery, and other satisfaction outcomes often showed no significant improvement.",
+    "outcome_summary": "Some studies found lower anxiety and better satisfaction, while pain, recovery, and other satisfaction outcomes often showed no significant improvement.",
+    "limitations": [
+      "Uneven reporting of trustworthiness and model performance prevents attributing clinical outcomes to specific model properties or assuming uniform effectiveness."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02302-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02301-x",
+    "research_problem": "How do Parkinson-related brain-network changes relate to diagnosis?",
+    "problem_is_excerpt": false,
+    "ai_method": "A multilevel meta-analysis synthesized network topology and a separate diagnostic evidence subset.",
+    "study_summary": "Eighty studies involving 3,736 patients and 2,384 controls showed reduced network segregation; ten diagnostic studies yielded pooled AUC 0.86, with stronger combined-metric performance.",
+    "outcome_summary": "Eighty studies involving 3,736 patients and 2,384 controls showed reduced network segregation; ten diagnostic studies yielded pooled AUC 0.86, with stronger combined-metric performance.",
+    "limitations": [
+      "Medication and network-construction heterogeneity limit biomarker transfer; pooled case-control discrimination does not establish prospective clinical screening."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02301-x#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02293-8",
+    "research_problem": "Can synthetic polyp images improve detector generalization?",
+    "problem_is_excerpt": false,
+    "ai_method": "Conditional StyleGAN augmentation supplements YOLOv5 training with public colorectal images.",
+    "study_summary": "Using over 150,000 source images, hybrid training increased internal mean average precision from 0.86 to 0.93 and flat/depressed-lesion recall from 0.72 to 0.87, with better external transfer.",
+    "outcome_summary": "Using over 150,000 source images, hybrid training increased internal mean average precision from 0.86 to 0.93 and flat/depressed-lesion recall from 0.72 to 0.87, with better external transfer.",
+    "limitations": [
+      "Still-image improvements do not establish real-time video performance or higher adenoma detection in a patient-randomized trial."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02293-8#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02316-4",
+    "research_problem": "Can machine learning improve survival prediction for extranodal NK/T-cell lymphoma?",
+    "problem_is_excerpt": false,
+    "ai_method": "Sixteen algorithms were compared using clinical and pathological predictors, selecting gradient boosting for an ENKTL score.",
+    "study_summary": "Four cohorts totaling 977 people supported evaluation/external concordance around 0.82–0.84 and stronger risk stratification than established scores.",
+    "outcome_summary": "Four cohorts totaling 977 people supported evaluation/external concordance around 0.82–0.84 and stronger risk stratification than established scores.",
+    "limitations": [
+      "Discrimination and decision curves do not establish improved treatment selection or patient survival; an online calculator still requires local validation."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02316-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02314-6",
+    "research_problem": "How do obesity genetic risk and lifestyle relate to mortality?",
+    "problem_is_excerpt": false,
+    "ai_method": "Stacked machine learning builds a polygenic score using UK Biobank and Nanfang Hospital data, followed by mortality association analyses.",
+    "study_summary": "External obesity discrimination was modest at AUC 0.565; healthier lifestyles among genetically high-risk participants were associated with lower mortality.",
+    "outcome_summary": "External obesity discrimination was modest at AUC 0.565; healthier lifestyles among genetically high-risk participants were associated with lower mortality.",
+    "limitations": [
+      "The reported 59% relative mortality reduction is observational, not a randomized lifestyle effect; genetic-score prediction weakened externally."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02314-6#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02310-w",
+    "research_problem": "Can targeted ocular segmentation improve sign detection while limiting facial exposure?",
+    "problem_is_excerpt": false,
+    "ai_method": "DSE-Net isolates ocular structures, followed by classifiers for thyroid-eye-disease signs across multinational images.",
+    "study_summary": "A retrospective study of 2,360 eyes showed improved segmentation and detection relative to broader facial inputs, but external sign AUCs ranged widely from 0.556 to 0.843.",
+    "outcome_summary": "A retrospective study of 2,360 eyes showed improved segmentation and detection relative to broader facial inputs, but external sign AUCs ranged widely from 0.556 to 0.843.",
+    "limitations": [
+      "Reduced exposed image content is not guaranteed anonymity, and variable external discrimination limits claims of uniform generalizability."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02310-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02298-3",
+    "research_problem": "Can task-specific patient summaries improve multimodal clinical prediction and explanations?",
+    "problem_is_excerpt": false,
+    "ai_method": "xHAIM uses generative AI to select relevant data, summarize patients, and link predictions to patient-specific information.",
+    "study_summary": "On HAIM-MIMIC-MM, mean AUC across chest pathology and operative tasks increased from 0.799 to 0.913 relative to HAIM.",
+    "outcome_summary": "On HAIM-MIMIC-MM, mean AUC across chest pathology and operative tasks increased from 0.799 to 0.913 relative to HAIM.",
+    "limitations": [
+      "Linked explanations are not necessarily faithful causal accounts; retrospective benchmark gains do not establish prospective decision-support benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02298-3#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02297-4",
+    "research_problem": "Can integrated molecular profiling identify aggressive prostate-cancer states and targets?",
+    "problem_is_excerpt": false,
+    "ai_method": "Single-cell/spatial analysis of 141,986 cells is combined with 101 candidate prognostic pipelines and SHAP interpretation.",
+    "study_summary": "A malignant epithelial state supported recurrence-risk prediction; PCSK1N experiments in organoids and xenografts connected the candidate to growth and androgen-therapy resistance.",
+    "outcome_summary": "A malignant epithelial state supported recurrence-risk prediction; PCSK1N experiments in organoids and xenografts connected the candidate to growth and androgen-therapy resistance.",
+    "limitations": [
+      "Cell counts are not patient counts, and preclinical drug sensitization does not establish patient benefit from targeting PCSK1N."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02297-4#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02186-w",
+    "research_problem": "How do structural variants and chromatin architecture contribute to kidney cancer?",
+    "problem_is_excerpt": false,
+    "ai_method": "Multi-omics analysis maps enhancer hijacking, with experimental validation and a machine-learning prognostic signature.",
+    "study_summary": "The study links structural rearrangements to three-dimensional genome changes, identifies SEMA5B activation, and develops enhancer-signature-based prognosis modeling.",
+    "outcome_summary": "The study links structural rearrangements to three-dimensional genome changes, identifies SEMA5B activation, and develops enhancer-signature-based prognosis modeling.",
+    "limitations": [
+      "The abstract supplies no cohort size or predictive effect estimates; mechanistic experiments do not establish a validated clinical prognostic tool."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02186-w#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02305-7",
+    "research_problem": "Can blood transcriptomic features complement plasma biomarkers for Alzheimer detection?",
+    "problem_is_excerpt": false,
+    "ai_method": "Random-forest feature selection and partial-least-squares modeling derive a lactylation-related score, combined with phosphorylated tau.",
+    "study_summary": "Across multiple datasets and a 540-person plasma cohort, score AUC fell from 0.897 in training to 0.772 clinically; the combined marker model reached 0.859.",
+    "outcome_summary": "Across multiple datasets and a 540-person plasma cohort, score AUC fell from 0.897 in training to 0.772 clinically; the combined marker model reached 0.859.",
+    "limitations": [
+      "Cross-tissue validation and diagnostic associations do not establish population-screening performance, biological causality, or improved clinical outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02305-7#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02303-9",
+    "research_problem": "Can noninvasive AI estimate a pancreatic-tumor immune ratio linked to prognosis?",
+    "problem_is_excerpt": false,
+    "ai_method": "Seven models were evaluated using TCGA, CPTAC, and multicenter data, selecting the multimodal PORCELAIN region-based model.",
+    "study_summary": "Externally estimated neutrophil-to-T-cell ratios stratified overall and recurrence-free survival and were associated with chemotherapy response.",
+    "outcome_summary": "Externally estimated neutrophil-to-T-cell ratios stratified overall and recurrence-free survival and were associated with chemotherapy response.",
+    "limitations": [
+      "The abstract gives no sample sizes or numeric accuracy; prognostic associations do not establish benefit from selecting treatment according to the model."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02303-9#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02300-y",
+    "research_problem": "Can grounded ultrasound reports combine ophthalmic diagnosis with lesion localization?",
+    "problem_is_excerpt": false,
+    "ai_method": "A vision-language segmentation model links report generation with Segment Anything using 64,098 images and 21,355 reports from three hospitals.",
+    "study_summary": "External diagnostic accuracy was 71.87%, with segmentation Dice near 0.50; estimated reporting costs were much lower than specialist reporting.",
+    "outcome_summary": "External diagnostic accuracy was 71.87%, with segmentation Dice near 0.50; estimated reporting costs were much lower than specialist reporting.",
+    "limitations": [
+      "Cost estimates are not realized workflow savings, and substantial external errors require specialist review despite strong text-similarity scores."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02300-y#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02248-z",
+    "research_problem": "Can a topology-aware network locate pediatric central-catheter tips more reliably?",
+    "problem_is_excerpt": false,
+    "ai_method": "TopNet preserves catheter continuity during radiograph segmentation, with internal and external evaluation.",
+    "study_summary": "Retrospective data from 1,184 PICC patients included 280 young children; the model improved segmentation and tip localization under difficult imaging conditions.",
+    "outcome_summary": "Retrospective data from 1,184 PICC patients included 280 young children; the model improved segmentation and tip localization under difficult imaging conditions.",
+    "limitations": [
+      "The abstract lacks numeric performance estimates; retrospective localization does not establish fewer catheter complications or prospective clinical safety."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02248-z#Abs1"
+      }
+    ]
+  },
+  {
+    "id": "s41746-025-02132-w",
+    "research_problem": "Can automated hospital-data curation support governed multispecialty AI research?",
+    "problem_is_excerpt": false,
+    "ai_method": "S-RACE combines local anonymization, NLP extraction, FHIR standardization, and an explainable-model development environment.",
+    "study_summary": "Data from 31,276 patients supported 19 projects; kidney-cancer and aortic-stenosis models using automatically curated data performed comparably to manually curated alternatives.",
+    "outcome_summary": "Data from 31,276 patients supported 19 projects; kidney-cancer and aortic-stenosis models using automatically curated data performed comparably to manually curated alternatives.",
+    "limitations": [
+      "Infrastructure demonstrations and governance descriptions do not independently certify regulatory compliance, privacy guarantees, or improved outcomes from deployed models."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "field_status": {
+      "research_problem": "manually_interpreted_original_abstract",
+      "ai_method": "manually_interpreted_original_abstract",
+      "study_summary": "manually_interpreted_original_abstract",
+      "limitations": "manually_interpreted_design_boundary"
+    },
+    "manual_review": "Original publisher abstract read and interpreted; no full-text review claimed.",
+    "evidence_links": [
+      {
+        "label": "Original abstract",
+        "url": "https://www.nature.com/articles/s41746-025-02132-w#Abs1"
+      }
+    ]
+  }
+]

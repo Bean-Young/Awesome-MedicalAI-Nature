@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "s41746-026-02550-4",
+    "research_problem": "Can gaze patterns during emotional reading distinguish self-reported depression and suicidal ideation?",
+    "problem_is_excerpt": false,
+    "ai_method": "Deep learning combines within-trial and between-trial eye-movement variation.",
+    "study_summary": "In 126 young adults, discrimination is stronger against healthy controls than between depression and suicidality; the latter AUC is only 0.609.",
+    "limitations": [
+      "Labels reflect screening questionnaires rather than independently established clinical diagnoses; these results do not validate suicide-risk prediction."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02565-x",
+    "research_problem": "Can changing physiological patterns predict which ICU sepsis patients will deteriorate?",
+    "problem_is_excerpt": false,
+    "ai_method": "Latent trajectory discovery feeds an ensemble using dynamic physiological variability.",
+    "study_summary": "Across 47,936 patients, three recovery trajectories emerge; external AUROC falls from 0.84 in MIMIC-III to 0.77 in eICU. Implementation is associated with better reported care outcomes.",
+    "limitations": [
+      "Retrospective prediction and implementation associations do not alone establish that the model caused mortality reductions."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02540-6",
+    "research_problem": "Can automated DXA spine measurements reveal genetic associations missed by diagnosis codes?",
+    "problem_is_excerpt": false,
+    "ai_method": "Deep vertebral segmentation and landmark detection generate a quantitative curvature phenotype for GWAS.",
+    "study_summary": "Analysis of 57,588 UK Biobank participants identifies two novel scoliosis loci; proxy curvature correlates 0.83 with Cobb angles in 150 people.",
+    "limitations": [
+      "The measurement is a scoliosis proxy; the discovery population is European and loci require functional follow-up."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02566-w",
+    "research_problem": "Do chatbot interventions improve depression and anxiety symptoms?",
+    "problem_is_excerpt": false,
+    "ai_method": "Random-effects synthesis of randomized chatbot trials evaluates symptom effects and severity subgroups.",
+    "study_summary": "Thirty-nine eligible studies show modest pooled effects: Hedges’ g is 0.31 for depression and 0.28 for anxiety. Greater depressive severity is associated with larger effects.",
+    "limitations": [
+      "Depression and anxiety analyses use overlapping study sets; their participant totals must not be added or treated as one newly conducted trial."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02559-9",
+    "research_problem": "Can psychiatric dialogue systems combine structured diagnosis with empathetic communication?",
+    "problem_is_excerpt": false,
+    "ai_method": "WiseMind coordinates reasoning and emotional-support LLM agents through a DSM-5 knowledge graph.",
+    "study_summary": "Across 1,206 simulated conversations and 180 real-user sessions, reported top-1 diagnostic accuracy is 85.6%, with psychiatrist review supporting response quality.",
+    "limitations": [
+      "Simulation and user-session accuracy do not establish safe autonomous psychiatric diagnosis or improved patient outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02568-8",
+    "research_problem": "Can DeepSeek produce useful radiology-residency examination questions?",
+    "problem_is_excerpt": false,
+    "ai_method": "LLM-generated and expert-written multiple-choice questions are blinded and mixed for resident evaluation.",
+    "study_summary": "Forty residents answer fourteen questions from each source. Overall correctness is similar, but generated clinical-scenario and higher-order items have weaknesses.",
+    "limitations": [
+      "This is a small educational question experiment, not an assessment of clinical diagnostic performance or patient care."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02560-2",
+    "research_problem": "Can text-conditioned synthetic ophthalmic images improve rare-disease classifiers?",
+    "problem_is_excerpt": false,
+    "ai_method": "EyeDiff generates lesion-preserving images to augment minority classes for several foundation-model families.",
+    "study_summary": "Expert evaluation supports image fidelity, and augmentation across eleven datasets improves diagnosis benchmarks for common and rare retinal diseases.",
+    "limitations": [
+      "Benchmark gains from synthetic augmentation do not establish performance under prospective clinical acquisition or exclude synthetic-data artifacts."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02564-y",
+    "research_problem": "Can uncertainty-aware pathology AI reduce missed lymph-node metastases while limiting review workload?",
+    "problem_is_excerpt": false,
+    "ai_method": "UPATHLN combines a pathology foundation encoder with a separate uncertainty estimator that routes uncertain negatives to pathologists.",
+    "study_summary": "Development uses 26,229 nodes from fourteen primary sites. The review-routed workflow reports conditional sensitivity of 100% and reduces negative-node review by 73.2%.",
+    "limitations": [
+      "The perfect sensitivity applies to the conditional AI-plus-review workflow in evaluated cohorts, not an autonomous guarantee across all patients."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02558-w",
+    "research_problem": "Can digital twins optimize aminoglycoside exposure while accounting for neonatal physiology and evolving resistance?",
+    "problem_is_excerpt": false,
+    "ai_method": "An LSTM updates renal filtration within coupled physiological pharmacokinetic and evolutionary pharmacodynamic models; optimal and predictive control select dosing.",
+    "study_summary": "Calibration uses 1,634 neonates. Simulations achieve bacteriostatic exposure, with model-predictive control reducing late bacterial rebound.",
+    "limitations": [
+      "In-silico dosing success and modeled safety are not randomized evidence that the regimen improves neonatal clinical outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02556-y",
+    "research_problem": "Does computerized CTG assistance improve clinicians’ interpretation of intrapartum recordings?",
+    "problem_is_excerpt": false,
+    "ai_method": "A randomized multi-reader experiment compares clinician predictions with and without computerized CTG support.",
+    "study_summary": "Among 211 clinicians from 23 countries assessing 100 recordings, assistance improves success from 54.0% to 61.4% and sensitivity from 49.3% to 61.7%.",
+    "limitations": [
+      "Clinicians are randomized to interpretation conditions; this is a reader experiment, not a patient-treatment RCT."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "patient_rct": false,
+      "reader": true
+    }
+  },
+  {
+    "id": "s41746-026-02552-2",
+    "research_problem": "How should medical-device regulation adapt to generative AI and language models?",
+    "problem_is_excerpt": false,
+    "ai_method": "Regulatory perspective examines GenAI device risks and limitations of existing oversight frameworks.",
+    "study_summary": "The authors advocate internationally coordinated regulatory-science research incorporating multidisciplinary expertise and diverse populations.",
+    "limitations": [
+      "This is a policy argument with no new model benchmark, clinical cohort or intervention-effect estimate."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02548-y",
+    "research_problem": "Can one image-domain neural denoiser generalize across accelerated MRI organs, vendors and protocols?",
+    "problem_is_excerpt": false,
+    "ai_method": "A unified deep denoising model is trained on paired noisy and clean reconstructed MR images.",
+    "study_summary": "Training uses 148,930 pairs from six centers and four vendors; evaluation includes 20,143 test pairs, 46,870 external images and blinded radiologist assessment.",
+    "limitations": [
+      "Prospective source-image collection, external benchmarking and reader evaluation are separate design elements; image counts do not equal patient counts."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02545-1",
+    "research_problem": "Does collaborative workflow order change the diagnostic value of clinician–LLM collaboration?",
+    "problem_is_excerpt": false,
+    "ai_method": "A custom system combines independent human and AI assessments, testing AI-first versus AI-second synthesis.",
+    "study_summary": "Seventy clinicians are randomized; collaborative accuracy is 85% or 82%, compared with 75% using conventional resources and 90% for AI alone.",
+    "limitations": [
+      "The randomized units are clinicians doing diagnostic assessments, not patients receiving AI-directed treatment."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "patient_rct": false,
+      "reader": true
+    }
+  },
+  {
+    "id": "s41746-026-02510-y",
+    "research_problem": "Can smartphone videos support functional assessment and patient communication for childhood ptosis?",
+    "problem_is_excerpt": false,
+    "ai_method": "The platform combines morphological measurement, blink-function analysis and a domain-adapted dialogue model.",
+    "study_summary": "Evaluation uses 3,164 blink clips and 1,229 images; functional assessment reports AUC 0.993 and real-world stratification accuracy of 0.89.",
+    "limitations": [
+      "Videos, images and people are different denominators; high measurement accuracy does not by itself establish improved surgical or visual outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02547-z",
+    "research_problem": "Do correct and misleading AI explanations affect novice learners symmetrically?",
+    "problem_is_excerpt": false,
+    "ai_method": "A randomized educational experiment compares diagnostic reasoning under AI misinformation, correct explanations and a control.",
+    "study_summary": "Among 111 students, misleading explanations lower diagnostic accuracy, whereas correct explanations show no significant benefit over the control.",
+    "limitations": [
+      "This measures learner decisions and confidence in a specified task; it is not a patient randomized clinical trial."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "patient_rct": false,
+      "reader": true
+    }
+  },
+  {
+    "id": "s41746-026-02538-0",
+    "research_problem": "What enables biomedical AI to deliver precision cardiovascular care beyond model accuracy?",
+    "problem_is_excerpt": false,
+    "ai_method": "A perspective synthesizes multimodal AI applications across EHR, imaging, omics and wearable data.",
+    "study_summary": "The argument identifies evidence gaps, implementation burdens and fragmented governance as barriers to lasting clinical benefit.",
+    "limitations": [
+      "This overview does not contribute a single new model cohort or quantify a causal cardiovascular-outcome improvement."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02389-9",
+    "research_problem": "Can low-dose biplanar radiographs replace CT for rapid patient-specific bone modeling?",
+    "problem_is_excerpt": false,
+    "ai_method": "SSR-KD combines semi-supervised reconstruction with knowledge distillation to generate 3D bone geometry.",
+    "study_summary": "The reported reconstruction time is thirty seconds with average error below one millimeter; expert osteotomy simulations show applicability comparable to CT-derived annotations.",
+    "limitations": [
+      "Simulation of surgical planning does not establish equivalent intraoperative safety or patient outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02524-6",
+    "research_problem": "Can longitudinal retinal pretraining improve future systemic and ocular disease-risk prediction?",
+    "problem_is_excerpt": false,
+    "ai_method": "RETFound Plus models time and person identity across repeated fundus photographs.",
+    "study_summary": "Pretraining uses 1,304,292 photographs from 304,345 participants. External multi-region evaluation shows improved calibration and larger risk-prediction gains for systemic than ocular outcomes.",
+    "limitations": [
+      "Photographs from repeated visits are correlated observations; prognostic improvements do not show that screening changes clinical outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02522-8",
+    "research_problem": "Can a two-stage mortality warning system reduce false alarms in emergency care?",
+    "problem_is_excerpt": false,
+    "ai_method": "AI-TEW combines machine-learning mortality prediction, risk-tier thresholds and LLM interpretation of SHAP-derived risk factors.",
+    "study_summary": "Across 174,292 ED visits, tiering raises positive predictive value to 32.5–40.5%; an LLM filtering layer further improves external alert precision.",
+    "limitations": [
+      "Threshold optimization trades sensitivity and workload against precision; retrospective alert performance does not establish a patient survival benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02517-5",
+    "research_problem": "How mature is clinical evidence for agentic AI?",
+    "problem_is_excerpt": false,
+    "ai_method": "A scoping review characterizes autonomous, goal-directed and multi-agent healthcare systems.",
+    "study_summary": "Seven eligible studies cover emergency care, oncology, radiology and rehabilitation, but only one trial involves patients.",
+    "limitations": [
+      "Exploratory technical success across a few studies cannot establish routine clinical effectiveness or a stable definition of agentic AI."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02487-8",
+    "research_problem": "Can hospitals collaboratively learn fetal CHD diagnosis despite differences in ultrasound data?",
+    "problem_is_excerpt": false,
+    "ai_method": "Federated prototypes align clinical-concept and disease-subtype representations across sites without sharing source patient data.",
+    "study_summary": "Experiments at four tertiary hospitals improve F1, sensitivity and specificity relative to competing federated methods.",
+    "limitations": [
+      "Cross-hospital benchmark improvement does not establish first-trimester clinical-outcome benefit; federation does not itself eliminate all privacy risks."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02381-3",
+    "research_problem": "Can fetal cardiac function be quantified automatically from echocardiograms?",
+    "problem_is_excerpt": false,
+    "ai_method": "Deep detection and segmentation feed quality checks, geometric measurements and gestational-age reference scores.",
+    "study_summary": "Development uses 52,942 annotated images from 1,940 normal echocardiograms; separate normal and abnormal test datasets support reproducibility against experts.",
+    "limitations": [
+      "Images and echocardiograms are different units; normal-dominated development may limit generalization to abnormal anatomy."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02475-y",
+    "research_problem": "Can unlabeled cardiac MRI improve anatomical segmentation when expert labels are scarce?",
+    "problem_is_excerpt": false,
+    "ai_method": "A semi-supervised mutual ensemble enforces consistency across both data transformations and network predictions.",
+    "study_summary": "Comparative experiments show better segmentation than existing methods under matched annotation conditions.",
+    "limitations": [
+      "The reported task is anatomical segmentation; the abstract does not quantify a new patient cohort or demonstrate treatment-outcome improvement."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02464-1",
+    "research_problem": "Can generative digital twins explore transportability of randomized-trial treatment effects?",
+    "problem_is_excerpt": false,
+    "ai_method": "RCT-Twin-GAN conditions generated trial populations on covariate distributions from another trial or an EHR population.",
+    "study_summary": "SPRINT and ACCORD twin populations reproduce contrasting trial patterns while balancing treatment arms and matching target covariates.",
+    "limitations": [
+      "Synthetic treatment-effect transport depends on modeled covariate–outcome relationships; generated twins are not newly randomized patients."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02457-0",
+    "research_problem": "Which stromal pathways connect chromosomal instability with colorectal liver metastasis?",
+    "problem_is_excerpt": false,
+    "ai_method": "Single-cell profiles, coexpression networks, matrix factorization and an AI biological knowledge graph prioritize CIN-related signaling.",
+    "study_summary": "CCDC3 is linked to a CXCR3–STAT3–CDT1 pathway; cell and mouse perturbation experiments suppress metastatic traits when the axis is disrupted.",
+    "limitations": [
+      "The work combines computational prioritization with mechanistic biology; mouse and cell effects do not establish human therapeutic efficacy."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02501-z",
+    "research_problem": "What pricing arrangements make diagnostic AI understandable and budgetable for healthcare buyers?",
+    "problem_is_excerpt": false,
+    "ai_method": "Semi-structured stakeholder interviews are analyzed using deductive and inductive thematic coding.",
+    "study_summary": "Seventeen decision makers favor transparent hybrid fees, clinical billing units and support costs over opaque usage-based charges.",
+    "limitations": [
+      "These qualitative preferences concern AI adoption economics; they are not a model-performance benchmark or a measured procurement-effect estimate."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02449-0",
+    "research_problem": "Can dynamic 3D CMR representations improve long-term prognosis after myocardial infarction?",
+    "problem_is_excerpt": false,
+    "ai_method": "ReconSeg3D reconstructs ventricular motion; HeartTTable uses spatiotemporal decomposition and cross-attention to combine images with 45 tabular variables.",
+    "study_summary": "The reported five-year MACE AUC is 0.934 and C-index is 0.897, exceeding tabular-only comparators.",
+    "limitations": [
+      "Risk discrimination in evaluated patients does not establish that acting on these predictions improves postoperative outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02401-2",
+    "research_problem": "How do AI systems and clinicians compare when analyzing surgical or interventional video?",
+    "problem_is_excerpt": false,
+    "ai_method": "A systematic review and exploratory meta-analysis compare autonomous AI, unassisted clinicians and AI-assisted clinicians.",
+    "study_summary": "Of 146 included studies, 76 enter quantitative synthesis; assisted clinicians improve sensitivity and specificity over unassisted clinicians.",
+    "limitations": [
+      "Studies directly evaluating assistance are fewer than head-to-head benchmarks; pooled comparisons do not establish universal superiority in live procedures."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02511-x",
+    "research_problem": "Can serial MRI AI detect silent new infarctions that indicate future stroke risk?",
+    "problem_is_excerpt": false,
+    "ai_method": "A convolutional network with supervised contrastive learning compares paired FLAIR slices.",
+    "study_summary": "Development uses 25,451 paired slices from 1,055 patients. An independent 307-person cohort links model-positive silent infarcts to higher subsequent stroke risk.",
+    "limitations": [
+      "The prognostic association is observational; slice counts are not participant counts and detection does not prove prevention benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02496-7",
+    "research_problem": "Does volumetric context improve retinal foundation-model diagnosis over single OCT slices?",
+    "problem_is_excerpt": false,
+    "ai_method": "A video transformer, V-JEPA, is fine-tuned on OCT volumes and compared with retinal and natural-image foundation models.",
+    "study_summary": "Across five datasets, average AUROC is 0.94 versus 0.90 for the strongest image-only comparator.",
+    "limitations": [
+      "The evaluated diagnoses and dataset mix constrain generalization; this comparison does not establish prospective clinical superiority."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02489-6",
+    "research_problem": "Can ultrasound AI distinguish follicular thyroid carcinoma from adenoma before surgery?",
+    "problem_is_excerpt": false,
+    "ai_method": "Deep image classification also separates carcinoma invasion subtypes and supports radiologist interpretation.",
+    "study_summary": "The retrospective multicenter study includes 1,531 development patients and 900 external-test patients; external discrimination AUC ranges from 0.816 to 0.847.",
+    "limitations": [
+      "External retrospective testing and reader assistance are not patient randomization or evidence that AI-guided management reduces unnecessary surgery."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02471-2",
+    "research_problem": "Why does validation terminology cause disagreement across medical-AI disciplines?",
+    "problem_is_excerpt": false,
+    "ai_method": "A conceptual analysis compares 94 themes across communication, AI/ML, clinical practice, regulation and business.",
+    "study_summary": "The authors develop five consensus proposals for qualifying validation terms with their specific purpose and context.",
+    "limitations": [
+      "This is terminology and governance work; the theme counts are analytical categories, not model-validation cohorts."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02460-5",
+    "research_problem": "Is primary-care autonomous retinopathy screening associated with downstream specialist attendance?",
+    "problem_is_excerpt": false,
+    "ai_method": "Propensity matching and inverse-probability-weighted regression compare AI-triggered and clinician-triggered referrals.",
+    "study_summary": "Among 3,745 adults with diabetes, AI-assisted screening is associated with improved specialist presentation for African-American patients.",
+    "limitations": [
+      "The exploratory observational association may reflect residual confounding; it does not prove that AI caused improved eye-care access."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02513-9",
+    "research_problem": "Can real-time prescription activity provide earlier influenza surveillance and longer-range forecasts?",
+    "problem_is_excerpt": false,
+    "ai_method": "Convergent cross-mapping assesses dynamical relationships, followed by GNN, Mamba and LSTM spatiotemporal forecasting.",
+    "study_summary": "Analysis covers 21.08 million transactions across 31 provinces; prescriptions show a two-week lead and support a reported 96-day forecast horizon.",
+    "limitations": [
+      "Dynamical coupling is not randomized causal evidence; prescriptions also respond to environmental conditions and healthcare behavior."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02503-x",
+    "research_problem": "Can pretrained EHR sequence models predict antibiotic-related skin reactions?",
+    "problem_is_excerpt": false,
+    "ai_method": "Medical codes are modeled through language-style pretraining and fine-tuning, with nursing-text-derived rash outcomes.",
+    "study_summary": "A three-hospital Korean dataset includes 802,131 inpatients; foundation models outperform study baselines, particularly for delayed reactions.",
+    "limitations": [
+      "EHR-coded outcomes and site-specific recording can affect transportability; predictive ranking does not establish prospective prescribing safety."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02499-4",
+    "research_problem": "Can domain adaptation improve MRI classification of invasive bladder cancer across centers?",
+    "problem_is_excerpt": false,
+    "ai_method": "DADCNet combines source–target representation alignment with deep contrastive learning.",
+    "study_summary": "Multicenter experiments report accuracy and F1 of 0.955 and AUC of 0.991 against convolutional and transformer comparators.",
+    "limitations": [
+      "The adaptation setup uses target-domain samples; these results should not be assumed to represent deployment at a completely unseen hospital."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02498-5",
+    "research_problem": "Can emergency-call language reveal cardiac arrest within sixty seconds?",
+    "problem_is_excerpt": false,
+    "ai_method": "DyLM-OHCA learns evolving dialogue patterns from call transcripts rather than relying only on isolated keywords.",
+    "study_summary": "Training uses 158,973 transcripts from three South Korean regions; AUROC is 0.937, while AUPRC is 0.456, and conversational flow contributes to detection.",
+    "limitations": [
+      "The lower precision–recall performance matters for rare events; transcript benchmarks do not establish a prospective improvement in resuscitation outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02493-w",
+    "research_problem": "Can routine echocardiography and EHR data estimate exercise capacity in heart failure?",
+    "problem_is_excerpt": false,
+    "ai_method": "Multimodal multi-instance learning models multiple echo views and cross-modal interactions to predict peak oxygen consumption.",
+    "study_summary": "External performance reaches R² 0.541 for peak VO₂ and AUROC 0.870 for identifying high-risk patients, exceeding the study comparator.",
+    "limitations": [
+      "Predicted exercise capacity is a surrogate; it does not establish equivalence to measured CPET or benefit from altered treatment decisions."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02377-z",
+    "research_problem": "Which donor and recipient factors predict outcomes after haploidentical transplantation?",
+    "problem_is_excerpt": false,
+    "ai_method": "Gradient boosting, partial-dependence analysis and surrogate trees characterize nonlinear prognostic relationships.",
+    "study_summary": "In 668 single-center recipients, age and selected HLA mismatches stratify three-year survival; simulated donor choices shift modeled risk quartiles.",
+    "limitations": [
+      "Donor-selection simulations do not show observed survival gains from an intervention; independent multicenter validation remains necessary."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02364-4",
+    "research_problem": "Which adaptation strategies best transfer ICU sepsis models between hospitals?",
+    "problem_is_excerpt": false,
+    "ai_method": "A systematic deep-model benchmark compares direct generalization, fine-tuning or retraining, target training, domain adaptation and fusion.",
+    "study_summary": "Across 216,536 ICU stays in HiRID, MIMIC-IV and eICU, strategy rankings vary with available target data; routine fine-tuning performs poorly.",
+    "limitations": [
+      "Results concern harmonized retrospective datasets; an adaptation strategy is not universally best across hospitals or operational constraints."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02495-8",
+    "research_problem": "What explains success and failure in national digitalization and clinical-AI deployment programs?",
+    "problem_is_excerpt": false,
+    "ai_method": "Longitudinal qualitative evaluations compare NHS infrastructure, digital-exemplar and AI Lab programs.",
+    "study_summary": "Three programs are examined using 1,079 interviews, 819 observations and 2,219 documents; sociotechnical coordination and stable governance recur as major issues.",
+    "limitations": [
+      "AI Lab is one of three substantive program cases; these aggregate implementation data do not measure an individual AI model’s clinical accuracy or treatment effect."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02490-z",
+    "research_problem": "Can LLM post-processing reduce accent-related errors in clinical speech recognition?",
+    "problem_is_excerpt": false,
+    "ai_method": "Whisper and WhisperX transcripts are corrected through a chained GPT-4o stage.",
+    "study_summary": "Non-native English speech initially has higher transcription error rates; the WhisperX–GPT pipeline reduces the disparity in evaluated clinical recordings.",
+    "limitations": [
+      "Improved transcription on tested recordings does not establish fairness for all accents or exclude clinically important hallucinated corrections."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02454-3",
+    "research_problem": "Does an ambient AI scribe reduce documentation burden in routine general practice?",
+    "problem_is_excerpt": false,
+    "ai_method": "A prospective multicenter before–after mixed-methods study combines timed observation with clinician and patient perspectives.",
+    "study_summary": "Across 535 consultations involving twelve practitioners, documentation is 42.7 seconds shorter per consultation, without a change in total consultation duration.",
+    "limitations": [
+      "The short nonrandomized comparison cannot isolate every causal effect; inaccurate summaries and interference with sensitive discussions remain reported concerns."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02376-0",
+    "research_problem": "Can OCT-based digital reconstruction approximate MRI whole-eye geometry in myopia?",
+    "problem_is_excerpt": false,
+    "ai_method": "CET-1 uses nnU-Net tissue segmentation, contour extraction, optical calibration and three-dimensional surface reconstruction.",
+    "study_summary": "Eighty eyes from forty individuals are compared with MRI; geometric agreement spans a broad axial-length range and reveals myopia-associated shape differences.",
+    "limitations": [
+      "Segmentation training images and validation eyes are separate denominators; geometric agreement does not establish treatment benefit or future-state prediction."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02492-x",
+    "research_problem": "Can targeted Boolean rubrics make health-LLM evaluation more consistent and efficient?",
+    "problem_is_excerpt": false,
+    "ai_method": "Adaptive Precise Boolean rubrics decompose open-ended response assessment into granular yes/no criteria for human and automated raters.",
+    "study_summary": "Metabolic-health evaluations show higher agreement and roughly half the rating time compared with conventional Likert scales.",
+    "limitations": [
+      "Rater agreement and speed are evaluation properties, not proof that a health-language model is clinically safe or improves disease outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02483-y",
+    "research_problem": "Can federated and sequential model training jointly improve fairness across unequal imaging sites?",
+    "problem_is_excerpt": false,
+    "ai_method": "FedTM warms up through federated learning and then sequentially refines a travelling model.",
+    "study_summary": "Parkinson classification uses 1,817 scans from 83 sites; reported AUROC rises from 77% to 82%, with lower error disparities and smaller-site training load.",
+    "limitations": [
+      "Site-level benchmark improvements do not establish clinical equity outcomes, and distributed training alone does not prove complete privacy protection."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02474-z",
+    "research_problem": "Can AI shorten the CTA workflow for detecting and localizing spinal vascular fistulas?",
+    "problem_is_excerpt": false,
+    "ai_method": "SDAVFdoc combines 3D segmentation, anatomical localization priors and DenseNet classification.",
+    "study_summary": "The multicenter study includes 718 patients; reported detection AUC is 0.928–0.954 and image-processing time falls from about forty-one to one minute.",
+    "limitations": [
+      "Technical workflow savings are not the same as shorter treatment delays or improved neurologic outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02468-x",
+    "research_problem": "Can transcriptomic learning prioritize mechanisms linking periodontitis and Alzheimer-like pathology?",
+    "problem_is_excerpt": false,
+    "ai_method": "Random-forest selection, SVM refinement and interpretable network analysis connect single-cell and rat hippocampal profiles.",
+    "study_summary": "The cGAS–STING pathway is prioritized; follow-up experiments find that Huanglian Jiedu decoction reduces inflammatory activation and improves cognition in preclinical models.",
+    "limitations": [
+      "The therapeutic evidence is cellular and animal-based; it does not establish efficacy or safety in patients with Alzheimer’s disease."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02433-8",
+    "research_problem": "Can standardized specialty-triage benchmarking guide medical-LLM development?",
+    "problem_is_excerpt": false,
+    "ai_method": "MedTriage organizes real clinician–patient dialogues; competition results inform a relevant/random-sample ensemble strategy for MedGPT-Guide.",
+    "study_summary": "The enhanced system improves the study’s triage benchmark across general and specialty scenarios.",
+    "limitations": [
+      "Competition accuracy is not evidence of safe autonomous patient routing; external generalization, security and deployment governance remain unresolved."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02445-4",
+    "research_problem": "Can cough-based respiratory classifiers remain useful across recording devices?",
+    "problem_is_excerpt": false,
+    "ai_method": "Adversarial device-invariant audio features combine with demographics and symptoms under an invariant-risk loss.",
+    "study_summary": "More than 10,000 cases cover seven conditions; reported overall comorbidity AUROC is 0.8907, with disease-specific variation.",
+    "limitations": [
+      "Cross-device benchmarking does not establish unsupervised home-screening effectiveness or equivalent performance across all populations."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02416-9",
+    "research_problem": "Does pediatric development change how ECG AI predicts biological sex?",
+    "problem_is_excerpt": false,
+    "ai_method": "A previously developed ECG classifier is externally evaluated across pediatric age groups, with saliency-based analysis.",
+    "study_summary": "External AUROC increases from 0.64 before puberty to 0.94 after puberty, and the developmental pattern replicates at another children’s hospital.",
+    "limitations": [
+      "The result is developmental discrimination of a recorded sex label; it does not validate diagnosis or imply that performance is age-invariant."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02488-7",
+    "research_problem": "Can organ-specific imaging clocks characterize aging and predict future disease?",
+    "problem_is_excerpt": false,
+    "ai_method": "LASSO age models use nested cross-validation on imaging phenotypes; exploratory graphical modeling examines organ dependencies.",
+    "study_summary": "The study models seven organs using 1,777 imaging phenotypes from 11,000 healthy participants and links age gaps to subsequent disease, mortality and protein signatures.",
+    "limitations": [
+      "These are regularized linear learning models rather than deep neural networks; cross-sectional dependency graphs do not demonstrate causal organ-aging pathways."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02491-y",
+    "research_problem": "Can an opaque opioid risk-scoring benchmark be reproduced in independent administrative data?",
+    "problem_is_excerpt": false,
+    "ai_method": "Reconstructed NarxCare-style scoring models are tested using prescription-monitoring and health-plan claims data with additional socioeconomic covariates.",
+    "study_summary": "Across reconstructed models, precision of 0.01–0.32 and F1 of 0.02–0.39 fall below advertised benchmark values.",
+    "limitations": [
+      "Independent reconstruction cannot establish exact equivalence to undisclosed proprietary implementation; the findings motivate transparency rather than reveal every internal model decision."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02459-y",
+    "research_problem": "Can histopathology distinguish primary ovarian mucinous carcinoma from gastrointestinal metastasis?",
+    "problem_is_excerpt": false,
+    "ai_method": "MOCOPM selects the best of three neural networks after internal cross-validation and tests it at external hospitals.",
+    "study_summary": "Among 167 patients, average AUROC is 0.91 internally and 0.96 externally.",
+    "limitations": [
+      "The sample is limited and retrospective; diagnostic discrimination does not establish improved treatment selection or patient outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02448-1",
+    "research_problem": "How accurately can language-based models detect depression across published studies?",
+    "problem_is_excerpt": false,
+    "ai_method": "Systematic review and meta-analysis synthesize NLP and machine-learning classifiers using spoken or written language.",
+    "study_summary": "Of 123 included articles, different subsets support each metric; pooled accuracy is 0.80 across 43 studies and 40,983 text samples.",
+    "limitations": [
+      "Heterogeneous sources, languages and classifiers limit pooled interpretation; text samples are not necessarily unique patients."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02451-6",
+    "research_problem": "Can diagnostic criteria be represented as an auditable computational symptom space?",
+    "problem_is_excerpt": false,
+    "ai_method": "A deterministic, explicit-rule framework formalizes consensus diagnostic criteria instead of learning probabilistic patterns from text.",
+    "study_summary": "Demonstrations analyze schizophrenia-spectrum distinctions and overlap between Long COVID definitions and depressive or anxiety criteria.",
+    "limitations": [
+      "Logical overlap in formal criteria does not demonstrate that affected patients share the same underlying disease or replace clinical diagnosis."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02446-3",
+    "research_problem": "Can combined clinical text and tabular embeddings generalize across sepsis tasks?",
+    "problem_is_excerpt": false,
+    "ai_method": "SepsisDRM jointly encodes structured variables and narrative records into reusable patient representations.",
+    "study_summary": "Training includes 19,526 sepsis patients; the model identifies four phenotypes and reports outcome AUCs of 0.92, 0.94 and 0.78 across retrospective, prospective and external datasets.",
+    "limitations": [
+      "The external drop in discrimination matters; representation transfer and prospective data evaluation do not establish improved sepsis treatment outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02465-0",
+    "research_problem": "Do general language models transfer reliably to Romanian oncology question answering?",
+    "problem_is_excerpt": false,
+    "ai_method": "MedQARo compares zero-shot prompting, supervised fine-tuning and API-accessed language models on clinical extraction and reasoning tasks.",
+    "study_summary": "The dataset contains 105,880 question–answer pairs derived from 1,242 patients at two centers; fine-tuned models outperform zero-shot approaches.",
+    "limitations": [
+      "Many questions originate from the same patients, and benchmark answer quality does not establish safe independent clinical decision-making."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02441-8",
+    "research_problem": "Can a smaller oncology-specific language model support cancer phenotyping and diagnosis generation?",
+    "problem_is_excerpt": false,
+    "ai_method": "CancerLLM adapts a seven-billion-parameter Mistral-style architecture through oncology training and task fine-tuning.",
+    "study_summary": "Training includes 2.7 million clinical notes and 515,000 pathology reports; internal F1 is 91.78% for phenotype extraction and 86.81% for diagnosis generation.",
+    "limitations": [
+      "Notes and reports can be repeated observations; internal extraction accuracy does not establish diagnostic safety across institutions."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02455-2",
+    "research_problem": "Can a coarse-to-fine network measure cervical alignment when C7 is obscured?",
+    "problem_is_excerpt": false,
+    "ai_method": "Global keypoint detection and localized C2/C7 specialists refine radiographic landmarks through a multilayer-perceptron localization stage.",
+    "study_summary": "Training uses 5,604 images; external tests enriched for obscured C7 show strong agreement and lower measurement error than a single-stage baseline.",
+    "limitations": [
+      "Agreement with reference measurements is a technical endpoint; the enriched test distribution may differ from routine consecutive radiographs."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02431-w",
+    "research_problem": "Can a verified LLM workflow assist evidence synthesis for prolapse surgery?",
+    "problem_is_excerpt": false,
+    "ai_method": "ChatGPT supports screening, extraction and statistical synthesis within a PRISMA workflow checked against conventional analyses.",
+    "study_summary": "The review includes eighteen RCTs involving 1,668 women; screening recall is 69.8%, while verified full-text and extraction tasks show higher agreement.",
+    "limitations": [
+      "Screening misses remain substantial, and wide surgical comparison intervals do not establish one superior operation; this publication is not a new patient RCT."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02427-6",
+    "research_problem": "How strong is the clinical evidence for computer vision in vascular surgery?",
+    "problem_is_excerpt": false,
+    "ai_method": "Systematic review evaluates applications, study design, bias and TRIPOD+AI reporting.",
+    "study_summary": "Among 288 studies, most use retrospective data; only fifteen percent have low risk of bias and reporting adherence is limited.",
+    "limitations": [
+      "The number of reviewed studies does not equal new patients; methodological limitations constrain translation of reported technical performance."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02438-3",
+    "research_problem": "Can genotype-to-ECG learning expand cardiovascular phenotype analysis in biobanks?",
+    "problem_is_excerpt": false,
+    "ai_method": "CapECG uses an attention-based capsule network to map genetic variation into 169 ECG traits.",
+    "study_summary": "After testing in 7,422 people, predicted traits are generated for 388,284 genotype-only participants and improve cardiovascular risk prediction over a polygenic-score comparator.",
+    "limitations": [
+      "Predicted traits are modeled quantities rather than recorded ECGs; downstream genetic associations require caution about shared model-derived structure."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02439-2",
+    "research_problem": "Can longitudinal EHR learning predict diabetic kidney disease progression across populations?",
+    "problem_is_excerpt": false,
+    "ai_method": "Deep prognostic models combine clinical, biochemical and prescription histories, with SHAP interpretation.",
+    "study_summary": "Development covers 569,680 people at 165 Hong Kong facilities; external AUCs in UK Biobank and CHARLS range from 0.746 to 0.820.",
+    "limitations": [
+      "External discrimination is lower than development performance, and prognostic ranking does not establish benefit from model-directed intervention."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02436-5",
+    "research_problem": "Can clinical language improve recurrence prediction after atrial-fibrillation ablation?",
+    "problem_is_excerpt": false,
+    "ai_method": "A dual-branch network combines 1D ResNet structured-data features with representations from four language models.",
+    "study_summary": "Across 2,508 patients at five centers, MedGemma-derived text features perform best, with test AUC 0.911.",
+    "limitations": [
+      "The cohorts are retrospective; language features and institution-specific documentation may affect performance outside the evaluated settings."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02430-x",
+    "research_problem": "What economic value might AI-guided coronary treatment selection generate under simulated adoption?",
+    "problem_is_excerpt": false,
+    "ai_method": "A retrospective health-economic model simulates revascularization choices informed by predicted events, mortality and willingness-to-pay.",
+    "study_summary": "Data from 25,942 adults suggest potentially large cost and QALY gains when modeled decisions are economically optimized.",
+    "limitations": [
+      "The gains depend on simulation and adoption assumptions; they are not observed savings or patient benefits from a randomized AI deployment."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02423-w",
+    "research_problem": "Can shared radiology–pathology representations improve breast-cancer model transfer?",
+    "problem_is_excerpt": false,
+    "ai_method": "Vision transformers, modality adapters, contrastive alignment and domain-generalization techniques combine mammography with histopathology.",
+    "study_summary": "Benchmark evaluation across four named public resources reports mean AUC 0.90 with smaller leave-domain-out gaps than comparators.",
+    "limitations": [
+      "Public datasets represent different imaging tasks and populations; benchmark domain transfer does not establish linked multimodal patient benefit in clinical deployment."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02390-2",
+    "research_problem": "Can AI standardize the analysis of clinical safety incidents?",
+    "problem_is_excerpt": false,
+    "ai_method": "AI-ILS learns the HFACS incident taxonomy from expert-labeled reports.",
+    "study_summary": "Training uses 1,548 incidents; testing on 350 reports shows 88% expert concordance and substantially faster review, with radiation-oncology deployment experience.",
+    "limitations": [
+      "Faster retrospective classification does not demonstrate that future adverse events or patient harm are reduced."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02429-4",
+    "research_problem": "Do automated EHR triggers improve access to palliative care?",
+    "problem_is_excerpt": false,
+    "ai_method": "A randomized-trial evidence synthesis evaluates automated identification and referral support rather than one newly trained model.",
+    "study_summary": "Seven trials involving 125,666 patients show higher consultation and advance-planning documentation rates; several utilization and psychological outcomes do not improve significantly.",
+    "limitations": [
+      "Algorithms across trials may differ, and increased referrals should not be interpreted as established mortality or quality-of-life benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02428-5",
+    "research_problem": "How safe are public chatbot answers to patients’ medical-advice questions?",
+    "problem_is_excerpt": false,
+    "ai_method": "Physician-led red teaming evaluates four chatbot systems using the HealthAdvice dataset and structured safety judgments.",
+    "study_summary": "Evaluation covers 888 responses to 222 questions; problematic-response rates range from 21.6% to 43.2%, with unsafe advice in five to thirteen percent.",
+    "limitations": [
+      "These are version- and question-set-specific ratings, not observed population rates of patient injury."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02417-8",
+    "research_problem": "Can anatomical priors make efficient breast-imaging adaptation more transferable?",
+    "problem_is_excerpt": false,
+    "ai_method": "A-VPT inserts tissue-aware visual prompts into a frozen transformer and aligns modalities contrastively.",
+    "study_summary": "INbreast, BUSI and Duke-Breast-MRI benchmarks show stronger classification and segmentation with fewer than two percent of full fine-tuning’s tunable parameters.",
+    "limitations": [
+      "Parameter efficiency and interpretable attention do not establish causal anatomical reasoning or clinical outcome improvement."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02422-x",
+    "research_problem": "Can text-guided segmentation produce more clinically usable lung-lesion measurements?",
+    "problem_is_excerpt": false,
+    "ai_method": "BiomedLoop couples Grounding DINO localization, SEEM refinement and uncertainty-aware features, feeding mask-derived pseudo-text back into training.",
+    "study_summary": "Five public benchmarks show improved overlap and boundary metrics; structured outputs follow the TID 1500 reporting specification.",
+    "limitations": [
+      "Automatically generated pseudo-text is not independent clinical-report evidence; benchmark gains do not establish live diagnostic utility."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02386-y",
+    "research_problem": "Can physiological constraints correct unstable contactless heart-rate estimates?",
+    "problem_is_excerpt": false,
+    "ai_method": "An adaptive post-processing algorithm constrains estimated heart-rate changes using elevation and recovery dynamics.",
+    "study_summary": "Across three public rPPG datasets, the fraction within ten beats per minute improves substantially with low computational overhead.",
+    "limitations": [
+      "The correction is physiology-guided rather than a newly learned neural model; performance on existing estimators does not establish arrhythmia safety or universal robustness."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02426-7",
+    "research_problem": "Can remotely administered Parkinson assessments retain useful motor and cognitive discrimination?",
+    "problem_is_excerpt": false,
+    "ai_method": "MaC-VC combines simplified videoconference testing with machine-learning classifiers and bidirectional cross-dataset validation.",
+    "study_summary": "A 145-person remote cohort is compared with 1,264 expert-rated PPMI assessments; early-versus-advanced disease classification exceeds AUC 0.9 across datasets.",
+    "limitations": [
+      "Cross-sectional disease-stage classification and agreement do not establish equivalence for every examination item or longitudinal treatment monitoring."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02399-7",
+    "research_problem": "Can geometric learning rapidly approximate ventricular activation for CRT planning?",
+    "problem_is_excerpt": false,
+    "ai_method": "Graph networks and geometry-informed neural operators emulate finite-element activation maps and infer pacing-site parameters.",
+    "study_summary": "GINO is stronger on synthetic shapes, while GNN and GINO have similar errors on real ventricular geometries; noisy-input recovery supports a planning prototype.",
+    "limitations": [
+      "Simulated activation and parameter recovery are not evidence that model-selected lead placement improves CRT response in patients."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02409-8",
+    "research_problem": "When do LLMs or clinician–LLM teams outperform clinicians in open-ended diagnosis and triage?",
+    "problem_is_excerpt": false,
+    "ai_method": "A multilevel random-effects meta-analysis synthesizes fifty studies covering twenty-five language models.",
+    "study_summary": "Collaborative diagnostic performance tends to improve, while LLM-versus-clinician rankings vary with top-k definitions and triage performance is similar.",
+    "limitations": [
+      "Nested observations, model variability and study flaws limit clinical conclusions; top-ten answers are not equivalent to a correct first diagnosis."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02406-x",
+    "research_problem": "Can scarce expert labels and noisy EHR labels jointly support rare-disease phenotyping?",
+    "problem_is_excerpt": false,
+    "ai_method": "WEST iteratively refines probabilistic silver labels while training a weakly supervised transformer.",
+    "study_summary": "Two pediatric pulmonary-disease case studies show improved phenotype classification, subphenotyping and progression prediction.",
+    "limitations": [
+      "Performance in two conditions at one children’s hospital does not establish transfer to all rare diseases or health systems."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02342-w",
+    "research_problem": "How feasible and reliable are wearable EEG systems for detecting mild cognitive impairment?",
+    "problem_is_excerpt": false,
+    "ai_method": "A systematic review examines devices, signal processing, extracted features and learning-based classification.",
+    "study_summary": "Twenty-one studies cover sixteen devices, with accuracy ranging from 46% to 95%; ensemble learning and multimodal integration are among proposed design factors.",
+    "limitations": [
+      "The wide range reflects heterogeneous evidence and does not establish a single device’s accuracy or community-screening effectiveness."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02318-2",
+    "research_problem": "Can glaucoma screening models be developed in a population underrepresented in existing AI datasets?",
+    "problem_is_excerpt": false,
+    "ai_method": "Image selection precedes vision-transformer scoring and aggregation of fundus photographs.",
+    "study_summary": "POAAGG provides 64,129 images from 1,782 cases and 682 controls; AUC is 0.925 internally and 0.920 on the Chinese-ancestry REFUGE-1 dataset.",
+    "limitations": [
+      "Repeated images are not independent people, and external dataset accuracy does not establish population-screening benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02412-z",
+    "research_problem": "Can a lower-back sensor identify probable REM sleep behavior disorder at home?",
+    "problem_is_excerpt": false,
+    "ai_method": "Machine-learning classifiers use mobility features from repeated overnight inertial recordings.",
+    "study_summary": "Seventy-three participants, including fifteen iRBD cases, complete laboratory assessment and six home nights; classification improves as more nights are recorded.",
+    "limitations": [
+      "The small case count and moderate specificity support staged screening rather than replacement of diagnostic video-polysomnography."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02392-0",
+    "research_problem": "Can noncontrast CT estimate metabolic activity normally measured by PET in adipose tissue?",
+    "problem_is_excerpt": false,
+    "ai_method": "A conditional GAN with fat-focused loss predicts regional PET standardized uptake values from paired CT data.",
+    "study_summary": "Evaluation in two cohorts shows agreement and reproducibility of predicted adipose activation across regions.",
+    "limitations": [
+      "A learned PET surrogate does not directly measure tracer uptake and requires independent validation before replacing PET-based clinical decisions."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02379-x",
+    "research_problem": "Can automated whole-thigh imaging reveal muscle-distribution biomarkers of functional decline?",
+    "problem_is_excerpt": false,
+    "ai_method": "Transformer segmentation measures twenty-seven musculoskeletal structures and derives volume and distribution features.",
+    "study_summary": "Among 37,004 UK Biobank participants, segmentation Dice is 0.896; posterior–anterior muscle ratio is associated with weakness, sarcopenia, mortality and falls.",
+    "limitations": [
+      "These are observational biomarker associations; greater predictive information does not establish a causal mechanism or benefit from changing muscle distribution."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02354-6",
+    "research_problem": "Where can AI support diagnostic imaging of prostate cancer?",
+    "problem_is_excerpt": false,
+    "ai_method": "A review surveys machine learning, deep learning and radiomics across ultrasound, multiparametric MRI and PSMA PET/CT.",
+    "study_summary": "The synthesis covers detection, lesion characterization, risk stratification and treatment assessment, alongside integration and ethics challenges.",
+    "limitations": [
+      "Review-level descriptions of high accuracy are not a single pooled estimate or proof of readiness across every scanner and clinical population."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02403-0",
+    "research_problem": "Can surgical pretraining capture temporal procedure context as well as spatial anatomy?",
+    "problem_is_excerpt": false,
+    "ai_method": "SurgVISTA combines video reconstruction pretraining with surgery-expert image-level knowledge distillation.",
+    "study_summary": "Pretraining uses 3,650 videos and 3.55 million frames; thirteen video datasets test four downstream tasks across six procedures.",
+    "limitations": [
+      "Frames and videos are different units; stronger scene understanding does not establish safer autonomous intervention or patient benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02292-9",
+    "research_problem": "Can consistent language and image representations connect chest radiographs with CT ILD burden?",
+    "problem_is_excerpt": false,
+    "ai_method": "ARCTIC-ILD couples calibrated radiographic evidence extraction, terminology-conditioned CT masks and a vision-language consistency audit.",
+    "study_summary": "Paired CXR–CT evaluation reports fewer textual hallucinations and stronger phrase-to-mask alignment without added inference delay.",
+    "limitations": [
+      "An internal consistency audit does not guarantee clinical truth, and paired-cohort benchmarking is not a prospective triage trial."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02306-6",
+    "research_problem": "Can anatomical prompts and volumetric context adapt SAM to lung-lesion segmentation?",
+    "problem_is_excerpt": false,
+    "ai_method": "StructSAM introduces structural priors, inter-slice aggregation and parameter-efficient adaptation.",
+    "study_summary": "LIDC-IDRI tests lung segmentation, while KiTS19 and pancreatic data examine transfer to other structures.",
+    "limitations": [
+      "Cross-organ benchmark transfer does not establish robustness to all clinical acquisition shifts or reliable cancer diagnosis."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02299-2",
+    "research_problem": "Can multimodal anomaly detection provide interpretable clinical-skills assessment?",
+    "problem_is_excerpt": false,
+    "ai_method": "Video, audio and monitor signals train MEMTO against ideal-performance reference patterns, with SHAP-based interpretation.",
+    "study_summary": "In ninety anesthesia residents, derived scores correlate 0.78 with expert ratings and achieve ICC 0.75.",
+    "limitations": [
+      "Agreement in simulation does not establish equitable high-stakes competency decisions or prediction of future patient-care performance."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02365-3",
+    "research_problem": "Can joint learning improve tumor segmentation and classification with limited MRI labels?",
+    "problem_is_excerpt": false,
+    "ai_method": "DARE-FUSE combines domain alignment, task-specific decoders, pixel uncertainty and a generated lesion-removal prior.",
+    "study_summary": "BraTS and classification benchmarks show complementary task gains and more gradual performance loss as pixel annotations decrease.",
+    "limitations": [
+      "Generated tumor-free counterparts are model constructs; interpretable priors do not establish reliable surgical or radiotherapy outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02393-z",
+    "research_problem": "Can state-space and frequency representations improve efficient medical-image segmentation?",
+    "problem_is_excerpt": false,
+    "ai_method": "CFG-MambaNet combines variable-scale Mamba blocks, low/high-frequency features and adaptive context aggregation.",
+    "study_summary": "Experiments cover cardiac MRI, endoscopy, dermoscopy and pathology through four public datasets.",
+    "limitations": [
+      "Multi-modality benchmarks demonstrate technical transfer, not universal clinical generalization or a measured reduction in diagnostic harm."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02388-w",
+    "research_problem": "Can radiology and pathology provide surrogates for fibroblast-mediated immune exclusion?",
+    "problem_is_excerpt": false,
+    "ai_method": "Calibrated slide attention, radiopathomic fusion and domain alignment learn transcriptomic ERS–CAF reference scores; an MRI student is distilled afterward.",
+    "study_summary": "In 126 chordoma cases, imaging predictions track molecular profiles and prognosis, with zero-shot pan-cancer analyses.",
+    "limitations": [
+      "Surrogate concordance and observational prognosis do not establish that the inferred pathway causes treatment response or predicts benefit prospectively."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02400-3",
+    "research_problem": "How are machine-learning approaches used to predict drug–drug interactions?",
+    "problem_is_excerpt": false,
+    "ai_method": "A review examines feature-based models, deep networks and graph neural architectures alongside clinical pharmacovigilance applications.",
+    "study_summary": "The synthesis connects computational discovery with drug-safety monitoring and highlights interpretability, generalization and workflow barriers.",
+    "limitations": [
+      "Review-level promise does not provide a single validated accuracy estimate or ensure that all predicted interactions are clinically consequential."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02294-7",
+    "research_problem": "Can bile-acid learning models support acute pancreatitis diagnosis and severity warning?",
+    "problem_is_excerpt": false,
+    "ai_method": "Metabolomic profiling, network analysis and machine-learning panel selection identify diagnostic and progression signatures.",
+    "study_summary": "A 948-person multicenter validation cohort evaluates sixty-three bile acids, supporting distinct nine- and thirteen-marker panels.",
+    "limitations": [
+      "The registered study is observational, not an interventional patient RCT; molecular discrimination does not establish outcome benefit from using the panels."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02382-2",
+    "research_problem": "Does clinician–LLM collaboration consistently improve clinical performance and efficiency?",
+    "problem_is_excerpt": false,
+    "ai_method": "A systematic review meta-analyzes human-plus-AI workflows, with preprints reserved for sensitivity analyses.",
+    "study_summary": "Ten peer-reviewed studies show context-dependent score gains, no overall time saving and persistent documentation-error concerns; some accuracy estimates are highly imprecise.",
+    "limitations": [
+      "Collaboration does not uniformly beat AI alone, and wide prediction intervals prevent a general claim of clinical benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02371-5",
+    "research_problem": "Can anatomy-guided Mamba models improve CT delineation of liver cancer lesions?",
+    "problem_is_excerpt": false,
+    "ai_method": "Prompt-Mamba-AF combines liver-specific prompts, volumetric state-space modeling and topology-preserving boundary filtering.",
+    "study_summary": "LiTS, 3DIRCADb and CHAOS benchmarks show stronger overlap and boundary results with a 27.6-million-parameter network.",
+    "limitations": [
+      "Benchmark nodule sensitivity and compactness do not establish prospective multisite contouring safety or improved surgical outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02291-w",
+    "research_problem": "Which antiviral and virus-specific host responses can multi-omics learning distinguish?",
+    "problem_is_excerpt": false,
+    "ai_method": "An explainable classifier integrates genetics, transcriptomics and proteomics, with SHAP and Mendelian-randomization analyses.",
+    "study_summary": "The analysis contrasts shared interferon responses with coagulation, inflammatory and cellular-response differences across COVID-19, influenza and RSV.",
+    "limitations": [
+      "Cross-dataset differences and causal-instrument assumptions constrain mechanistic claims; this is not a test of the proposed targeted treatments."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02369-z",
+    "research_problem": "Can predicted antibiotic outcomes incorporate clinicians’ treatment preferences?",
+    "problem_is_excerpt": false,
+    "ai_method": "Clinical prediction models for thirteen antibiotics are weighted using preference rankings from forty-nine prescribers.",
+    "study_summary": "Models trained on 93,906 patients favor more correctly targeted Access-category and oral antibiotics in an emergency-department simulation.",
+    "limitations": [
+      "Simulated choices do not demonstrate observed reductions in resistance, adverse events or treatment failure during prospective prescribing."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02268-9",
+    "research_problem": "Can CT radiomics and clinical data identify occult gastric-cancer peritoneal metastases?",
+    "problem_is_excerpt": false,
+    "ai_method": "A multimodal prediction model is evaluated across development, external, incremental and prospective trial-source cohorts, with a crossover reader comparison.",
+    "study_summary": "AUCs range from 0.834 to 0.857; radiologist assistance increases average AUC from 0.735 to 0.872.",
+    "limitations": [
+      "A prospective source cohort and a reader crossover are distinct from randomizing patients to AI-guided staging; performance does not establish avoided laparoscopy harms."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02359-1",
+    "research_problem": "Can whole-slide learning detect malignant effusions and infer tumor origin?",
+    "problem_is_excerpt": false,
+    "ai_method": "MAMILE-UNI uses a data-efficient deep framework across cytology smears, cell blocks and histopathology.",
+    "study_summary": "Evaluation includes 1,250 cytology and 1,196 histopathology slides, supporting malignancy and tissue-of-origin discrimination.",
+    "limitations": [
+      "Slide counts are not necessarily independent patients; statistical association and multiple accuracy metrics do not establish clinical outcome benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02378-y",
+    "research_problem": "Can panoramic radiographs and clinical metadata triage temporomandibular abnormalities for MRI?",
+    "problem_is_excerpt": false,
+    "ai_method": "Anatomically constrained attention and ensemble multimodal learning combine paired open- and closed-mouth images.",
+    "study_summary": "Among 1,355 patients representing 2,710 joints, the best ensemble reaches AUC 0.86 against MRI-detectable pathology.",
+    "limitations": [
+      "The two joints from a patient are correlated; screening discrimination does not establish that MRI can safely be omitted."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02361-7",
+    "research_problem": "Can a hybrid local–global architecture improve efficient volumetric tumor segmentation?",
+    "problem_is_excerpt": false,
+    "ai_method": "HMC-Transducer combines direction-aware 3D Mamba blocks with gated CNN feature fusion.",
+    "study_summary": "LiTS17, MSD-liver and KiTS21 benchmarks show improved segmentation and computational efficiency over selected CNN and transformer comparators.",
+    "limitations": [
+      "Technical benchmark generalization does not establish prospective contouring reliability or better cancer-treatment outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02358-2",
+    "research_problem": "How are deep-learning tools implemented prospectively in real clinical workflows?",
+    "problem_is_excerpt": false,
+    "ai_method": "An implementation-science systematic review maps strategies and clinical and organizational outcomes.",
+    "study_summary": "Twenty articles are included, mostly ophthalmology; only one evaluates implementation cost and none assesses sustainability.",
+    "limitations": [
+      "This publication synthesizes prospective implementation studies; it is not itself a new prospective AI validation or patient RCT."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02330-6",
+    "research_problem": "Does a cardiac imaging foundation model estimate ejection fraction equally well by recorded sex?",
+    "problem_is_excerpt": false,
+    "ai_method": "A pretrained CMR–report model is fine-tuned in UK Biobank and audited using masking, resampling and sex-informed adaptation.",
+    "study_summary": "Reduced-ejection-fraction identification performs worse in females, and simple masking or resampling does not remove the disparity.",
+    "limitations": [
+      "The bias audit does not establish that any one mitigation transfers across all populations or that protected-attribute removal guarantees fairness."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02309-3",
+    "research_problem": "Can modality-specific uncertainty improve speech-based psychosis assessment?",
+    "problem_is_excerpt": false,
+    "ai_method": "A multimodal model adaptively weights acoustic and linguistic information from structured and narrative speech.",
+    "study_summary": "In 114 German-speaking participants, including thirty-two with early psychosis, reported F1 is 83% and expected calibration error is 0.045.",
+    "limitations": [
+      "Language, task and sample composition constrain transfer; symptom prediction is not a substitute for a validated independent psychiatric diagnosis."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02372-4",
+    "research_problem": "Can coordinated language and imaging agents help recognize axial spondyloarthritis earlier?",
+    "problem_is_excerpt": false,
+    "ai_method": "SpAgents uses planning, data, tool and doctor agents with long-term memory and imaging-model support.",
+    "study_summary": "A 596-person dataset includes a fifty-one-patient multicenter test cohort; assistance improves junior clinicians’ and primary-care physicians’ diagnostic performance.",
+    "limitations": [
+      "Reader assistance and a small external test set do not establish a reduction in real-world diagnostic delay or improved patient outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02363-5",
+    "research_problem": "Can language-based code embeddings improve EHR prediction across countries and coding systems?",
+    "problem_is_excerpt": false,
+    "ai_method": "GRASP combines shared semantic code embeddings with a transformer prediction model.",
+    "study_summary": "Training in UK Biobank and evaluation in FinnGen and Mount Sinai cover over one million people, with better disease and mortality discrimination than language-unaware comparators.",
+    "limitations": [
+      "Relative gains in C-index improvement are not absolute C-index gains; cross-system prediction does not establish clinical intervention benefit."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02321-7",
+    "research_problem": "How ready is AI-based glaucoma progression prediction for clinical use?",
+    "problem_is_excerpt": false,
+    "ai_method": "A systematic review evaluates quantitative performance, bias, study design and reporting across progression tasks.",
+    "study_summary": "Forty-six reports represent forty-three distinct studies, with moderate-to-good reported performance but substantial heterogeneity and transparency gaps.",
+    "limitations": [
+      "Reports and unique studies are different denominators; existing evidence does not establish one transferable progression model."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02375-1",
+    "research_problem": "Can natural facial dynamics quantify atypical expression patterns in autism?",
+    "problem_is_excerpt": false,
+    "ai_method": "Video-derived emotion variation, facial intensity and muscle coordination are fused for classification and symptom regression.",
+    "study_summary": "The study analyzes 184 sessions from ninety-nine autistic children and eighty-five peers, reporting classification accuracy 92.4% and AUC 0.977.",
+    "limitations": [
+      "Group discrimination in the evaluated sample does not establish population-screening specificity or replace developmental clinical assessment."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02366-2",
+    "research_problem": "Can retinal OCT angiography be reconstructed without learned segmentation or manual labels?",
+    "problem_is_excerpt": false,
+    "ai_method": "RADAR uses physics-aware vessel enhancement and topology-preserving centerline extraction.",
+    "study_summary": "Healthy and diabetic-retinopathy data demonstrate three-dimensional vascular reconstruction and layer-specific morphological differences.",
+    "limitations": [
+      "This is a classical computational pipeline rather than a newly trained AI model; its scope in an AI-only catalogue requires separate eligibility adjudication."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02345-7",
+    "research_problem": "Can training-only foundation guidance improve efficient cross-domain polyp segmentation?",
+    "problem_is_excerpt": false,
+    "ai_method": "Prysm-Net combines a ViT backbone, boundary-salience module, SAM distillation and auxiliary multimodal cross-attention.",
+    "study_summary": "In-domain and cross-domain benchmarks show stronger segmentation while auxiliary guidance is removed at inference.",
+    "limitations": [
+      "Benchmark robustness and efficient inference do not establish a reduction in missed polyps during live colonoscopy."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02336-0",
+    "research_problem": "Can medical language models distinguish reliable from contradictory context?",
+    "problem_is_excerpt": false,
+    "ai_method": "HealthContradict provides expert-verified questions, evidence-grounded answers and paired documents with conflicting positions under varied prompts.",
+    "study_summary": "Nine hundred twenty instances reveal differences in models’ ability to exploit correct context and resist misleading context.",
+    "limitations": [
+      "Controlled document conflicts are not a full measure of safe clinical reasoning across uncertain or changing evidence."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02337-7",
+    "research_problem": "Do larger EHR foundation models generalize better than clinically guided models?",
+    "problem_is_excerpt": false,
+    "ai_method": "A comparative study tests feed-forward, Mamba and transformer representations for future cervical myelopathy diagnosis.",
+    "study_summary": "Around two million claims and institutional records support evaluation; large models are stronger internally, while clinically guided models transfer better externally.",
+    "limitations": [
+      "Internal scale does not guarantee cross-system robustness, and early risk prediction does not establish improved diagnostic or treatment outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02362-6",
+    "research_problem": "Can coordinated LLM agents support evidence-aware cancer pain recommendations?",
+    "problem_is_excerpt": false,
+    "ai_method": "OncoPainBot combines extraction, mechanism reasoning, treatment planning and safety checking, comparing seven LLMs and three retrieval strategies.",
+    "study_summary": "Testing on 516 clinical records finds the strongest configuration with Claude-4 and RAG, with analgesic recommendation accuracy 0.841.",
+    "limitations": [
+      "Agreement with recorded care is not proof of optimal prescribing or prospective opioid safety; patient-specific monitoring remains a source of error."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-025-02295-6",
+    "research_problem": "Can one multimodal system support urological cancer diagnosis, subtyping and prognosis despite missing inputs?",
+    "problem_is_excerpt": false,
+    "ai_method": "UroFusion-X combines imaging encoders, slide multiple-instance learning, omics graphs and tabular transformers through gated fusion and survival heads.",
+    "study_summary": "Multicenter external and leave-center-out evaluations exceed baseline models and retain much predictive performance under modality dropout.",
+    "limitations": [
+      "Decision-curve estimates and simulated missingness do not demonstrate actual reductions in unnecessary testing or improved clinical decisions."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02347-5",
+    "research_problem": "Can self-supervised pretraining reduce the labels needed for glioma segmentation?",
+    "problem_is_excerpt": false,
+    "ai_method": "MAGPIE combines masked autoencoding, contrastive learning and sparse mixture-of-experts routing across MRI modalities.",
+    "study_summary": "Pretraining uses 43,505 unlabeled scans; fine-tuning on twenty labeled cases yields 60.87% Dice on BraTS21 and a reported 70.32% out-of-distribution score.",
+    "limitations": [
+      "Scans and labeled cases are different units; gains with scarce annotations do not establish deployment safety across every protocol or tumor subtype."
+    ],
+    "curation_level": "curated",
+    "review_level": "abstract",
+    "verification": {
+      "narrative": "manual_abstract_interpretation",
+      "human_fulltext_interpretation": false
+    },
+    "field_status": {
+      "research_problem": "manual_source_paraphrase",
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  }
+]

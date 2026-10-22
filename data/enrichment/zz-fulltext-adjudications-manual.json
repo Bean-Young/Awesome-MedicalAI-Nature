@@ -1,0 +1,152 @@
+[
+  {
+    "id": "s41746-026-02891-0",
+    "ai_method": "The review includes an AI-powered acne chatbot intervention alongside non-AI telemedicine, communication and tracking interventions.",
+    "study_summary": "Among fourteen mixed digital-intervention studies, the Results describes a thirty-person AI-chatbot acne intervention with improved reported quality-of-life measures.",
+    "limitations": [
+      "The fourteen studies are not all AI trials, and the chatbot component cannot be credited with the effects of the entire mixed intervention."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02844-7",
+    "ai_method": "The review evaluates personalization stages, current multimodal machine-learning prognosis and AI-enabled adaptive support in depression iCBT.",
+    "study_summary": "Clinical severity and support needs have stronger practical evidence than predictive biomarker matching; ML prognostic gains have not established improved outcomes from prescriptive treatment selection.",
+    "limitations": [
+      "Current AI-related evidence is part of a broader psychotherapy review. Prognostic prediction and improvements caused by AI-guided treatment adaptation are distinct claims."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02639-w",
+    "ai_method": "A published machine-learning actigraphy pipeline derives sleep probabilities, validated against polysomnography in a subset of monitored surgical patients.",
+    "study_summary": "Thirteen patients contribute multimodal circadian recordings; six have the actigraphy-versus-PSG comparison, with reported AUROC 0.81.",
+    "limitations": [
+      "The 1.8 million data points are repeated sensor observations, not patients; the small post-hoc ML validation does not establish improved postoperative outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "collection": true,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    }
+  },
+  {
+    "id": "s41746-026-02346-6",
+    "ai_method": "OCTAL combines digital cognitive tasks with machine-learning feature ranking, LASSO and random-forest diagnostic classifiers.",
+    "study_summary": "Four validation studies cover 1,664 participants; the 194-person memory-clinic cohort supports discrimination of Alzheimer-type dementia from subjective cognitive decline.",
+    "limitations": [
+      "The five-minute and twenty-minute batteries and cross-validated or out-of-bag model evaluations are separate comparisons; diagnostic discrimination does not establish benefit from replacing clinical assessment."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    }
+  },
+  {
+    "id": "s41746-026-02806-z",
+    "ai_method": "The dental-simulation review includes an evaluated GPT virtual-patient application for diagnostic reasoning, alongside conventional virtual simulation and future AI proposals.",
+    "study_summary": "Fifty-seven studies map simulation tools and training outcomes; a current LLM-based virtual patient provides an AI-specific component.",
+    "limitations": [
+      "The fifty-seven studies are not all AI interventions, and improved learner performance does not establish improved patient dental outcomes."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "collection": false,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    }
+  },
+  {
+    "id": "s41746-026-02702-6",
+    "ai_method": "PASTEC provides purpose-built prospective annotation, pseudonymization and data infrastructure for medical-AI evaluation rather than a newly trained diagnostic model.",
+    "study_summary": "Routine remote-monitoring use includes 1,276 recordings, 697 with structured annotation; added annotation time is measured during platform feasibility evaluation.",
+    "limitations": [
+      "Prospective data aggregation and platform usability do not constitute prospective validation of a fixed predictive AI system."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "collection": true,
+      "validation": false,
+      "patient_rct": false,
+      "reader": false
+    }
+  },
+  {
+    "id": "s41746-026-02659-6",
+    "ai_method": "A similarity-based machine-learning framework models individualized multivariate wearable physiology to derive an inflammatory-change index.",
+    "study_summary": "Sixty-one volunteers receive eighty vaccine doses; the wearable index correlates with serum inflammation and systemic reactogenicity.",
+    "limitations": [
+      "Doses are repeated exposures rather than independent participants; moderate biomarker correlation does not establish interchangeable diagnostic testing."
+    ],
+    "curation_level": "curated",
+    "review_level": "fulltext",
+    "verification": {
+      "narrative": "original_abstract_plus_relevant_fulltext_sections_interpreted"
+    },
+    "field_status": {
+      "ai_method": "manual_source_paraphrase",
+      "study_summary": "manual_source_paraphrase",
+      "limitations": "interpretation_of_evidence_boundary"
+    },
+    "study_design": {
+      "collection": true,
+      "validation": null,
+      "patient_rct": false,
+      "reader": false
+    }
+  }
+]
