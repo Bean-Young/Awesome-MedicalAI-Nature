@@ -1,0 +1,463 @@
+{
+  "s41467-026-72119-y": {
+    "decision": "excluded",
+    "reason": "Photonic spiking-network hardware evaluated on generic vision tasks; no substantive biomedical or molecular application is established.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72119-y",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s44360-026-00117-x": {
+    "decision": "included",
+    "reason": "The study analyzes real health-related Copilot conversations with LLM-based intent classification and expert validation.",
+    "research_problem": "Characterize how people use a general-purpose chatbot for personal and professional health questions.",
+    "ai_method": "LLM-based hierarchical intent classification, expert validation and topic clustering of de-identified Copilot conversations.",
+    "study_summary": "Health-query patterns differed by device and time of day, motivating context-specific design and safeguards.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00117-x",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71937-4": {
+    "decision": "excluded",
+    "reason": "Neuromorphic Ising optimization of MAX-CUT/MAX-SAT is a general computing contribution without a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71937-4",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41560-026-02021-w": {
+    "decision": "excluded",
+    "reason": "Wind and solar deployment projections address energy policy, without a biomedical AI target.",
+    "source_url": "https://www.nature.com/articles/s41560-026-02021-w",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71863-5": {
+    "decision": "excluded",
+    "reason": "Methods explicitly use ordinary logistic and LASSO-logistic regression for LRTI classification. Routine regression alone does not meet the substantive AI criterion.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71863-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71642-2": {
+    "decision": "excluded",
+    "reason": "Oxide neuromorphic circuits are the primary contribution; patient monitoring is a generic circuit decision-making example, not a substantive biomedical AI study.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71642-2",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71381-4": {
+    "decision": "excluded",
+    "reason": "The publisher title identifies a retracted article; it is not eligible for the public research collection.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71381-4",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71441-9": {
+    "decision": "included",
+    "reason": "A learned equivariant autoencoding diffusion model controls 3D drug-molecule composition, geometry and physicochemical properties.",
+    "research_problem": "Control several molecular properties during generation of three-dimensional candidate drug structures.",
+    "ai_method": "Semantics-guided equivariant autoencoding diffusion with disentangled molecular embeddings and retrieval augmentation.",
+    "study_summary": "The learned embedding enabled targeted property changes while preserving properties outside the intended target.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71441-9",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71204-6": {
+    "decision": "included",
+    "reason": "Bayesian optimization and predictive material-to-tablet modeling actively guide an automated drug-formulation workflow.",
+    "research_problem": "Reduce the time and material needed to develop tablet formulations that meet manufacturing specifications.",
+    "ai_method": "A predictive material-to-tablet model coupled to Bayesian optimization in an automated formulation/manufacturing workflow.",
+    "study_summary": "The reported workflow produced specification-compliant tablets within six hours while reducing active-ingredient use.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71204-6",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71124-5": {
+    "decision": "excluded",
+    "reason": "Methods describe low-rank spatial-spectral MRI reconstruction and numerical optimization, without a learned AI model; data-driven reconstruction alone is insufficient.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71124-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71038-2": {
+    "decision": "included",
+    "reason": "A generative virtual-staining framework is evaluated on histopathology datasets and blinded pathologist assessments, directly addressing clinical tissue imaging.",
+    "research_problem": "Generate reliable virtual histology stains when paired tissue images cannot be perfectly aligned.",
+    "ai_method": "Generative virtual staining with cascaded registration that separates spatial alignment from image synthesis.",
+    "study_summary": "Across five datasets the framework improved robustness to misalignment; blinded readers struggled to distinguish virtual and chemical stains.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71038-2",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70973-4": {
+    "decision": "excluded",
+    "reason": "Deep active learning designs lithium-metal battery electrolytes; no biomedical or molecular-biological task is reported.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70973-4",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s44220-026-00593-w": {
+    "decision": "pending",
+    "reason": "The abstract fits cognitive reinforcement-learning parameters to craving behavior, but does not establish a substantive artificial learned predictor or policy beyond conventional computational cognitive modeling.",
+    "source_url": "https://www.nature.com/articles/s44220-026-00593-w",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71091-x": {
+    "decision": "excluded",
+    "reason": "The neuromorphic image sensor is tested on generic visual processing. Human-eye inspiration alone does not establish a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71091-x",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41928-026-01593-5": {
+    "decision": "excluded",
+    "reason": "Cryptographic recording hardware is the actual method; AI is only a motivation and cardiac-myocyte recording is a sensor demonstration, not an AI biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41928-026-01593-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41557-026-02090-0": {
+    "decision": "included",
+    "reason": "Results and Methods explicitly train language, time-series and classical ML models to predict peptide-synthesis aggregation and guide synthesis choices.",
+    "research_problem": "Predict peptide aggregation during solid-phase synthesis and select strategies that reduce difficult couplings.",
+    "ai_method": "An ensemble comparison of language, time-series and classical ML models, including random forests and XGBoost, using peptide-composition representations.",
+    "study_summary": "Composition-dependent predictions were experimentally checked and used to guide aggregation-reducing synthesis choices.",
+    "source_url": "https://www.nature.com/articles/s41557-026-02090-0",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70650-6": {
+    "decision": "excluded",
+    "reason": "This breast-cancer phase-Ib treatment trial uses Bayesian dose-escalation statistics, without a substantive AI method or AI-specific evaluation.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70650-6",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70334-1": {
+    "decision": "excluded",
+    "reason": "CNN/LLM-enabled touch perception primarily enables humanoid-robot emotional interaction; biomimetic sensory fibers do not establish a medical or biological research application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70334-1",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70065-3": {
+    "decision": "included",
+    "reason": "Trained deep networks are used to investigate the formation of cortex-like functional topographic maps, a direct computational neuroscience application.",
+    "research_problem": "Test whether local connectivity can explain the emergence of spatially organized visual-cortical representations.",
+    "ai_method": "Deep neural networks with local lateral connections trained through top-down credit assignment.",
+    "study_summary": "Cortex-like maps emerged without explicit topography objectives, with additional gains in adversarial robustness.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70065-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70818-0": {
+    "decision": "included",
+    "reason": "Generative denoising and force matching train coarse-grained models of protein molecular dynamics, directly advancing biomolecular simulation.",
+    "research_problem": "Train accurate protein coarse-grained dynamics models with substantially fewer atomistic force-labeled examples.",
+    "ai_method": "Force-matching combined with diffusion-style denoising objectives for machine-learned coarse-grained force fields.",
+    "study_summary": "The framework retained stable molecular ensembles while reducing atomistic training-data requirements across protein folds.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70818-0",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70659-x": {
+    "decision": "pending",
+    "reason": "The paper uses biologically specified spiking-network/plasticity simulations to explain noradrenergic memory changes. Whether this constitutes substantive AI rather than mechanistic neural simulation requires a consistent inclusion threshold.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70659-x",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s44160-026-00994-w": {
+    "decision": "included",
+    "reason": "The abstract reports learned selectivity prediction for unseen substrates and late-stage pharmaceuticals in synthetic-route development.",
+    "research_problem": "Predict and control selective alkylation of challenging aromatic substrates, including late-stage pharmaceutical molecules.",
+    "ai_method": "Machine-learning selectivity models used alongside mechanistic and quantum-chemical analyses of the reaction.",
+    "study_summary": "The models supported selectivity forecasts for previously unseen substrates within the reported synthetic strategy.",
+    "source_url": "https://www.nature.com/articles/s44160-026-00994-w",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70048-4": {
+    "decision": "excluded",
+    "reason": "AI optimizes generic acoustic-actuator geometry and resonance; precision medicine is prospective motivation rather than a substantive demonstrated biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70048-4",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70256-y": {
+    "decision": "excluded",
+    "reason": "Online learning restores generic robot control after perturbations, without a biomedical or molecular application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70256-y",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41929-026-01489-9": {
+    "decision": "pending",
+    "reason": "AlphaFold supports mechanistic nitrogenase structural interpretation alongside cryo-EM. The abstract does not establish an AI-focused molecular-information method or evaluation beyond auxiliary structure prediction.",
+    "source_url": "https://www.nature.com/articles/s41929-026-01489-9",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70171-2": {
+    "decision": "excluded",
+    "reason": "Physical echo-state hardware is evaluated on MNIST/Fashion-MNIST and generic temporal tasks, without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70171-2",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-69872-5": {
+    "decision": "excluded",
+    "reason": "ML optimizes structural polymer composites for aerospace, transportation and protection; bone inspiration is not a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69872-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-69477-y": {
+    "decision": "excluded",
+    "reason": "The inverse-design method concerns electromagnetic engineering; neither a learned biomedical model nor a medical target is established.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69477-y",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-69482-1": {
+    "decision": "excluded",
+    "reason": "Deep learning supports general fluid capillarity/energy-storage physics. Biological membranes are incidental background rather than an actual biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69482-1",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-69321-3": {
+    "decision": "excluded",
+    "reason": "Diffusion models predict fuel-cell impedance, an energy-device task without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69321-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-69185-7": {
+    "decision": "included",
+    "reason": "An equivariant pretrained molecular transformer predicts ligand binding, protein properties and antiviral compounds, with computational and experimental validation.",
+    "research_problem": "Learn transferable molecular representations for binding prediction and antiviral candidate discovery.",
+    "ai_method": "An E(3)-equivariant pretrained all-atom transformer spanning small-molecule and protein representations.",
+    "study_summary": "The model improved ligand-binding predictions and supported computational and experimental testing of antiviral candidates.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69185-7",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41562-025-02324-0": {
+    "decision": "included",
+    "reason": "Artificial neural components are trained within cognitive architectures to explain human reward-learning behavior and memory, directly connecting AI to neuroscience.",
+    "research_problem": "Determine how flexible memory representations shape human reward-guided choices.",
+    "ai_method": "Hybrid neural-cognitive architectures with artificial neural components fitted to human reward-learning behavior.",
+    "study_summary": "Flexible and independent memory variables were needed to explain behavior beyond simple incremental reward summaries.",
+    "source_url": "https://www.nature.com/articles/s41562-025-02324-0",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-69161-1": {
+    "decision": "included",
+    "reason": "Methods and Results validate the learning method on ECG, chest-X-ray, retinal OCT and human-promoter tasks, with clinician-annotated diagnostic explanation assessment.",
+    "research_problem": "Train interpretable biomedical classifiers efficiently when downstream error feedback is unavailable.",
+    "ai_method": "Forward Projection: randomized closed-form local neural-network training, evaluated on ECG, promoter, chest-X-ray and retinal OCT tasks.",
+    "study_summary": "The method achieved competitive biomedical classification with one forward training pass and provided layer-wise diagnostic explanations.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69161-1",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-68711-x": {
+    "decision": "included",
+    "reason": "A feedback-augmented vision-transformer model predicts human perceptual learning and is compared with human neural measurements.",
+    "research_problem": "Explain how a single visual experience produces lasting changes in human perception.",
+    "ai_method": "A deep vision-transformer model with top-down feedback compared with psychophysics, fMRI and intracranial recordings.",
+    "study_summary": "The model reproduced human behavioral changes and showed correspondence with high-level visual-cortical representations.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68711-x",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-68806-5": {
+    "decision": "included",
+    "reason": "Recurrent convolutional models of the primate visual system are tested against human psychophysics to explain occluded-object perception.",
+    "research_problem": "Explain how recurrent visual computation helps humans recognize partly occluded objects.",
+    "ai_method": "Recurrent convolutional visual-system models, architecture comparisons and human psychophysics.",
+    "study_summary": "Recurrent networks used occluder context to explain missing features, with compatible evidence in human perceptual experiments.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68806-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41557-025-02041-1": {
+    "decision": "pending",
+    "reason": "Machine learning assists mechanistic analysis of bioactive alkaloid synthesis, but the accessible abstract does not resolve whether this is a substantive biomedical AI contribution or auxiliary synthetic-chemistry interpretation.",
+    "source_url": "https://www.nature.com/articles/s41557-025-02041-1",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-68601-2": {
+    "decision": "excluded",
+    "reason": "Random-organization theory and SGD loss landscapes are general statistical physics; ecological examples do not establish a biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68601-2",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41563-025-02459-5": {
+    "decision": "excluded",
+    "reason": "Review of engineering-metal mechanics mentions biomedical sectors and future ML, without a substantive biomedical AI method or central application.",
+    "source_url": "https://www.nature.com/articles/s41563-025-02459-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41928-025-01554-4": {
+    "decision": "excluded",
+    "reason": "Memristor-based spiking hardware demonstrates generic temporal learning, without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41928-025-01554-4",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-025-68281-4": {
+    "decision": "excluded",
+    "reason": "Digital-twin anomaly diagnosis targets a discrete-manufacturing workshop, without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68281-4",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-025-67958-0": {
+    "decision": "excluded",
+    "reason": "Thermodynamic neural-network computing addresses general nonlinear calculation, without a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67958-0",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41596-025-01296-9": {
+    "decision": "included",
+    "reason": "The PHIND protocol trains and deploys CNNs for stool-form classification and defecation-event detection in passive gut-health monitoring.",
+    "research_problem": "Monitor stool form and defecation timing continuously without relying on self-reported bowel diaries.",
+    "ai_method": "Cloud-deployed convolutional neural networks for stool-form classification and defecation-event detection from smart-toilet sensors.",
+    "study_summary": "The protocol describes hardware assembly, CNN training and cloud deployment for passive longitudinal gut-health assessment.",
+    "source_url": "https://www.nature.com/articles/s41596-025-01296-9",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-025-67723-3": {
+    "decision": "included",
+    "reason": "Deep-learning epilepsy diagnosis is integrated with closed-loop epidural stimulation, a substantive neurological application beyond the device materials.",
+    "research_problem": "Enable responsive epilepsy stimulation without implanting foreign bodies inside brain tissue.",
+    "ai_method": "A deep-learning closed-loop diagnostic system linked to an ultrasound-powered epidural capacitive stimulator.",
+    "study_summary": "Animal demonstrations supported wireless on-demand neuromodulation integrated with seizure diagnosis.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67723-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-025-67226-1": {
+    "decision": "included",
+    "reason": "CleaveNet conditionally generates protease substrates and validates cleavage/selectivity experimentally for diagnostic and therapeutic enzyme applications.",
+    "research_problem": "Design peptide substrates that are efficiently and selectively cleaved by chosen proteases.",
+    "ai_method": "CleaveNet, a conditional generative AI pipeline that steers peptide sequences toward desired cleavage profiles.",
+    "study_summary": "Large-scale in-vitro screening validated generated substrates, including a difficult selective-MMP13 design task.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67226-1",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-72169-2": {
+    "decision": "excluded",
+    "reason": "The graph-learning application maps crop drought-resistance networks; the primary target is agricultural drought response rather than a general molecular-AI method or biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72169-2",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71053-3": {
+    "decision": "excluded",
+    "reason": "ML-assisted simulation explains graphene wetting; biochemical relevance is incidental and the task is materials/interface physics.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71053-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-71095-7": {
+    "decision": "excluded",
+    "reason": "Existing protein language models assist annotation in an environmental intertidal-virus biodiversity catalog; the central contribution is ecological resource mapping rather than a general genomic-AI method or biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71095-7",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70920-3": {
+    "decision": "excluded",
+    "reason": "The article develops a general artificial-network stabilization algorithm inspired by biological feedback, without an actual biomedical dataset or experimentally tested biological application established in the abstract.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70920-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41589-026-02176-3": {
+    "decision": "excluded",
+    "reason": "The assay screens lanmodulin metal-binding selectivity for rare-earth separation. Machine-learning design is a future use of the data, not the reported substantive method.",
+    "source_url": "https://www.nature.com/articles/s41589-026-02176-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-70353-y": {
+    "decision": "excluded",
+    "reason": "Reinforcement learning describes mouse biological learning in the background; the actual study measures/intervenes on cortical interneurons and does not report an artificial reinforcement learner.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70353-y",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41564-026-02260-3": {
+    "decision": "excluded",
+    "reason": "ML correlates fungal traits and genomes for sustainable agriculture; this is an agricultural/ecological phenogenomic application, not a general molecular-AI method or biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41564-026-02260-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41928-025-01555-3": {
+    "decision": "excluded",
+    "reason": "Memristive computing is evaluated on edge/line image processing; biological-retina inspiration is not a substantive biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41928-025-01555-3",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-026-68632-9": {
+    "decision": "excluded",
+    "reason": "Neural networks refer to biological neurons regenerated in hydrogels, not artificial networks; the abstract establishes no substantive AI method.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68632-9",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-025-68229-8": {
+    "decision": "excluded",
+    "reason": "The central contribution is large-scale physical reservoir hardware; a medical-image-generation example does not establish a substantive biomedical AI research target.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68229-8",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41928-025-01529-5": {
+    "decision": "excluded",
+    "reason": "Photonically linked memristive networks are evaluated on Google Speech and MNIST, without a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41928-025-01529-5",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41556-026-01916-w": {
+    "decision": "pending",
+    "reason": "AlphaFold is one supporting assay alongside cryo-EM and cellular biochemistry in a molecular-mechanism study; substantive AI-focused method/evaluation is not established in the abstract.",
+    "source_url": "https://www.nature.com/articles/s41556-026-01916-w",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41467-025-68074-9": {
+    "decision": "pending",
+    "reason": "AlphaFold predictions support a protein-degradation mechanism alongside biochemical assays; the abstract does not establish a substantive AI-focused method or evaluation.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68074-9",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s44222-025-00391-6": {
+    "decision": "pending",
+    "reason": "The mechanomedicine review presents AI integration as a future translational opportunity; accessible abstract evidence does not resolve a substantial current AI treatment or analysis.",
+    "source_url": "https://www.nature.com/articles/s44222-025-00391-6",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  },
+  "s41590-025-02355-9": {
+    "decision": "pending",
+    "reason": "The immunity review lists AI among emerging enabling technologies, but accessible abstract evidence does not resolve a substantive AI-focused molecular method or application.",
+    "source_url": "https://www.nature.com/articles/s41590-025-02355-9",
+    "reviewed_date": "2026-10-23",
+    "review_level": "Independent manual source abstract review; selected Methods/Results checks"
+  }
+}

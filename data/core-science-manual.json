@@ -1,0 +1,554 @@
+{
+  "s41467-026-78063-1": {
+    "status": "included",
+    "reason": "StriMap learns sequence, physicochemical and structural TCR–peptide–HLA recognition features; experimental T-cell activation tests validate microbial peptide candidates relevant to cancer and autoimmunity.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41591-026-04679-x": {
+    "status": "included",
+    "reason": "The HERBOT cancer trial includes preplanned AI-powered whole-slide image analysis connecting HER2-positive tumor-cell proportions with clinical benefit; AI is an explicitly evaluated correlative component.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-77922-1": {
+    "status": "included",
+    "reason": "FPRM learns attractor mappings to impute missing time series and explicitly evaluates EEG signals among its real-world datasets; this is a general method with a concrete neuroscience evaluation.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-77715-6": {
+    "status": "included",
+    "reason": "HomoLogic feeds enzyme functional descriptors to interpretable prediction models, identifying stereoselective ketoreductases for pharmaceutically relevant alcohol synthesis.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41592-026-03213-8": {
+    "status": "included",
+    "reason": "IRIS is explicitly a neural-network model trained on human stem-cell signaling perturbations and transferred to mouse single-cell atlases.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-77533-w": {
+    "status": "included",
+    "reason": "DASH integrates bidirectional LSTM networks, conditional random fields and hidden Markov models to analyze protein and nucleic-acid fluorescence dynamics.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41594-026-01869-6": {
+    "status": "included",
+    "reason": "NOAH is an explicitly AI-assisted fusion-construct screening pipeline, coupled to designed ARK1, for GPCR structure determination and drug discovery.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s43588-026-01026-5": {
+    "status": "included",
+    "reason": "PULSE is a longitudinal self-supervised framework generating and aligning patient multiomics, retinal images, blood tests and EHR data for disease prediction.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s42256-026-01285-x": {
+    "status": "included",
+    "reason": "CoxRTL uses transfer learning and density-ratio recalibration for clinical survival prediction; evaluation includes NHANES and an independent Shanghai cohort.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-76277-x": {
+    "status": "included",
+    "reason": "EmitGCL is a deep-learning framework for future metastasis prediction with multicohort cancer evaluation and experimental biomarker follow-up.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75700-7": {
+    "status": "included",
+    "reason": "A sequence-based deep-learning model predicts cell-type-specific chromatin accessibility to analyze transposable-element regulatory contributions in primate cerebellum development.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75702-5": {
+    "status": "included",
+    "reason": "Mol-CADiff is an autoregressive diffusion framework for text-conditioned molecular design with explicit drug-discovery motivation and molecular benchmarks.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75924-7": {
+    "status": "included",
+    "reason": "The study derives interpretable low-dimensional surrogate dynamics for recurrent neural networks used in neuroscience, addressing working memory and decision-making models.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75850-8": {
+    "status": "included",
+    "reason": "Deep-learning analysis of cryo-EM density estimates mutant versus wild-type fibril composition in patient-derived hereditary transthyretin amyloidosis biopsies.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75375-0": {
+    "status": "included",
+    "reason": "VN1K combines a pangenome reference with a deep-learning variant-detection pipeline in 1,011 Vietnamese individuals, supporting disease and pharmacogenomic analysis.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75584-7": {
+    "status": "included",
+    "reason": "The device-agnostic deep-learning imaging method is evaluated on single-molecule localization microscopy as well as astronomy, providing a concrete biological-imaging application.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03231-z": {
+    "status": "included",
+    "reason": "RUSH3D-HR incorporates a parallelized deep-learning imaging pipeline and demonstrates immune-cell dynamics in living mammalian tissues.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03222-0": {
+    "status": "included",
+    "reason": "EFLIM is a self-supervised fluorescence-denoising method evaluated on intracellular signaling, lymphocytes and human glioma tissue.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75527-2": {
+    "status": "included",
+    "reason": "Corgi learns context-aware DNA-to-function relationships across cell types, predicting epigenetic tracks and genomic variant effects in held-out contexts.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03218-w": {
+    "status": "included",
+    "reason": "DeepDETAILS is an explicitly deep-learning deconvolution framework producing cell-type-specific regulatory profiles across human tissues.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03188-z": {
+    "status": "included",
+    "reason": "PALACE incorporates deep-learning phage detection into metagenome assembly and evaluates gut metagenomes from colorectal-cancer patients and controls.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41551-026-01718-3": {
+    "status": "included",
+    "reason": "An active-learning method iteratively optimizes antibodies for cross-species CD98hc binding and brain delivery, an AI-guided therapeutic-protein design task.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41592-026-03152-4": {
+    "status": "included",
+    "reason": "ClairS is an explicitly deep-learning somatic variant caller for long-read tumor–normal sequencing.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-026-10691-5": {
+    "status": "included",
+    "reason": "Natural-language processing models are combined with human single-neuron recordings to map syntactic and semantic representations during language production.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-026-10507-6": {
+    "status": "included",
+    "reason": "A deep-learning facial-video system estimates heart rate during everyday smartphone use, with participant-level laboratory and free-living evaluation.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-026-10535-2": {
+    "status": "included",
+    "reason": "MouseMapper uses foundation-model-based deep learning for whole-mouse-body pathology imaging and investigates diet-induced obesity.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-026-10528-1": {
+    "status": "included",
+    "reason": "The work compares mouse neural recordings with critically normalized artificial networks and evaluates a zero-shot working-memory task; it is computational neuroscience.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41593-026-02262-8": {
+    "status": "included",
+    "reason": "Cheese3D is a computer-vision framework for mouse facial motion that is evaluated in anesthetic-depth prediction and neural-activity experiments.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-71555-0": {
+    "status": "included",
+    "reason": "VQ-VNS learns structural-MRI representations to predict vagus-nerve-stimulation response in pediatric epilepsy.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-026-10243-x": {
+    "status": "included",
+    "reason": "Deep learning quantifies CT-derived thymic health in cancer cohorts and tests associations with immunotherapy outcomes.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-70297-3": {
+    "status": "included",
+    "reason": "Federated-learning Cox models are developed across 14 centers and externally validated at two centers for anal-cancer prognosis.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-69528-4": {
+    "status": "included",
+    "reason": "A Bayesian multitask-learning framework jointly models 45 hepatosplenic conditions in the SchistoTrack cohort to identify multimorbidity risks.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-69075-y": {
+    "status": "included",
+    "reason": "The study combines minimum-redundancy maximum-relevance feature selection with proteomics-based prediction of secondary infections in HBV-related liver failure.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41592-026-03007-y": {
+    "status": "included",
+    "reason": "DECODE is a deep-learning deconvolution framework for transcriptomic, proteomic and metabolomic tissue data across clinical and healthy cohorts.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03013-7": {
+    "status": "included",
+    "reason": "The scHiCAR resource incorporates a deep-learning loop caller to map cell-type-specific regulatory interactions across mouse brain cells.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-69306-2": {
+    "status": "included",
+    "reason": "A few-shot learning pipeline discovers antimicrobial peptides, with antimicrobial and mouse-pneumonia validation.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03005-7": {
+    "status": "included",
+    "reason": "PlasMAAG uses contrastive learning and assembly–alignment graphs to reconstruct plasmids from metagenomic data, including hospital sewage.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-025-10093-z": {
+    "status": "included",
+    "reason": "PARM is a cell-type-specific deep-learning model trained on human promoter reporter assays to predict expression and design synthetic promoters.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-68633-8": {
+    "status": "included",
+    "reason": "Deep learning classifies cell phenotypes in NSCLC immunofluorescence images to investigate metabolic neighborhoods and immunotherapy-response prediction.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-68684-x": {
+    "status": "included",
+    "reason": "A computer-vision screening platform measures phage–bacteria interactions to design therapeutic phage cocktails for urinary tract infections.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-68696-7": {
+    "status": "included",
+    "reason": "GPTL implements transfer-learning algorithms to improve polygenic scores in underrepresented ancestry groups using UK Biobank and All of Us.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-68368-6": {
+    "status": "included",
+    "reason": "Nonnegative matrix factorization and unsupervised clustering stratify acute-on-chronic liver failure patients, with external cohort validation.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-68292-9": {
+    "status": "included",
+    "reason": "DeepSTD uses implicit neural representations to compress medical CT and MRI volumes while evaluating fidelity, speed and compression.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-025-68044-1": {
+    "status": "included",
+    "reason": "NTAC implements semi-supervised and unsupervised neuronal-type classification from animal-brain connectome graphs.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s43588-025-00934-2": {
+    "status": "included",
+    "reason": "CCCvelo incorporates a physics-informed neural-network learning algorithm to infer cell-state transitions from spatial transcriptomics.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-76681-3": {
+    "status": "excluded",
+    "reason": "CBAS identifies behavioral sequences using resampling-based association tests; the abstract does not describe an AI learning model.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-76050-0": {
+    "status": "excluded",
+    "reason": "The eikonal cardiac digital twin is a biophysical simulation method; physics-informed terminology alone does not establish a neural-network or AI method.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-75582-9": {
+    "status": "excluded",
+    "reason": "The prenatal cortical-folding study uses anatomically realistic biophysical growth simulation; the abstract does not establish AI learning.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-73483-5": {
+    "status": "excluded",
+    "reason": "Graph-attention diagnosis targets power substations and electrical faults, with no biomedical application.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-72364-1": {
+    "status": "excluded",
+    "reason": "The learned optical wavefront method is evaluated on generic optical fields; microscopy is contextual and no biological sample application is established in the abstract.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-72249-3": {
+    "status": "excluded",
+    "reason": "The deep-learning chemical sensor is evaluated on general molecular analytes; molecular diagnostics is presented as a possible future application rather than a demonstrated biomedical target.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-70730-7": {
+    "status": "excluded",
+    "reason": "The review concerns cellulose agricultural sensors and crop/soil monitoring, without a demonstrated medical AI target.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41586-026-10142-1": {
+    "status": "excluded",
+    "reason": "AI structural modeling assists maize nutrient and cold-stress engineering; the evaluated target is agricultural crop productivity.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41467-026-68305-7": {
+    "status": "excluded",
+    "reason": "Neural network refers to the parasite nervous system; the abstract reports single-cell biological mechanisms without an artificial learning model.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41593-025-02190-z": {
+    "status": "excluded",
+    "reason": "The PFC study reports neuronal activity mapping and hierarchy associations; data-driven alone does not establish an AI method.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41587-026-03211-3": {
+    "status": "excluded",
+    "reason": "This journalistic article discusses digital twins rather than reporting an original research study or explicit Review article.",
+    "screening_method": "manual_abstract_review",
+    "review_level": "abstract"
+  },
+  "s41593-026-02437-3": {
+    "status": "included",
+    "reason": "Methods fit an input-driven recurrent neural network using iLQR-VAE to mouse V1–LM electrophysiology; the learned latent circuit addresses cortical computation.",
+    "review_level": "fulltext",
+    "screening_method": "manual_fulltext_review"
+  },
+  "s41467-026-77784-7": {
+    "status": "included",
+    "reason": "Results explicitly train a random-forest classifier for embryo cell types and debris removal within the 3D-4i computer-vision pipeline.",
+    "review_level": "fulltext",
+    "screening_method": "manual_fulltext_review"
+  },
+  "s41586-026-10967-w": {
+    "status": "included",
+    "reason": "The abstract explicitly combines machine-learning-based analysis with in vivo experiments to study reward engagement; the accessible abstract does not specify the exact algorithm.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41586-026-10753-8": {
+    "status": "excluded",
+    "reason": "This broad systems-vaccinology review presents AI as a beginning future accelerator rather than a central AI method or AI-focused review.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-76187-y": {
+    "status": "included",
+    "reason": "Methods train L1-penalized logistic models with repeated nested cross-validation for transdiagnostic psychiatric biomarker feature selection.",
+    "review_level": "fulltext",
+    "screening_method": "manual_fulltext_review"
+  },
+  "s41587-026-03121-4": {
+    "status": "included",
+    "reason": "Methods construct GRU recurrent-neural-network digital twins and evaluate ex vivo human lung physiology and treatment effects.",
+    "review_level": "fulltext",
+    "screening_method": "manual_fulltext_review"
+  },
+  "s41467-026-77661-3": {
+    "status": "excluded",
+    "reason": "The actual experiment controls obstacle-avoiding robotic vehicles using wave-reservoir hardware; brain inspiration does not establish a biomedical application.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-75667-5": {
+    "status": "excluded",
+    "reason": "The abstract studies attribution of audiovisual diffusion-model outputs; protein structure and therapeutics are background examples rather than evaluated applications.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-75808-w": {
+    "status": "excluded",
+    "reason": "Hardware evaluation uses MNIST, CIFAR-10 and spoken-digit classification; biological vision is inspiration rather than a biomedical target.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-74635-3": {
+    "status": "excluded",
+    "reason": "The camera evaluates mixed-reality scene reconstruction and tracking; Drosophila-inspired optics does not establish a biomedical application.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s42256-026-01255-3": {
+    "status": "excluded",
+    "reason": "The dual-memory spiking network targets long-sequence benchmarks and hardware efficiency without a stated biomedical evaluation.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-71090-y": {
+    "status": "excluded",
+    "reason": "PhenoAssistant is evaluated on agricultural plant-phenotyping workflows; the abstract does not establish medical or biomedical research targets.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-71127-2": {
+    "status": "excluded",
+    "reason": "The single-molecule neuromorphic device evaluates Morse-code recognition and associative-learning emulation, without a medical or biological-data task.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-70802-8": {
+    "status": "excluded",
+    "reason": "Magnetic-tunnel-junction spiking hardware evaluates gesture recognition; artificial synapses alone do not constitute biomedical AI.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-69898-9": {
+    "status": "excluded",
+    "reason": "The transistor reinforcement-learning demonstration targets autonomous driving, without a biomedical application.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-68858-7": {
+    "status": "excluded",
+    "reason": "The artificial tactile system targets safe autonomous robotics; biological touch is its architectural inspiration rather than an evaluated biomedical application.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-025-67891-2": {
+    "status": "excluded",
+    "reason": "The graph-neural study analyzes historical moralization of words in text corpora; diseases are one conceptual category, not a medical evaluation.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41591-026-04584-3": {
+    "status": "excluded",
+    "reason": "This iPSC translation review discusses AI as a prospective workflow integration, rather than centrally reviewing AI methods.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41586-026-10860-6": {
+    "status": "excluded",
+    "reason": "The abstract reports astrocyte immune mechanisms using AlphaFold predictions as an auxiliary structural tool; it does not develop or evaluate an AI biomedical method.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-74383-4": {
+    "status": "excluded",
+    "reason": "The abstract reports mechanistic HDAC-inhibitor biosynthesis with auxiliary AlphaFold predictions, rather than developing or evaluating an AI method.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-69985-x": {
+    "status": "excluded",
+    "reason": "The abstract addresses Mer3–RPA meiotic mechanisms with auxiliary AlphaFold structural modeling, rather than an AI-method contribution.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-70484-2": {
+    "status": "excluded",
+    "reason": "The abstract addresses Sororin/cohesin molecular mechanisms with auxiliary AlphaFold modeling, rather than an AI-method contribution.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41586-025-09990-0": {
+    "status": "excluded",
+    "reason": "The abstract characterizes the LetA transporter family using structural and functional biology with ancillary AlphaFold-predicted states; AI development/evaluation is not a research target.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-025-68048-x": {
+    "status": "excluded",
+    "reason": "Neural networks in the abstract are iPSC-derived biological neuronal circuits; no artificial learning algorithm is described.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-70018-w": {
+    "status": "excluded",
+    "reason": "The abstract develops geometric diffusion-MRI invariants and acquisition protocols; machine-learning classification is framed as a future use rather than an evaluated AI method.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s42256-026-01307-8": {
+    "status": "excluded",
+    "reason": "LACE evaluates general combinatorial-optimization benchmarks; healthcare operations is only a background motivation, without a concrete biomedical benchmark.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41587-026-03227-9": {
+    "status": "excluded",
+    "reason": "Transformer base editor refers to a genome-editing protein system, not a Transformer neural architecture; the abstract does not establish an AI method.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41586-026-10342-9": {
+    "status": "excluded",
+    "reason": "The beta-thalassaemia trial uses a transformer base editor as a molecular editing tool; transformer does not denote an AI model in this study.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-69370-8": {
+    "status": "excluded",
+    "reason": "The prospective pregnancy MRI study analyzes biological functional neural networks; the abstract does not describe an artificial learning algorithm.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41593-026-02350-9": {
+    "status": "excluded",
+    "reason": "Neural networks denote distributed mouse cortical circuitry; the abstract describes an optical/optogenetic instrument without an AI method.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-75166-7": {
+    "status": "excluded",
+    "reason": "Neural cellular automata classify physical modular-brick shapes and damage; bioinspiration does not establish a biomedical application.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s42256-026-01233-9": {
+    "status": "excluded",
+    "reason": "The neural PDE operator is evaluated on phase transitions and multi-physics free-boundary problems; biomedical applications are contextual rather than demonstrated.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-72344-5": {
+    "status": "excluded",
+    "reason": "The machine-learning sensor is evaluated for crop acid/salt stress classification, an agricultural application without a biomedical target.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-72304-z": {
+    "status": "excluded",
+    "reason": "The study analyzes imaging through scattering media; medical imaging through biological tissues is a future application rather than an evaluated biological target.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-75789-w": {
+    "status": "excluded",
+    "reason": "The evaluated ML task identifies plant biocontrol microbes in natural Arabidopsis populations; the target is plant disease management rather than a general biomedical method.",
+    "review_level": "abstract",
+    "screening_method": "manual_abstract_review"
+  },
+  "s41467-026-70832-2": {
+    "status": "included",
+    "reason": "Methods explicitly train LASSO logistic classifiers with repeated cross-validation on WMH features and use spectral clustering for MRI pathophysiology patterns.",
+    "review_level": "fulltext",
+    "screening_method": "manual_fulltext_review"
+  }
+}

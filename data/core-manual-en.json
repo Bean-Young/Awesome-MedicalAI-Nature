@@ -1,0 +1,955 @@
+{
+  "s41551-025-01565-8": {
+    "research_problem": "Estimate gait forces and the effects of movement changes without a full biomechanics laboratory.",
+    "ai_method": "GaitDynamics, a generative foundation model with flexible kinematic inputs and multiple outputs.",
+    "study_summary": "The model estimates ground-reaction forces from complete or incomplete kinematics and predicts changes associated with gait modification or running speed. The authors share data, code and trained models. The accessible abstract does not state a unique participant total.",
+    "scope_evidence": "Generative deep learning is evaluated on human gait and clinically relevant movement mechanics.",
+    "topics": [
+      "Biomechanics",
+      "Rehabilitation",
+      "Foundation models"
+    ],
+    "contexts": [
+      "Studies contributing to AddBiomechanics; not a participant count"
+    ]
+  },
+  "s41551-025-01574-7": {
+    "research_problem": "Localize imaging abnormalities with fewer expert annotations and better cross-dataset transfer.",
+    "ai_method": "AFLoc aligns image features and medical concepts through multilevel semantic contrastive learning.",
+    "study_summary": "The system is evaluated on annotation-free localization and classification, with additional pathology and fundus experiments. It performs well against task baselines and selected human localization benchmarks; these results do not establish patient benefit.",
+    "scope_evidence": "The AI targets abnormalities in chest radiographs, pathology and retinal imaging.",
+    "topics": [
+      "Medical imaging",
+      "Vision-language models",
+      "Localization"
+    ],
+    "contexts": [
+      "Chest radiograph-report training pairs",
+      "External chest-imaging datasets",
+      "Chest pathology types covered"
+    ]
+  },
+  "s41551-025-01576-5": {
+    "research_problem": "Turn large omics datasets into testable hypotheses about molecular regulation.",
+    "ai_method": "LyMOI combines a graph-convolutional large graph model, hierarchical fine-tuning and GPT-3.5 reasoning.",
+    "study_summary": "Autophagy-focused analyses nominate CTSL and FAM98A and test their roles using cellular perturbations and tumour experiments in mice. These experiments support selected computational hypotheses rather than clinical anticancer efficacy.",
+    "scope_evidence": "AI is used for omics interpretation with biomedical mechanism and drug-response experiments.",
+    "topics": [
+      "Multiomics",
+      "Bioinformatics",
+      "Drug mechanisms"
+    ],
+    "contexts": [
+      "Transcriptomic, proteomic and phosphoproteomic data",
+      "CTSL and FAM98A; not patients"
+    ]
+  },
+  "s41551-025-01578-3": {
+    "research_problem": "Interpret freehand fetal ultrasound videos alongside the operator's spoken descriptions.",
+    "ai_method": "Sonomate uses coarse video-text and fine image-sentence alignment with anatomy-aware matching and context correction.",
+    "study_summary": "The system performs anatomy detection and ultrasound question answering without retraining on manually labelled images. Deployment guardrails are included. Extracted video frames must not be counted as independent patients.",
+    "scope_evidence": "The language and vision system directly supports fetal ultrasound interpretation.",
+    "topics": [
+      "Fetal ultrasound",
+      "Vision-language models",
+      "Obstetrics"
+    ],
+    "contexts": [
+      "Frames retained after PULSE video subsampling",
+      "First-trimester fetal ultrasound subset",
+      "Second-trimester fetal ultrasound subset"
+    ]
+  },
+  "s41551-025-01598-z": {
+    "research_problem": "Predict biomedical graph relationships while making the supporting paths inspectable.",
+    "ai_method": "BioPathNet uses a neural Bellman-Ford network, path-based message passing and stringent negative sampling.",
+    "study_summary": "Evaluations cover gene function, drug indications, synthetic lethality and lncRNA targets. Path inspection and expert or literature/trial checks support selected candidates; this is not a new clinical drug trial.",
+    "scope_evidence": "Graph learning is applied directly to drug-disease and molecular relationships.",
+    "topics": [
+      "Knowledge graphs",
+      "Drug repurposing",
+      "Bioinformatics"
+    ],
+    "contexts": []
+  },
+  "s41551-025-01587-2": {
+    "research_problem": "Measure and improve the reliability of LLM-generated biomedical analysis code.",
+    "ai_method": "Sixteen LLMs are benchmarked; a planning-and-revision agent is then evaluated in an interactive platform.",
+    "study_summary": "Direct code generation achieves less than 40% overall accuracy, whereas the planning agent reaches 74%. Five medical researchers also use the platform for three studies. The small user study does not establish that statistical review can be removed.",
+    "scope_evidence": "The coding tasks come from biomedical research rather than generic programming benchmarks.",
+    "topics": [
+      "Research agents",
+      "Code reliability",
+      "Biomedical analysis"
+    ],
+    "contexts": [
+      "Coding benchmark tasks",
+      "Source studies spanning seven biomedical areas",
+      "Eight proprietary and eight open-source models",
+      "Researchers in the platform user study"
+    ]
+  },
+  "s41551-025-01585-4": {
+    "research_problem": "Use animal imaging experiments to address sparse human surgical training data.",
+    "ai_method": "Xeno-learning transfers physiological spectral changes across species through data augmentation.",
+    "study_summary": "Experiments suggest that relative spectral changes caused by perfusion or surgical manipulation can transfer despite differences between species. The evidence supports a transfer-learning concept, not improved patient outcomes.",
+    "scope_evidence": "Machine learning analyzes human and animal hyperspectral data for surgical applications.",
+    "topics": [
+      "Surgical imaging",
+      "Transfer learning",
+      "Hyperspectral imaging"
+    ],
+    "contexts": [
+      "Images across humans, pigs and rats; not patient count"
+    ]
+  },
+  "s41551-025-01608-0": {
+    "research_problem": "Support interpretation, prioritization and referral using complete clinical neuroimaging examinations.",
+    "ai_method": "Prima is a hierarchical-vision neuroimaging foundation model trained on health-system MRI data.",
+    "study_summary": "A one-year system-wide test reports a mean diagnostic AUC of 0.920 across 52 diagnoses and evaluates explanation and workflow outputs. Raw institutional MRI data are restricted; examination totals are not unique patient totals.",
+    "scope_evidence": "The model addresses real-world clinical MRI and neurological diagnosis.",
+    "topics": [
+      "Neuroimaging",
+      "MRI",
+      "Foundation models"
+    ],
+    "contexts": [
+      "More than this many MRI examinations used for training",
+      "MRI examinations in a one-year health-system test",
+      "Radiological diagnoses evaluated"
+    ]
+  },
+  "s41551-026-01616-8": {
+    "research_problem": "Determine whether histology-based biomarker models learn confounded clinicopathological signals.",
+    "ai_method": "Statistical dependency analyses and deep-learning audits across cancer types, cohorts and modelling approaches.",
+    "study_summary": "Dependencies between biomarkers and features such as tumour grade can inflate or alter apparent prediction performance. Some gains beyond routine pathology are modest; the authors caution against replacing molecular assays.",
+    "scope_evidence": "The work audits AI predictions of clinically relevant molecular biomarkers from pathology.",
+    "topics": [
+      "Computational pathology",
+      "Bias auditing",
+      "Cancer biomarkers"
+    ],
+    "contexts": []
+  },
+  "s41551-026-01628-4": {
+    "research_problem": "Improve citrullinated-peptide discovery and treatment stratification in rheumatoid arthritis.",
+    "ai_method": "Iseq-Cit proteomics is combined with a bidirectional gated recurrent unit and clinical-proteomic prediction models.",
+    "study_summary": "Longitudinal profiles are linked to RA development and severity. External ELISA experiments report 84.2% accuracy for peptide-serum reactivity, with 19 diagnostic candidates nominated. Peptides are a different unit from patients.",
+    "scope_evidence": "AI supports autoimmune antigen discovery and clinical response stratification.",
+    "topics": [
+      "Rheumatoid arthritis",
+      "Proteomics",
+      "Autoantigens"
+    ],
+    "contexts": [
+      "RA-sera-negative peptides used for model training",
+      "RA-sera-positive peptides used for model training",
+      "Candidate diagnostic peptides; not patients"
+    ]
+  },
+  "s41551-026-01622-w": {
+    "research_problem": "Make ophthalmic video models practical for real-time surgical recognition and navigation.",
+    "ai_method": "OVFM uses self-supervised video-transformer pretraining and knowledge distillation for deployment.",
+    "study_summary": "The distilled model is deployed on surgical microscopes. Ten surgeons perform cataract procedures on wet-lab porcine eyes, with improved performance and narrower experience gaps. This is not a patient surgical trial.",
+    "scope_evidence": "The work combines surgical AI with ophthalmic hardware and porcine-eye experiments.",
+    "topics": [
+      "Ophthalmic surgery",
+      "Video models",
+      "Surgical navigation"
+    ],
+    "contexts": [
+      "Pretraining video clips",
+      "Surgical procedure types represented",
+      "Downstream evaluation tasks",
+      "Surgeons in wet-lab porcine-eye experiments"
+    ]
+  },
+  "s41551-026-01633-7": {
+    "research_problem": "Find CAR-T response biomarkers that generalize across haematological cancers and trials.",
+    "ai_method": "Informatics and machine-learning integration of clinical, flow-cytometry, manufacturing, serum and qPCR features.",
+    "study_summary": "The study assembles a cross-trial resource to identify generalizable response and non-response features. Patients, source trials, T cells and repeated serum measurements are separate units and must not be combined into one sample total.",
+    "scope_evidence": "Machine learning is used to study clinical response to cancer immunotherapy.",
+    "topics": [
+      "CAR-T",
+      "Haematological cancer",
+      "Response prediction"
+    ],
+    "contexts": [
+      "Patients pooled across source trials",
+      "Haematological cancer types",
+      "Source clinical trials, not new AI trials",
+      "More than this many apheresis T cells analyzed",
+      "More than this many serum-marker measurements"
+    ]
+  },
+  "s41551-026-01640-8": {
+    "research_problem": "Optimize ionizable lipid conformations for tissue-targeted mRNA delivery.",
+    "ai_method": "Molecular-dynamics conformations are converted to two-dimensional density maps for machine-learning lipid selection.",
+    "study_summary": "Candidate P1 supports spleen-targeted delivery associated with protein-corona formation. Preclinical mRNA-vaccine experiments show immune responses and tumour suppression; clinical efficacy has not been established.",
+    "scope_evidence": "AI guides biomedical lipid selection with drug-delivery and vaccine experiments.",
+    "topics": [
+      "Drug delivery",
+      "Lipid nanoparticles",
+      "mRNA"
+    ],
+    "contexts": []
+  },
+  "s41551-026-01637-3": {
+    "research_problem": "Learn cardiac MRI representations transferable across institutions and many clinical tasks.",
+    "ai_method": "Self-supervised contrastive learning aligns cine cardiac MRI with associated reports.",
+    "study_summary": "The model is evaluated on ejection-fraction regression and 39 diagnostic categories, including external cohorts. Some data and model resources are open, while hospital imaging requires agreements or institutional approval.",
+    "scope_evidence": "The deep-learning system directly targets cardiovascular imaging and diagnosis.",
+    "topics": [
+      "Cardiac MRI",
+      "Foundation models",
+      "Cardiovascular medicine"
+    ],
+    "contexts": [
+      "Individuals across pretraining, fine-tuning and external cohorts",
+      "Approximately this many videos across views and slices",
+      "Diagnostic categories"
+    ]
+  },
+  "s41551-026-01634-6": {
+    "research_problem": "Help biomedical researchers execute specialized multistep analyses without programming expertise.",
+    "ai_method": "BioMedAgent is a multi-agent LLM framework using interactive tool exploration and memory retrieval.",
+    "study_summary": "The framework achieves 77% success on 327 BioMed-AQA tasks and is also evaluated on BixBench and biomedical workflows. Success rates refer to tasks, not patients.",
+    "scope_evidence": "The agent is evaluated on biomedical datasets and domain-specific analysis tools.",
+    "topics": [
+      "Research agents",
+      "Bioinformatics",
+      "LLMs"
+    ],
+    "contexts": [
+      "Biomedical analysis tasks in BioMed-AQA"
+    ]
+  },
+  "s41551-026-01639-1": {
+    "research_problem": "Use generative pretraining to support limited-data breast ultrasound tasks.",
+    "ai_method": "BUSGen generates task-specific synthetic data after few-shot adaptation of a breast-ultrasound foundation model.",
+    "study_summary": "Evaluations cover screening, diagnosis and prognosis. For early diagnosis, sensitivity exceeds that of nine board-certified radiologists by an average 16.5 percentage points. Image scale and reader comparisons do not by themselves prove patient benefit.",
+    "scope_evidence": "The generative model directly addresses breast-cancer imaging tasks.",
+    "topics": [
+      "Breast ultrasound",
+      "Generative AI",
+      "Breast cancer"
+    ],
+    "contexts": [
+      "More than this many pretraining ultrasound images",
+      "Radiologists in the early-diagnosis comparison"
+    ]
+  },
+  "s41551-026-01636-4": {
+    "research_problem": "Predict the clinical phenotypes of missense variants beyond a pathogenicity label.",
+    "ai_method": "PheMART combines protein language models, interaction networks, domains, medical graphs and EHRs through contrastive learning.",
+    "study_summary": "Variant-phenotype predictions support rare-disease diagnosis and candidate variant prioritization. Derived resources are shared, but VA, UDN and licensed HGMD components retain separate access restrictions.",
+    "scope_evidence": "Machine learning predicts clinical phenotypes and is evaluated in rare-disease diagnosis.",
+    "topics": [
+      "Clinical genetics",
+      "Rare diseases",
+      "Variant effects"
+    ],
+    "contexts": [
+      "Phenotypes linked in the embedding space",
+      "Predictions for putatively pathogenic amino-acid changes; not patients"
+    ]
+  },
+  "s41551-026-01668-w": {
+    "research_problem": "Detect diverse head-CT abnormalities with limited high-quality labels.",
+    "ai_method": "FM-HCT self-supervised three-dimensional CT foundation model.",
+    "study_summary": "Pretraining on unlabelled scans improves downstream diagnosis against training from scratch and earlier 3D models. Clinical training data remain private; public external sets are separately available.",
+    "topics": [
+      "Clinical head CT",
+      "Foundation models"
+    ],
+    "experiment_scale": [
+      {
+        "value": 361663,
+        "unit": "CT scans",
+        "context": "Non-contrast three-dimensional pretraining examinations; not patient count"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "RSNA Intracranial Hemorrhage",
+        "source": "RSNA challenge",
+        "access": "Platform terms",
+        "url": "https://www.kaggle.com/competitions/rsna-intracranial-hemorrhage-detection"
+      },
+      {
+        "name": "CQ500",
+        "source": "Public head-CT dataset",
+        "access": "Platform terms",
+        "url": "https://www.kaggle.com/datasets/crawford/qureai-headct"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for clinical head ct."
+  },
+  "s41551-026-01666-y": {
+    "research_problem": "Improve reproducibility and transfer across fMRI analysis tasks.",
+    "ai_method": "NeuroSTORM spatiotemporal foundation model trained directly on four-dimensional fMRI.",
+    "study_summary": "The model is evaluated across five downstream task families and two clinical cohorts covering 17 diagnoses. Large frame counts reflect repeated within-person imaging, not independent participants.",
+    "topics": [
+      "Functional MRI",
+      "Neuroimaging",
+      "Foundation models"
+    ],
+    "experiment_scale": [
+      {
+        "value": 28650000,
+        "unit": "fMRI frames",
+        "context": "Pretraining"
+      },
+      {
+        "value": 50000,
+        "unit": "participants",
+        "context": "More than this many pretraining participants"
+      },
+      {
+        "value": 17,
+        "unit": "diagnoses",
+        "context": "Two multihospital clinical cohorts"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "UK Biobank / ABCD / HCP and other neuroimaging cohorts",
+        "source": "Multiple named cohort providers",
+        "access": "Mixed public and controlled access",
+        "url": "https://www.nature.com/articles/s41551-026-01666-y#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for functional mri."
+  },
+  "s41551-026-01662-2": {
+    "research_problem": "Combine volumetric OCT and other retinal modalities for diagnosis and prognosis.",
+    "ai_method": "OCTCube-M multimodal contrastive pretraining with unimodal, bimodal and trimodal variants.",
+    "study_summary": "The framework evaluates eight retinal diseases, cross-modality retrieval and geographic-atrophy growth prediction. Clinical-trial reuse is distinct from a new intervention trial; institutional and company-owned data are restricted.",
+    "topics": [
+      "Retinal imaging",
+      "Multimodal learning",
+      "OCT"
+    ],
+    "experiment_scale": [
+      {
+        "value": 26605,
+        "unit": "OCT volumes",
+        "context": "OCTCube pretraining"
+      },
+      {
+        "value": 1620000,
+        "unit": "OCT slices",
+        "context": "Slices within these volumes"
+      },
+      {
+        "value": 6,
+        "unit": "source clinical trials",
+        "context": "Geographic-atrophy prognosis data"
+      },
+      {
+        "value": 23,
+        "unit": "countries",
+        "context": "Trial coverage"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "University of Washington ophthalmic imaging",
+        "source": "Routine clinical and institutional records",
+        "access": "Not publicly shared",
+        "url": "https://www.nature.com/articles/s41551-026-01662-2#data-availability"
+      },
+      {
+        "name": "Geographic atrophy clinical trials",
+        "source": "Roche and other trial data described in article",
+        "access": "Company data-sharing application",
+        "url": "https://go.roche.com/data_sharing"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for retinal imaging."
+  },
+  "s41551-026-01653-3": {
+    "research_problem": "Combine generalist flexibility with specialist precision in medical image tasks.",
+    "ai_method": "GSCo combines the MedDr medical generalist with lightweight specialists and retrieved clinical examples.",
+    "study_summary": "Evaluation across 32 datasets tests diagnosis and report generation. The framework improves on generalist and specialist baselines but is a task evaluation rather than a patient-outcome study.",
+    "topics": [
+      "Medical imaging",
+      "Generalist-specialist collaboration"
+    ],
+    "experiment_scale": [
+      {
+        "value": 32,
+        "unit": "evaluation datasets",
+        "context": "Multiple medical modalities"
+      },
+      {
+        "value": 45,
+        "unit": "datasets overall",
+        "context": "Training and evaluation overlap; do not add to evaluation count"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "GSCo / MedDr dataset collection",
+        "source": "Public imaging and VQA datasets plus private UltraBreast",
+        "access": "Mixed; UltraBreast is private",
+        "url": "https://www.nature.com/articles/s41551-026-01653-3#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for medical imaging."
+  },
+  "s41551-026-01676-w": {
+    "research_problem": "Explain global decision rules of otherwise opaque medical AI models.",
+    "ai_method": "Class-association manifold learning produces generative counterfactuals and a low-dimensional topology of class relationships.",
+    "study_summary": "Experiments examine model explanations and medical-rule discovery while preserving diagnostic performance. Generated explanations are evaluated as a model-auditing tool, not direct evidence of clinical benefit.",
+    "topics": [
+      "Medical AI interpretability",
+      "Generative models"
+    ],
+    "experiment_scale": [],
+    "datasets": [
+      {
+        "name": "Multimodal public medical datasets",
+        "source": "OCT, radiographs, retinal images, brain MRI, ECG and other benchmarks",
+        "access": "Source-specific public access",
+        "url": "https://www.nature.com/articles/s41551-026-01676-w#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for medical ai interpretability."
+  },
+  "s41551-026-01654-2": {
+    "research_problem": "Integrate available breast imaging modalities for non-invasive cancer assessment.",
+    "ai_method": "BINDS uses a staged multimodal deep-learning workflow and radiology-pathology alignment.",
+    "study_summary": "Development and validation include flexible modality combinations. Reported AUC is 0.973; estimated reductions in benign biopsies should be interpreted separately from prospectively observed patient benefit.",
+    "topics": [
+      "Breast cancer",
+      "Multimodal imaging"
+    ],
+    "experiment_scale": [
+      {
+        "value": 27048,
+        "unit": "participants",
+        "context": "Development and validation"
+      },
+      {
+        "value": 8,
+        "unit": "centres",
+        "context": "Clinical cohort contributors"
+      },
+      {
+        "value": 7,
+        "unit": "public datasets",
+        "context": "Additional breast-imaging resources"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "BINDS clinical breast imaging",
+        "source": "Participating hospitals",
+        "access": "Private raw data; processed data require approval",
+        "url": "https://www.nature.com/articles/s41551-026-01654-2#data-availability"
+      },
+      {
+        "name": "UDIAT / BUSI / BUS-BRA / GDPH-SYSUCC / BrEaST / DDSM / CMMD",
+        "source": "Public ultrasound and mammography resources",
+        "access": "Source-specific terms",
+        "url": "https://www.nature.com/articles/s41551-026-01654-2#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for breast cancer."
+  },
+  "s41551-026-01705-8": {
+    "research_problem": "Adapt tissue adhesives to mechanically different traumatic injuries.",
+    "ai_method": "TuneGlues uses machine-learning-guided formulation optimization and a model-derived mechanical database.",
+    "study_summary": "Four representative adhesive formulations are tested for lung, intestinal, skin and bone injuries and integrated into a first-aid delivery device. This is biomaterial and tissue-injury experimentation, not established patient efficacy.",
+    "topics": [
+      "Trauma biomaterials",
+      "Machine-learning design"
+    ],
+    "experiment_scale": [
+      {
+        "value": 4,
+        "unit": "representative formulations",
+        "context": "Lung, intestine, skin and bone applications"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "TuneGlues experimental data",
+        "source": "Study-generated formulation and mechanical measurements",
+        "access": "Public source data",
+        "url": "https://doi.org/10.6084/m9.figshare.31769131"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for trauma biomaterials."
+  },
+  "s41551-026-01719-2": {
+    "research_problem": "Benchmark LLMs on real clinical documentation rather than examination questions.",
+    "ai_method": "BRIDGE multilingual clinical-text benchmark with multiple inference strategies.",
+    "study_summary": "Ninety-five models show substantial variation by task, language and specialty. Updated general models can outperform medically tuned older backbones; benchmark task success is not clinical outcome improvement.",
+    "topics": [
+      "Clinical NLP",
+      "LLM evaluation"
+    ],
+    "experiment_scale": [
+      {
+        "value": 87,
+        "unit": "tasks",
+        "context": "Eight clinical NLP task types"
+      },
+      {
+        "value": 59,
+        "unit": "clinical data sources",
+        "context": "Nine languages"
+      },
+      {
+        "value": 95,
+        "unit": "LLMs",
+        "context": "Models evaluated"
+      },
+      {
+        "value": 14,
+        "unit": "clinical specialties",
+        "context": "Benchmark coverage"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "BRIDGE-Open",
+        "source": "Public subset of the BRIDGE collection",
+        "access": "Respective data-use agreements; not all source datasets are open",
+        "url": "https://huggingface.co/datasets/YLab-Open/BRIDGE-Open"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for clinical nlp."
+  },
+  "s41551-026-01694-8": {
+    "research_problem": "Identify unreliable pathology inputs and quantify uncertainty in lung-cancer subtyping.",
+    "ai_method": "TRUECAM combines spectral-normalized neural Gaussian processes, ambiguous-tile filtering and conformal prediction.",
+    "study_summary": "Computational evaluations compare wrapped and unwrapped task-specific and foundation models across multiple cancer datasets. Improved accuracy and calibration do not establish safe unsupervised clinical deployment.",
+    "topics": [
+      "Lung cancer pathology",
+      "Uncertainty quantification"
+    ],
+    "experiment_scale": [],
+    "datasets": [
+      {
+        "name": "TCGA / CPTAC / BRACS",
+        "source": "Public cancer pathology cohorts",
+        "access": "Source-specific access",
+        "url": "https://www.nature.com/articles/s41551-026-01694-8#data-availability"
+      },
+      {
+        "name": "QMH",
+        "source": "In-house pathology cohort",
+        "access": "Not publicly shared",
+        "url": "https://www.nature.com/articles/s41551-026-01694-8#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for lung cancer pathology."
+  },
+  "s41551-026-01713-8": {
+    "research_problem": "Generate comprehensive interpretations of dental panoramic radiographs.",
+    "ai_method": "DentFound is an instance-guided vision-language model for diagnosis and report generation.",
+    "study_summary": "Multicentre experiments and expert ratings indicate broader diagnostic coverage than comparator reports. The cohort covers all dentition stages; report quality is distinct from patient treatment benefit.",
+    "topics": [
+      "Dental radiology",
+      "Vision-language models"
+    ],
+    "experiment_scale": [
+      {
+        "value": 101000,
+        "unit": "patients",
+        "context": "More than this many in the assembled dataset"
+      },
+      {
+        "value": 98,
+        "unit": "diseases",
+        "context": "Diagnostic coverage"
+      },
+      {
+        "value": 11,
+        "unit": "post-treatment categories",
+        "context": "Separate from disease count"
+      },
+      {
+        "value": 12,
+        "unit": "clinical experts",
+        "context": "Dentists and radiologists evaluating reports"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "Multihospital dental panoramic cohort",
+        "source": "Participating dental hospitals",
+        "access": "Protected patient data; non-commercial requests require approval",
+        "url": "https://www.nature.com/articles/s41551-026-01713-8#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for dental radiology."
+  },
+  "s41551-026-01736-1": {
+    "research_problem": "Integrate multidisciplinary information for bone-metastasis assessment.",
+    "ai_method": "BoneCoT whole-skeleton CT foundation model with clinician-derived chain-of-thought fine-tuning.",
+    "study_summary": "Evaluation spans diagnostic, complication, tumour-type and biomarker tasks across ten hospitals. Reported relative AUC gains depend on the comparator and task and should not be treated as percentage-point gains.",
+    "topics": [
+      "Bone metastases",
+      "CT",
+      "Reasoning models"
+    ],
+    "experiment_scale": [
+      {
+        "value": 29300000,
+        "unit": "CT images",
+        "context": "Pretraining; repeated images per patient"
+      },
+      {
+        "value": 30267,
+        "unit": "patients",
+        "context": "Pretraining cohort"
+      },
+      {
+        "value": 26,
+        "unit": "tasks",
+        "context": "Task graph"
+      },
+      {
+        "value": 10,
+        "unit": "hospitals",
+        "context": "Multicentre evaluation"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "BoneCoT multicentre CT cohorts",
+        "source": "Participating institutions",
+        "access": "Reasonable request and institutional data-management approval",
+        "url": "https://www.nature.com/articles/s41551-026-01736-1#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for bone metastases."
+  },
+  "s41551-026-01741-4": {
+    "research_problem": "Make radiology predictions auditable through explicit clinical concepts.",
+    "ai_method": "CLEAR maps chest radiographs into a concept space derived from LLM embeddings.",
+    "study_summary": "Four external physician-labelled datasets test classification, confounder auditing and concept-bottleneck models. Decomposable predictions improve inspectability but are not themselves causal explanations.",
+    "topics": [
+      "Chest radiography",
+      "Interpretable foundation models"
+    ],
+    "experiment_scale": [
+      {
+        "value": 870000,
+        "unit": "image-report pairs",
+        "context": "More than this many training pairs"
+      },
+      {
+        "value": 239391,
+        "unit": "patients",
+        "context": "Training population"
+      },
+      {
+        "value": 4,
+        "unit": "external datasets",
+        "context": "Physician-annotated validation"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "MIMIC-CXR / CheXpert-Plus / ReXGradient and external chest-imaging sets",
+        "source": "Named public chest-radiograph resources",
+        "access": "Dataset-specific agreements and registration",
+        "url": "https://www.nature.com/articles/s41551-026-01741-4#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for chest radiography."
+  },
+  "s41551-026-01739-y": {
+    "research_problem": "Train interactive pathology agents on expert viewing behaviour.",
+    "ai_method": "Pathology-CoT records navigation and human-reviewed rationales; Pathology-o3 selects regions and performs behaviour-guided reasoning.",
+    "study_summary": "Gastrointestinal lymph-node metastasis experiments include independent external validation. The pipeline accelerates annotation approximately sixfold; this is annotation throughput, not a sixfold clinical diagnostic benefit.",
+    "topics": [
+      "Computational pathology",
+      "Interactive agents"
+    ],
+    "experiment_scale": [
+      {
+        "value": 6,
+        "unit": "fold annotation speed-up",
+        "context": "Human-in-the-loop supervision pipeline"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "Pathology-CoT",
+        "source": "Expert viewing and rationale supervision",
+        "access": "Public skin-cancer supervision and trained behaviour predictors",
+        "url": "https://github.com/zhihuanglab/Pathology-CoT"
+      },
+      {
+        "name": "LNCO2 / DROID skin",
+        "source": "AIDA Data Hub whole-slide images and annotations",
+        "access": "Application and approval",
+        "url": "https://datahub.aida.scilifelab.se/10.23698/aida/lnco2"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for computational pathology."
+  },
+  "s41551-026-01769-6": {
+    "research_problem": "Generate testable therapeutic-target hypotheses from fragmented biomedical knowledge.",
+    "ai_method": "XunZi combines AI reasoning and multimodal biomedical data fusion.",
+    "study_summary": "Parkinson disease hypotheses implicate CHK2 and IRAK4; genetic or pharmacological Chk2 inhibition improves selected outcomes in mouse models. Candidate-generation breadth should not be confused with confirmed therapeutic efficacy across all diseases.",
+    "topics": [
+      "Therapeutic target discovery",
+      "Biomedical agents"
+    ],
+    "experiment_scale": [
+      {
+        "value": 24400000,
+        "unit": "publications",
+        "context": "Training corpus"
+      },
+      {
+        "value": 613.6,
+        "unit": "TB of multisource data",
+        "context": "Reported data volume"
+      },
+      {
+        "value": 21008,
+        "unit": "human genes",
+        "context": "Resource coverage"
+      },
+      {
+        "value": 5850,
+        "unit": "diseases",
+        "context": "Resource coverage"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "XunZi omics and perturbation data",
+        "source": "TCGA, CPTAC, Synapse, NGDC and iProX",
+        "access": "Public repositories and original cohort conditions",
+        "url": "https://www.nature.com/articles/s41551-026-01769-6#data-availability"
+      },
+      {
+        "name": "XunZi benchmark results",
+        "source": "Study-generated evaluations",
+        "access": "Public Zenodo",
+        "url": "https://doi.org/10.5281/zenodo.17927526"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for therapeutic target discovery."
+  },
+  "s41551-026-01760-1": {
+    "research_problem": "Prioritize high-risk sections in very large three-dimensional pathology volumes.",
+    "ai_method": "TRICARE scores sections using neighbouring-depth context and triages them for pathologist review.",
+    "study_summary": "Prostate-cancer and Barrett oesophagus use cases test whether AI-selected sections improve high-risk disease detection with manageable workload. The final diagnosis remains with pathologists.",
+    "topics": [
+      "Three-dimensional pathology",
+      "Clinical triage"
+    ],
+    "experiment_scale": [],
+    "datasets": [
+      {
+        "name": "TRICARE development and validation",
+        "source": "Prostate and oesophagus imaging with annotations",
+        "access": "Public computational experiment data",
+        "url": "https://doi.org/10.5281/zenodo.20052262"
+      },
+      {
+        "name": "Prostate 3D pathology",
+        "source": "TCIA collection",
+        "access": "Research access under collection terms",
+        "url": "https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for three-dimensional pathology."
+  },
+  "s41551-026-01764-x": {
+    "research_problem": "Improve interpretability across medical-imaging foundation-model tasks.",
+    "ai_method": "ConceptCLIP jointly aligns image-text and region-concept representations.",
+    "study_summary": "Evaluation covers 78 datasets and ten modalities, plus a clinician study of explanation usefulness. Training images and derived text/concepts are reconstructable, while nine evaluation datasets remain private.",
+    "topics": [
+      "Medical imaging",
+      "Concept-based learning"
+    ],
+    "experiment_scale": [
+      {
+        "value": 23000000,
+        "unit": "image-text-concept triplets",
+        "context": "MedConcept-23M pretraining"
+      },
+      {
+        "value": 78,
+        "unit": "evaluation datasets",
+        "context": "Ten imaging modalities"
+      },
+      {
+        "value": 9,
+        "unit": "private evaluation datasets",
+        "context": "Subset of 78, not additional datasets"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "MedConcept-23M",
+        "source": "PMC Open Access images and study-derived captions/concepts",
+        "access": "Public reconstruction resources",
+        "url": "https://huggingface.co/datasets/JerrryNie/MedConcept-23M"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for medical imaging."
+  },
+  "s41551-026-01754-z": {
+    "research_problem": "Infer spatial copy-number alterations from routine histology.",
+    "ai_method": "HisToSpatialCNV combines multiscale features, graph neural networks and multihead self-attention.",
+    "study_summary": "Breast, skin and brain cancer experiments assess spatial CNV inference and subclone characterization across Visium and Xenium. Associations with prognosis remain observational.",
+    "topics": [
+      "Spatial genomics",
+      "Computational pathology"
+    ],
+    "experiment_scale": [],
+    "datasets": [
+      {
+        "name": "HER2ST",
+        "source": "HER2-positive breast tumour spatial transcriptomics",
+        "access": "Public GitHub",
+        "url": "https://github.com/almaan/her2st"
+      },
+      {
+        "name": "GSE144240 / GSE243280",
+        "source": "Skin and breast spatial datasets in GEO",
+        "access": "Public repository access",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for spatial genomics."
+  },
+  "s41551-026-01772-x": {
+    "research_problem": "Provide affordable personalized outdoor navigation for people with visual impairment.",
+    "ai_method": "Mobilio combines machine learning, smartphone sensor fusion and personalized audio guidance.",
+    "study_summary": "Fourteen participants complete navigation experiments. Relative to Google Maps plus a white cane, reported route time and environmental contacts decrease; the small study limits broad effectiveness conclusions.",
+    "topics": [
+      "Visual-impairment assistance",
+      "Mobile health"
+    ],
+    "experiment_scale": [
+      {
+        "value": 112,
+        "unit": "survey respondents",
+        "context": "People with blindness or visual impairment"
+      },
+      {
+        "value": 14,
+        "unit": "experimental participants",
+        "context": "Navigation evaluation"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "Mobilio experimental data",
+        "source": "Study data from fourteen participants",
+        "access": "Public GitHub",
+        "url": "https://github.com/Harvard-Slade-Lab/Mobilio"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for visual-impairment assistance."
+  },
+  "s41551-026-01767-8": {
+    "research_problem": "Aggregate pathology foundation-model features into robust slide-level predictions.",
+    "ai_method": "nnMIL uses patch- and feature-level random sampling, large-batch optimization and sliding-window ensembles.",
+    "study_summary": "Tests cover diagnosis, subtyping, biomarker detection and prognosis, including external cohorts and uncertainty estimation. Slide counts are not independent patient counts.",
+    "topics": [
+      "Computational pathology",
+      "Multiple-instance learning"
+    ],
+    "experiment_scale": [
+      {
+        "value": 40000,
+        "unit": "whole-slide images",
+        "context": "Across the evaluation resource"
+      },
+      {
+        "value": 35,
+        "unit": "clinical tasks",
+        "context": "Four pathology foundation models"
+      },
+      {
+        "value": 4,
+        "unit": "foundation models",
+        "context": "Feature backbones"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "nnMIL evaluation cohorts",
+        "source": "BCCC, BRACS, PANDA, TCGA, CAMELYON and other named pathology cohorts",
+        "access": "Research access under original agreements or licences",
+        "url": "https://www.nature.com/articles/s41551-026-01767-8#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for computational pathology."
+  },
+  "s41551-026-01812-6": {
+    "research_problem": "Adapt adult radiograph models to neonatal care without centralized image sharing.",
+    "ai_method": "Continual learning sequentially retrains an adult endotracheal-tube model at participating neonatal units.",
+    "study_summary": "The retrospective international evaluation improves landmark error relative to adult-only and local fine-tuning models at most sites. Raw images cannot be redistributed; trained weights are shared.",
+    "topics": [
+      "Neonatal radiology",
+      "Continual learning"
+    ],
+    "experiment_scale": [
+      {
+        "value": 30,
+        "unit": "neonatal intensive-care units",
+        "context": "International collaboration"
+      },
+      {
+        "value": 20,
+        "unit": "countries and territories",
+        "context": "Site coverage"
+      },
+      {
+        "value": 50,
+        "unit": "radiographs per hospital",
+        "context": "Site contribution; not patients"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "International neonatal radiograph cohort",
+        "source": "Thirty neonatal intensive-care units",
+        "access": "Patient images are not publicly shared",
+        "url": "https://www.nature.com/articles/s41551-026-01812-6#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for neonatal radiology."
+  },
+  "s41551-026-01804-6": {
+    "research_problem": "Identify molecular signals associated with cell recruitment in tissue.",
+    "ai_method": "SPACER interpretable multi-instance learning applied to spatial transcriptomics.",
+    "study_summary": "Analyses connect tumour mucins and antigen presentation with T-cell engagement, and investigate immune-checkpoint-inhibitor myocarditis in mice. The reported signals are experimentally and clinically contextualized, but not all associations establish causality.",
+    "topics": [
+      "Spatial transcriptomics",
+      "Cancer immunology",
+      "Bioinformatics"
+    ],
+    "experiment_scale": [
+      {
+        "value": 37,
+        "unit": "spatial transcriptomic datasets",
+        "context": "Human tumours and mouse heart"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "SPACER spatial data",
+        "source": "10x Genomics, GEO and linked original cohorts",
+        "access": "Public records and original-cohort conditions",
+        "url": "https://www.nature.com/articles/s41551-026-01804-6#data-availability"
+      }
+    ],
+    "scope_evidence": "AI is directly developed or evaluated for spatial transcriptomics."
+  }
+}

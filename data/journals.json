@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "nature",
+    "name": "Nature",
+    "group": "Nature",
+    "url": "https://www.nature.com/nature/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1476-4687"
+    ],
+    "issn": "1476-4687",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 3664,
+    "source_total": 3664,
+    "source_query": "https://api.crossref.org/journals/1476-4687/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nataging",
+    "name": "Nature Aging",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nataging/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2662-8465"
+    ],
+    "issn": "2662-8465",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 205,
+    "source_total": 205,
+    "source_query": "https://api.crossref.org/journals/2662-8465/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natastron",
+    "name": "Nature Astronomy",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natastron/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2397-3366"
+    ],
+    "issn": "2397-3366",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 257,
+    "source_total": 257,
+    "source_query": "https://api.crossref.org/journals/2397-3366/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natbiomedeng",
+    "name": "Nature Biomedical Engineering",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natbiomedeng/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2157-846X"
+    ],
+    "issn": "2157-846X",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 240,
+    "source_total": 240,
+    "source_query": "https://api.crossref.org/journals/2157-846X/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nbt",
+    "name": "Nature Biotechnology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nbt/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1546-1696"
+    ],
+    "issn": "1546-1696",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 396,
+    "source_total": 396,
+    "source_query": "https://api.crossref.org/journals/1546-1696/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natcancer",
+    "name": "Nature Cancer",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcancer/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2662-1347"
+    ],
+    "issn": "2662-1347",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 164,
+    "source_total": 164,
+    "source_query": "https://api.crossref.org/journals/2662-1347/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natcardiovascres",
+    "name": "Nature Cardiovascular Research",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcardiovascres/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-0590"
+    ],
+    "issn": "2731-0590",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 128,
+    "source_total": 128,
+    "source_query": "https://api.crossref.org/journals/2731-0590/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natcatal",
+    "name": "Nature Catalysis",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcatal/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2520-1158"
+    ],
+    "issn": "2520-1158",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 160,
+    "source_total": 160,
+    "source_query": "https://api.crossref.org/journals/2520-1158/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "ncb",
+    "name": "Nature Cell Biology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ncb/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1476-4679"
+    ],
+    "issn": "1476-4679",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 254,
+    "source_total": 254,
+    "source_query": "https://api.crossref.org/journals/1476-4679/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nchembio",
+    "name": "Nature Chemical Biology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nchembio/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1552-4469"
+    ],
+    "issn": "1552-4469",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 254,
+    "source_total": 254,
+    "source_query": "https://api.crossref.org/journals/1552-4469/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natchemeng",
+    "name": "Nature Chemical Engineering",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natchemeng/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2948-1198"
+    ],
+    "issn": "2948-1198",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 113,
+    "source_total": 113,
+    "source_query": "https://api.crossref.org/journals/2948-1198/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nchem",
+    "name": "Nature Chemistry",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nchem/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1755-4349"
+    ],
+    "issn": "1755-4349",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 256,
+    "source_total": 256,
+    "source_query": "https://api.crossref.org/journals/1755-4349/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natcities",
+    "name": "Nature Cities",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcities/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-9997"
+    ],
+    "issn": "2731-9997",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 176,
+    "source_total": 176,
+    "source_query": "https://api.crossref.org/journals/2731-9997/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nclimate",
+    "name": "Nature Climate Change",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nclimate/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1758-6798"
+    ],
+    "issn": "1758-6798",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 252,
+    "source_total": 252,
+    "source_query": "https://api.crossref.org/journals/1758-6798/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "ncomms",
+    "name": "Nature Communications",
+    "group": "Nature Communications",
+    "url": "https://www.nature.com/ncomms/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2041-1723"
+    ],
+    "issn": "2041-1723",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 10801,
+    "source_total": 10801,
+    "source_query": "https://api.crossref.org/journals/2041-1723/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natcomputsci",
+    "name": "Nature Computational Science",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcomputsci/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2662-8457"
+    ],
+    "issn": "2662-8457",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 134,
+    "source_total": 134,
+    "source_query": "https://api.crossref.org/journals/2662-8457/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natecolevol",
+    "name": "Nature Ecology & Evolution",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natecolevol/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2397-334X"
+    ],
+    "issn": "2397-334X",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 282,
+    "source_total": 282,
+    "source_query": "https://api.crossref.org/journals/2397-334X/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natelectron",
+    "name": "Nature Electronics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natelectron/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2520-1131"
+    ],
+    "issn": "2520-1131",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 196,
+    "source_total": 196,
+    "source_query": "https://api.crossref.org/journals/2520-1131/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nenergy",
+    "name": "Nature Energy",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nenergy/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2058-7546"
+    ],
+    "issn": "2058-7546",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 225,
+    "source_total": 225,
+    "source_query": "https://api.crossref.org/journals/2058-7546/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natfood",
+    "name": "Nature Food",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natfood/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2662-1355"
+    ],
+    "issn": "2662-1355",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 164,
+    "source_total": 164,
+    "source_query": "https://api.crossref.org/journals/2662-1355/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "ng",
+    "name": "Nature Genetics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ng/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1546-1718"
+    ],
+    "issn": "1546-1718",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 339,
+    "source_total": 339,
+    "source_query": "https://api.crossref.org/journals/1546-1718/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "ngeo",
+    "name": "Nature Geoscience",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ngeo/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1752-0908"
+    ],
+    "issn": "1752-0908",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 245,
+    "source_total": 245,
+    "source_query": "https://api.crossref.org/journals/1752-0908/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "naturehealth",
+    "name": "Nature Health",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/naturehealth/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3005-0693"
+    ],
+    "issn": "3005-0693",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 204,
+    "source_total": 204,
+    "source_query": "https://api.crossref.org/journals/3005-0693/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nathumbehav",
+    "name": "Nature Human Behaviour",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nathumbehav/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2397-3374"
+    ],
+    "issn": "2397-3374",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 232,
+    "source_total": 232,
+    "source_query": "https://api.crossref.org/journals/2397-3374/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "ni",
+    "name": "Nature Immunology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ni/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1529-2916"
+    ],
+    "issn": "1529-2916",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 322,
+    "source_total": 322,
+    "source_query": "https://api.crossref.org/journals/1529-2916/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natmachintell",
+    "name": "Nature Machine Intelligence",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmachintell/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2522-5839"
+    ],
+    "issn": "2522-5839",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 155,
+    "source_total": 155,
+    "source_query": "https://api.crossref.org/journals/2522-5839/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nmat",
+    "name": "Nature Materials",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nmat/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1476-4660"
+    ],
+    "issn": "1476-4660",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 324,
+    "source_total": 324,
+    "source_query": "https://api.crossref.org/journals/1476-4660/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natmecheng",
+    "name": "Nature Mechanical Engineering",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmecheng/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3091-5244"
+    ],
+    "issn": "3091-5244",
+    "retrieval_status": "open_for_submissions",
+    "retrieval_error": "404 Client Error: Not Found for url: https://api.crossref.org/journals/3091-5244/works?filter=from-online-pub-date%3A2026-01-01%2Cuntil-online-pub-date%3A2026-10-23&rows=1000&cursor=%2A&select=DOI%2Ctitle%2Cauthor%2Cpublished-online%2Cpublished%2Ctype%2Clink%2Cabstract%2Cpublisher",
+    "source_note": "Publisher homepage is open for submissions, contains no article links, and Crossref has no record for this journal ISSN at retrieval.",
+    "retrieved_records": null
+  },
+  {
+    "id": "nm",
+    "name": "Nature Medicine",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nm/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1546-170X"
+    ],
+    "issn": "1546-170X",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 669,
+    "source_total": 669,
+    "source_query": "https://api.crossref.org/journals/1546-170X/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natmentalhealth",
+    "name": "Nature Mental Health",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmentalhealth/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-6076"
+    ],
+    "issn": "2731-6076",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 191,
+    "source_total": 191,
+    "source_query": "https://api.crossref.org/journals/2731-6076/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natmetab",
+    "name": "Nature Metabolism",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmetab/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2522-5812"
+    ],
+    "issn": "2522-5812",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 226,
+    "source_total": 226,
+    "source_query": "https://api.crossref.org/journals/2522-5812/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nmeth",
+    "name": "Nature Methods",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nmeth/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1548-7105"
+    ],
+    "issn": "1548-7105",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 277,
+    "source_total": 277,
+    "source_query": "https://api.crossref.org/journals/1548-7105/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nmicrobiol",
+    "name": "Nature Microbiology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nmicrobiol/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2058-5276"
+    ],
+    "issn": "2058-5276",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 291,
+    "source_total": 291,
+    "source_query": "https://api.crossref.org/journals/2058-5276/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nnano",
+    "name": "Nature Nanotechnology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nnano/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1748-3395"
+    ],
+    "issn": "1748-3395",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 215,
+    "source_total": 215,
+    "source_query": "https://api.crossref.org/journals/1748-3395/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "neuro",
+    "name": "Nature Neuroscience",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/neuro/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1546-1726"
+    ],
+    "issn": "1546-1726",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 304,
+    "source_total": 304,
+    "source_query": "https://api.crossref.org/journals/1546-1726/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nphoton",
+    "name": "Nature Photonics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nphoton/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1749-4893"
+    ],
+    "issn": "1749-4893",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 209,
+    "source_total": 209,
+    "source_query": "https://api.crossref.org/journals/1749-4893/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nphys",
+    "name": "Nature Physics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nphys/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1745-2481"
+    ],
+    "issn": "1745-2481",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 367,
+    "source_total": 367,
+    "source_query": "https://api.crossref.org/journals/1745-2481/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nplants",
+    "name": "Nature Plants",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nplants/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2055-0278"
+    ],
+    "issn": "2055-0278",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 255,
+    "source_total": 255,
+    "source_query": "https://api.crossref.org/journals/2055-0278/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natprogbrainhealth",
+    "name": "Nature Progress Brain Health",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogbrainhealth/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3120-4201"
+    ],
+    "issn": "3120-4201",
+    "retrieval_status": "open_for_submissions",
+    "retrieval_error": "404 Client Error: Not Found for url: https://api.crossref.org/journals/3120-4201/works?filter=from-online-pub-date%3A2026-01-01%2Cuntil-online-pub-date%3A2026-10-23&rows=1000&cursor=%2A&select=DOI%2Ctitle%2Cauthor%2Cpublished-online%2Cpublished%2Ctype%2Clink%2Cabstract%2Cpublisher",
+    "source_note": "Publisher homepage is open for submissions, contains no article links, and Crossref has no record for this journal ISSN at retrieval.",
+    "retrieved_records": null
+  },
+  {
+    "id": "natprogoncology",
+    "name": "Nature Progress Oncology",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogoncology/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3120-421X"
+    ],
+    "issn": "3120-421X",
+    "retrieval_status": "open_for_submissions",
+    "retrieval_error": "404 Client Error: Not Found for url: https://api.crossref.org/journals/3120-421X/works?filter=from-online-pub-date%3A2026-01-01%2Cuntil-online-pub-date%3A2026-10-23&rows=1000&cursor=%2A&select=DOI%2Ctitle%2Cauthor%2Cpublished-online%2Cpublished%2Ctype%2Clink%2Cabstract%2Cpublisher",
+    "source_note": "Publisher homepage is open for submissions, contains no article links, and Crossref has no record for this journal ISSN at retrieval.",
+    "retrieved_records": null
+  },
+  {
+    "id": "natprogoptphoton",
+    "name": "Nature Progress Optics & Photonics",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogoptphoton/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3155-1254"
+    ],
+    "issn": "3155-1254",
+    "retrieval_status": "open_for_submissions",
+    "retrieval_error": "404 Client Error: Not Found for url: https://api.crossref.org/journals/3155-1254/works?filter=from-online-pub-date%3A2026-01-01%2Cuntil-online-pub-date%3A2026-10-23&rows=1000&cursor=%2A&select=DOI%2Ctitle%2Cauthor%2Cpublished-online%2Cpublished%2Ctype%2Clink%2Cabstract%2Cpublisher",
+    "source_note": "Publisher homepage is open for submissions, contains no article links, and Crossref has no record for this journal ISSN at retrieval.",
+    "retrieved_records": null
+  },
+  {
+    "id": "natprogsuschem",
+    "name": "Nature Progress Sustainable Chemistry",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogsuschem/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3120-6999"
+    ],
+    "issn": "3120-6999",
+    "retrieval_status": "open_for_submissions",
+    "retrieval_error": "404 Client Error: Not Found for url: https://api.crossref.org/journals/3120-6999/works?filter=from-online-pub-date%3A2026-01-01%2Cuntil-online-pub-date%3A2026-10-23&rows=1000&cursor=%2A&select=DOI%2Ctitle%2Cauthor%2Cpublished-online%2Cpublished%2Ctype%2Clink%2Cabstract%2Cpublisher",
+    "source_note": "Publisher homepage is open for submissions, contains no article links, and Crossref has no record for this journal ISSN at retrieval.",
+    "retrieved_records": null
+  },
+  {
+    "id": "nprot",
+    "name": "Nature Protocols",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nprot/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1750-2799"
+    ],
+    "issn": "1750-2799",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 157,
+    "source_total": 157,
+    "source_query": "https://api.crossref.org/journals/1750-2799/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrbd",
+    "name": "Nature Reviews Biodiversity",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrbd/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3005-0677"
+    ],
+    "issn": "3005-0677",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 103,
+    "source_total": 103,
+    "source_query": "https://api.crossref.org/journals/3005-0677/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natrevbioeng",
+    "name": "Nature Reviews Bioengineering",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevbioeng/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-6092"
+    ],
+    "issn": "2731-6092",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 111,
+    "source_total": 111,
+    "source_query": "https://api.crossref.org/journals/2731-6092/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrc",
+    "name": "Nature Reviews Cancer",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrc/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1474-1768"
+    ],
+    "issn": "1474-1768",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 93,
+    "source_total": 93,
+    "source_query": "https://api.crossref.org/journals/1474-1768/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrcardio",
+    "name": "Nature Reviews Cardiology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrcardio/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-5010"
+    ],
+    "issn": "1759-5010",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 119,
+    "source_total": 119,
+    "source_query": "https://api.crossref.org/journals/1759-5010/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natrevchem",
+    "name": "Nature Reviews Chemistry",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevchem/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2397-3358"
+    ],
+    "issn": "2397-3358",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 97,
+    "source_total": 97,
+    "source_query": "https://api.crossref.org/journals/2397-3358/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrct",
+    "name": "Nature Reviews Clean Technology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrct/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3005-0685"
+    ],
+    "issn": "3005-0685",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 106,
+    "source_total": 106,
+    "source_query": "https://api.crossref.org/journals/3005-0685/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrclinonc",
+    "name": "Nature Reviews Clinical Oncology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrclinonc/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-4782"
+    ],
+    "issn": "1759-4782",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 106,
+    "source_total": 106,
+    "source_query": "https://api.crossref.org/journals/1759-4782/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrcomput",
+    "name": "Nature Reviews Computing",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrcomput/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3091-5317"
+    ],
+    "issn": "3091-5317",
+    "retrieval_status": "open_for_submissions",
+    "retrieval_error": "404 Client Error: Not Found for url: https://api.crossref.org/journals/3091-5317/works?filter=from-online-pub-date%3A2026-01-01%2Cuntil-online-pub-date%3A2026-10-23&rows=1000&cursor=%2A&select=DOI%2Ctitle%2Cauthor%2Cpublished-online%2Cpublished%2Ctype%2Clink%2Cabstract%2Cpublisher",
+    "source_note": "Publisher homepage is open for submissions, contains no article links, and Crossref has no record for this journal ISSN at retrieval.",
+    "retrieved_records": null
+  },
+  {
+    "id": "nrdp",
+    "name": "Nature Reviews Disease Primers",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrdp/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2056-676X"
+    ],
+    "issn": "2056-676X",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 71,
+    "source_total": 71,
+    "source_query": "https://api.crossref.org/journals/2056-676X/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrd",
+    "name": "Nature Reviews Drug Discovery",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrd/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1474-1784"
+    ],
+    "issn": "1474-1784",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 199,
+    "source_total": 199,
+    "source_query": "https://api.crossref.org/journals/1474-1784/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natrevearthenviron",
+    "name": "Nature Reviews Earth & Environment",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevearthenviron/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2662-138X"
+    ],
+    "issn": "2662-138X",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 91,
+    "source_total": 91,
+    "source_query": "https://api.crossref.org/journals/2662-138X/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natrevelectreng",
+    "name": "Nature Reviews Electrical Engineering",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevelectreng/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2948-1201"
+    ],
+    "issn": "2948-1201",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 102,
+    "source_total": 102,
+    "source_query": "https://api.crossref.org/journals/2948-1201/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrendo",
+    "name": "Nature Reviews Endocrinology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrendo/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-5037"
+    ],
+    "issn": "1759-5037",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 95,
+    "source_total": 95,
+    "source_query": "https://api.crossref.org/journals/1759-5037/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrgastro",
+    "name": "Nature Reviews Gastroenterology & Hepatology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrgastro/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-5053"
+    ],
+    "issn": "1759-5053",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 104,
+    "source_total": 104,
+    "source_query": "https://api.crossref.org/journals/1759-5053/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrg",
+    "name": "Nature Reviews Genetics",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrg/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1471-0064"
+    ],
+    "issn": "1471-0064",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 109,
+    "source_total": 109,
+    "source_query": "https://api.crossref.org/journals/1471-0064/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nri",
+    "name": "Nature Reviews Immunology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nri/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1474-1741"
+    ],
+    "issn": "1474-1741",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 110,
+    "source_total": 110,
+    "source_query": "https://api.crossref.org/journals/1474-1741/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natrevmats",
+    "name": "Nature Reviews Materials",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevmats/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2058-8437"
+    ],
+    "issn": "2058-8437",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 97,
+    "source_total": 97,
+    "source_query": "https://api.crossref.org/journals/2058-8437/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrmp",
+    "name": "Nature Reviews Methods Primers",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrmp/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2662-8449"
+    ],
+    "issn": "2662-8449",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 82,
+    "source_total": 82,
+    "source_query": "https://api.crossref.org/journals/2662-8449/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrmicro",
+    "name": "Nature Reviews Microbiology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrmicro/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1740-1534"
+    ],
+    "issn": "1740-1534",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 112,
+    "source_total": 112,
+    "source_query": "https://api.crossref.org/journals/1740-1534/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrm",
+    "name": "Nature Reviews Molecular Cell Biology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrm/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1471-0080"
+    ],
+    "issn": "1471-0080",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 103,
+    "source_total": 103,
+    "source_query": "https://api.crossref.org/journals/1471-0080/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrneph",
+    "name": "Nature Reviews Nephrology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrneph/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-507X"
+    ],
+    "issn": "1759-507X",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 102,
+    "source_total": 102,
+    "source_query": "https://api.crossref.org/journals/1759-507X/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrneurol",
+    "name": "Nature Reviews Neurology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrneurol/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-4766"
+    ],
+    "issn": "1759-4766",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 100,
+    "source_total": 100,
+    "source_query": "https://api.crossref.org/journals/1759-4766/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrn",
+    "name": "Nature Reviews Neuroscience",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrn/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1471-0048"
+    ],
+    "issn": "1471-0048",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 78,
+    "source_total": 78,
+    "source_query": "https://api.crossref.org/journals/1471-0048/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natrevphys",
+    "name": "Nature Reviews Physics",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevphys/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2522-5820"
+    ],
+    "issn": "2522-5820",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 93,
+    "source_total": 93,
+    "source_query": "https://api.crossref.org/journals/2522-5820/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrpsychol",
+    "name": "Nature Reviews Psychology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrpsychol/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-0574"
+    ],
+    "issn": "2731-0574",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 111,
+    "source_total": 111,
+    "source_query": "https://api.crossref.org/journals/2731-0574/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrrheum",
+    "name": "Nature Reviews Rheumatology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrrheum/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-4804"
+    ],
+    "issn": "1759-4804",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 102,
+    "source_total": 102,
+    "source_query": "https://api.crossref.org/journals/1759-4804/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nrurol",
+    "name": "Nature Reviews Urology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrurol/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1759-4820"
+    ],
+    "issn": "1759-4820",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 86,
+    "source_total": 86,
+    "source_query": "https://api.crossref.org/journals/1759-4820/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natsensors",
+    "name": "Nature Sensors",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natsensors/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "3059-4499"
+    ],
+    "issn": "3059-4499",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 147,
+    "source_total": 147,
+    "source_query": "https://api.crossref.org/journals/3059-4499/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "nsmb",
+    "name": "Nature Structural & Molecular Biology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nsmb/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "1545-9985"
+    ],
+    "issn": "1545-9985",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 175,
+    "source_total": 175,
+    "source_query": "https://api.crossref.org/journals/1545-9985/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natsustain",
+    "name": "Nature Sustainability",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natsustain/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2398-9629"
+    ],
+    "issn": "2398-9629",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 221,
+    "source_total": 221,
+    "source_query": "https://api.crossref.org/journals/2398-9629/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natsynth",
+    "name": "Nature Synthesis",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natsynth/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-0582"
+    ],
+    "issn": "2731-0582",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 241,
+    "source_total": 241,
+    "source_query": "https://api.crossref.org/journals/2731-0582/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "natwater",
+    "name": "Nature Water",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natwater/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2731-6084"
+    ],
+    "issn": "2731-6084",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 178,
+    "source_total": 178,
+    "source_query": "https://api.crossref.org/journals/2731-6084/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  },
+  {
+    "id": "npjdigitalmed",
+    "name": "npj Digital Medicine",
+    "group": "npj Digital Medicine",
+    "url": "https://www.nature.com/npjdigitalmed/",
+    "registry_source": "https://www.nature.com/siteindex",
+    "issns": [
+      "2398-6352"
+    ],
+    "issn": "2398-6352",
+    "retrieval_status": "retrieved",
+    "retrieved_records": 1107,
+    "source_total": 1107,
+    "source_query": "https://api.crossref.org/journals/2398-6352/works?filter=from-online-pub-date:2026-01-01,until-online-pub-date:2026-10-23",
+    "retrieval_complete": true
+  }
+]

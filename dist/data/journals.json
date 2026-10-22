@@ -1,0 +1,458 @@
+[
+  {
+    "id": "nature",
+    "name": "Nature",
+    "group": "Nature",
+    "url": "https://www.nature.com/nature/"
+  },
+  {
+    "id": "nataging",
+    "name": "Nature Aging",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nataging/"
+  },
+  {
+    "id": "natastron",
+    "name": "Nature Astronomy",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natastron/"
+  },
+  {
+    "id": "natbiomedeng",
+    "name": "Nature Biomedical Engineering",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natbiomedeng/"
+  },
+  {
+    "id": "nbt",
+    "name": "Nature Biotechnology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nbt/"
+  },
+  {
+    "id": "natcancer",
+    "name": "Nature Cancer",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcancer/"
+  },
+  {
+    "id": "natcardiovascres",
+    "name": "Nature Cardiovascular Research",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcardiovascres/"
+  },
+  {
+    "id": "natcatal",
+    "name": "Nature Catalysis",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcatal/"
+  },
+  {
+    "id": "ncb",
+    "name": "Nature Cell Biology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ncb/"
+  },
+  {
+    "id": "nchembio",
+    "name": "Nature Chemical Biology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nchembio/"
+  },
+  {
+    "id": "natchemeng",
+    "name": "Nature Chemical Engineering",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natchemeng/"
+  },
+  {
+    "id": "nchem",
+    "name": "Nature Chemistry",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nchem/"
+  },
+  {
+    "id": "natcities",
+    "name": "Nature Cities",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcities/"
+  },
+  {
+    "id": "nclimate",
+    "name": "Nature Climate Change",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nclimate/"
+  },
+  {
+    "id": "ncomms",
+    "name": "Nature Communications",
+    "group": "Nature Communications",
+    "url": "https://www.nature.com/ncomms/"
+  },
+  {
+    "id": "natcomputsci",
+    "name": "Nature Computational Science",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natcomputsci/"
+  },
+  {
+    "id": "natecolevol",
+    "name": "Nature Ecology & Evolution",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natecolevol/"
+  },
+  {
+    "id": "natelectron",
+    "name": "Nature Electronics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natelectron/"
+  },
+  {
+    "id": "nenergy",
+    "name": "Nature Energy",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nenergy/"
+  },
+  {
+    "id": "natfood",
+    "name": "Nature Food",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natfood/"
+  },
+  {
+    "id": "ng",
+    "name": "Nature Genetics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ng/"
+  },
+  {
+    "id": "ngeo",
+    "name": "Nature Geoscience",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ngeo/"
+  },
+  {
+    "id": "naturehealth",
+    "name": "Nature Health",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/naturehealth/"
+  },
+  {
+    "id": "nathumbehav",
+    "name": "Nature Human Behaviour",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nathumbehav/"
+  },
+  {
+    "id": "ni",
+    "name": "Nature Immunology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/ni/"
+  },
+  {
+    "id": "natmachintell",
+    "name": "Nature Machine Intelligence",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmachintell/"
+  },
+  {
+    "id": "nmat",
+    "name": "Nature Materials",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nmat/"
+  },
+  {
+    "id": "natmecheng",
+    "name": "Nature Mechanical Engineering",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmecheng/"
+  },
+  {
+    "id": "nm",
+    "name": "Nature Medicine",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nm/"
+  },
+  {
+    "id": "natmentalhealth",
+    "name": "Nature Mental Health",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmentalhealth/"
+  },
+  {
+    "id": "natmetab",
+    "name": "Nature Metabolism",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natmetab/"
+  },
+  {
+    "id": "nmeth",
+    "name": "Nature Methods",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nmeth/"
+  },
+  {
+    "id": "nmicrobiol",
+    "name": "Nature Microbiology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nmicrobiol/"
+  },
+  {
+    "id": "nnano",
+    "name": "Nature Nanotechnology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nnano/"
+  },
+  {
+    "id": "neuro",
+    "name": "Nature Neuroscience",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/neuro/"
+  },
+  {
+    "id": "nphoton",
+    "name": "Nature Photonics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nphoton/"
+  },
+  {
+    "id": "nphys",
+    "name": "Nature Physics",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nphys/"
+  },
+  {
+    "id": "nplants",
+    "name": "Nature Plants",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nplants/"
+  },
+  {
+    "id": "natprogbrainhealth",
+    "name": "Nature Progress Brain Health",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogbrainhealth/"
+  },
+  {
+    "id": "natprogoncology",
+    "name": "Nature Progress Oncology",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogoncology/"
+  },
+  {
+    "id": "natprogoptphoton",
+    "name": "Nature Progress Optics & Photonics",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogoptphoton/"
+  },
+  {
+    "id": "natprogsuschem",
+    "name": "Nature Progress Sustainable Chemistry",
+    "group": "Nature Progress",
+    "url": "https://www.nature.com/natprogsuschem/"
+  },
+  {
+    "id": "nprot",
+    "name": "Nature Protocols",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nprot/"
+  },
+  {
+    "id": "nrbd",
+    "name": "Nature Reviews Biodiversity",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrbd/"
+  },
+  {
+    "id": "natrevbioeng",
+    "name": "Nature Reviews Bioengineering",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevbioeng/"
+  },
+  {
+    "id": "nrc",
+    "name": "Nature Reviews Cancer",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrc/"
+  },
+  {
+    "id": "nrcardio",
+    "name": "Nature Reviews Cardiology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrcardio/"
+  },
+  {
+    "id": "natrevchem",
+    "name": "Nature Reviews Chemistry",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevchem/"
+  },
+  {
+    "id": "nrct",
+    "name": "Nature Reviews Clean Technology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrct/"
+  },
+  {
+    "id": "nrclinonc",
+    "name": "Nature Reviews Clinical Oncology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrclinonc/"
+  },
+  {
+    "id": "nrcomput",
+    "name": "Nature Reviews Computing",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrcomput/"
+  },
+  {
+    "id": "nrdp",
+    "name": "Nature Reviews Disease Primers",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrdp/"
+  },
+  {
+    "id": "nrd",
+    "name": "Nature Reviews Drug Discovery",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrd/"
+  },
+  {
+    "id": "natrevearthenviron",
+    "name": "Nature Reviews Earth & Environment",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevearthenviron/"
+  },
+  {
+    "id": "natrevelectreng",
+    "name": "Nature Reviews Electrical Engineering",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevelectreng/"
+  },
+  {
+    "id": "nrendo",
+    "name": "Nature Reviews Endocrinology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrendo/"
+  },
+  {
+    "id": "nrgastro",
+    "name": "Nature Reviews Gastroenterology & Hepatology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrgastro/"
+  },
+  {
+    "id": "nrg",
+    "name": "Nature Reviews Genetics",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrg/"
+  },
+  {
+    "id": "nri",
+    "name": "Nature Reviews Immunology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nri/"
+  },
+  {
+    "id": "natrevmats",
+    "name": "Nature Reviews Materials",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevmats/"
+  },
+  {
+    "id": "nrmp",
+    "name": "Nature Reviews Methods Primers",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrmp/"
+  },
+  {
+    "id": "nrmicro",
+    "name": "Nature Reviews Microbiology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrmicro/"
+  },
+  {
+    "id": "nrm",
+    "name": "Nature Reviews Molecular Cell Biology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrm/"
+  },
+  {
+    "id": "nrneph",
+    "name": "Nature Reviews Nephrology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrneph/"
+  },
+  {
+    "id": "nrneurol",
+    "name": "Nature Reviews Neurology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrneurol/"
+  },
+  {
+    "id": "nrn",
+    "name": "Nature Reviews Neuroscience",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrn/"
+  },
+  {
+    "id": "natrevphys",
+    "name": "Nature Reviews Physics",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/natrevphys/"
+  },
+  {
+    "id": "nrpsychol",
+    "name": "Nature Reviews Psychology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrpsychol/"
+  },
+  {
+    "id": "nrrheum",
+    "name": "Nature Reviews Rheumatology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrrheum/"
+  },
+  {
+    "id": "nrurol",
+    "name": "Nature Reviews Urology",
+    "group": "Nature Reviews",
+    "url": "https://www.nature.com/nrurol/"
+  },
+  {
+    "id": "natsensors",
+    "name": "Nature Sensors",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natsensors/"
+  },
+  {
+    "id": "nsmb",
+    "name": "Nature Structural & Molecular Biology",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/nsmb/"
+  },
+  {
+    "id": "natsustain",
+    "name": "Nature Sustainability",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natsustain/"
+  },
+  {
+    "id": "natsynth",
+    "name": "Nature Synthesis",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natsynth/"
+  },
+  {
+    "id": "natwater",
+    "name": "Nature Water",
+    "group": "Nature Research",
+    "url": "https://www.nature.com/natwater/"
+  },
+  {
+    "id": "npjdigitalmed",
+    "name": "npj Digital Medicine",
+    "group": "npj Digital Medicine",
+    "url": "https://www.nature.com/npjdigitalmed/"
+  }
+]

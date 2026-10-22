@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "s41467-026-72149-6",
+    "title": "Structure-informed deep generation enables de novo metabolite annotation in untargeted metabolomics",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72149-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-72031-5",
+    "title": "Prediction and functional interpretation of inter-chromosomal genome architecture from DNA sequence with TwinC",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72031-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41576-026-00952-4",
+    "title": "Tools and tactics for studying alternative splicing",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41576-026-00952-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-72169-2",
+    "title": "Conserved and divergent gene regulatory networks for crop drought resistance",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "The graph-learning application maps crop drought-resistance networks; the primary target is agricultural drought response rather than a general molecular-AI method or biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72169-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-72119-y",
+    "title": "Accelerating spiking neural networks with photonic reconfigurable devices",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Photonic spiking-network hardware evaluated on generic vision tasks; no substantive biomedical or molecular application is established.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72119-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-72096-2",
+    "title": "Oral microbiome signatures predict biological age and host health",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-72096-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-026-00117-x",
+    "title": "Public use of a generalist LLM chatbot for health queries",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "The study analyzes real health-related Copilot conversations with LLM-based intent classification and expert validation.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00117-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71937-4",
+    "title": "Higher-order neuromorphic Ising machines\u2014autoencoders and Fowler-Nordheim annealers are all you need for scalability",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Neuromorphic Ising optimization of MAX-CUT/MAX-SAT is a general computing contribution without a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71937-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71622-6",
+    "title": "Evaluating clinical competencies of large language models with a general practice benchmark",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71622-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41562-026-02447-y",
+    "title": "Feature selection leads to divergent neurobiological interpretations of brain-based machine learning biomarkers",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41562-026-02447-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71558-x",
+    "title": "Meta-encoder: a unified integration framework for multiple pathological foundation models in cancer detection",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71558-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71364-5",
+    "title": "Decoding immunotherapy response through computational modeling",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71364-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71347-6",
+    "title": "A deep learning\u2013based digital biopsy for predicting early recurrence in gastric cancer",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71347-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41560-026-02021-w",
+    "title": "Probabilistic projections of global wind and solar power growth based on historical national experience",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Wind and solar deployment projections address energy policy, without a biomedical AI target.",
+    "source_url": "https://www.nature.com/articles/s41560-026-02021-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71955-2",
+    "title": "KIMMDY: a biomolecular reaction emulator",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71955-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71744-x",
+    "title": "A multi-modal diffusion model with dual-cross-attention for multi-omics data generation and translation",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71744-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71521-w",
+    "title": "Comprehensive benchmarking of metagenomic binning tools reveals key factors for improved genome recovery",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71521-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71051-5",
+    "title": "Sparseness facilitates image encoding across visuo-frontal networks in freely moving macaque",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71051-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71863-5",
+    "title": "Host\u2013microbiome archetypes differentiate infection from pathogen carriage in the human lower airway",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Methods explicitly use ordinary logistic and LASSO-logistic regression for LRTI classification. Routine regression alone does not meet the substantive AI criterion.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71863-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71591-w",
+    "title": "Structural optimization of drug molecules with incrementally trained language models",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71591-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71642-2",
+    "title": "Oxide interface-based polymorphic electronic devices for neuromorphic computing",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Oxide neuromorphic circuits are the primary contribution; patient monitoring is a generic circuit decision-making example, not a substantive biomedical AI study.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71642-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71556-z",
+    "title": "Occlusion-activated autonomous piezoelectric implants for adaptive prevention of peri-implantitis",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71556-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s41596-026-01356-8",
+    "title": "The trRosettaRNA server for RNA structure prediction",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41596-026-01356-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71381-4",
+    "title": "RETRACTED ARTICLE: Transfer-learning guided design of high-performance conjugated polymers for low-voltage electrochemical transistors",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "The publisher title identifies a retracted article; it is not eligible for the public research collection.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71381-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41929-026-01523-w",
+    "title": "Systematically exploring yeast metabolism through retrobiosynthesis and deep learning",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41929-026-01523-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s43018-026-01141-2",
+    "title": "PRET is a few-shot system for pan-cancer recognition without example training",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43018-026-01141-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71441-9",
+    "title": "Disentangled autoencoding equivariant diffusion model for controlled generation of 3D molecules",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "A learned equivariant autoencoding diffusion model controls 3D drug-molecule composition, geometry and physicochemical properties.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71441-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71145-0",
+    "title": "The Extreme Environment Microbiome Catalog (EEMC): a global resource for microbial diversity and antimicrobial discovery",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71145-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71053-3",
+    "title": "Machine-learning enhanced simulations predict graphene is microscopically hydrophobic and not wetting transparent",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "ML-assisted simulation explains graphene wetting; biochemical relevance is incidental and the task is materials/interface physics.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71053-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71392-1",
+    "title": "Manifold topological deep learning for biomedical data",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71392-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71204-6",
+    "title": "Accelerated drug development using a digital formulator and a self-driving tableting data factory",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Bayesian optimization and predictive material-to-tablet modeling actively guide an automated drug-formulation workflow.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71204-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70895-1",
+    "title": "Adult patients with autoinflammation of unknown origin partially phenocopy the immune presentation of Still\u2019s disease",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70895-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70070-6",
+    "title": "An end-to-end generalizable deep learning framework to comprehensively analyze transcriptional regulation",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70070-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71124-5",
+    "title": "Single-breath-hold 3D abdominal metabolic MRI enables label-free diagnosis of liver cancer",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Methods describe low-rank spatial-spectral MRI reconstruction and numerical optimization, without a learned AI model; data-driven reconstruction alone is insufficient.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71124-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70863-9",
+    "title": "A prospective multicenter trial of deep learning auto-segmentation for organs at risk in thoracic radiotherapy",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70863-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71038-2",
+    "title": "Generative AI for misalignment-resistant virtual staining to accelerate histopathology workflows",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "A generative virtual-staining framework is evaluated on histopathology datasets and blinded pathologist assessments, directly addressing clinical tissue imaging.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71038-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70973-4",
+    "title": "Deep active learning and knowledge transfer for rapid discovery of lithium metal battery electrolytes",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Deep active learning designs lithium-metal battery electrolytes; no biomedical or molecular-biological task is reported.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70973-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s44220-026-00593-w",
+    "title": "A computational mechanism linking momentary craving and decision-making in alcohol drinkers and cannabis users",
+    "original_status": "pending",
+    "decision": "pending",
+    "reason": "The abstract fits cognitive reinforcement-learning parameters to craving behavior, but does not establish a substantive artificial learned predictor or policy beyond conventional computational cognitive modeling.",
+    "source_url": "https://www.nature.com/articles/s44220-026-00593-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71091-x",
+    "title": "NEOSTI - a neuromorphic electronic-opto spatial-temporal hybrid image sensor",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "The neuromorphic image sensor is tested on generic visual processing. Human-eye inspiration alone does not establish a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71091-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70884-4",
+    "title": "Atlas of predicted protein complex structures across kingdoms",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70884-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-026-00094-1",
+    "title": "Mapping the local effectiveness of mass drug administration for malaria using transportability methods",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00094-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41928-026-01593-5",
+    "title": "In-sensor cryptographic signature generation to link a physical process and an immutable digital entity",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Cryptographic recording hardware is the actual method; AI is only a motivation and cardiac-myocyte recording is a sensor demonstration, not an AI biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41928-026-01593-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-71095-7",
+    "title": "Unveiling the biodiversity of large DNA viruses in intertidal mudflats via metagenomics",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "Existing protein language models assist annotation in an environmental intertidal-virus biodiversity catalog; the central contribution is ecological resource mapping rather than a general genomic-AI method or biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-71095-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41557-026-02090-0",
+    "title": "Amino acid composition drives aggregation during peptide synthesis",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Results and Methods explicitly train language, time-series and classical ML models to predict peptide-synthesis aggregation and guide synthesis choices.",
+    "source_url": "https://www.nature.com/articles/s41557-026-02090-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70650-6",
+    "title": "Dalpiciclib plus chidamide in HR\u2009+\u2009/HER2\u2212advanced breast cancer after CDK4/6 inhibitor failure: a phase Ib trial",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "This breast-cancer phase-Ib treatment trial uses Bayesian dose-escalation statistics, without a substantive AI method or AI-specific evaluation.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70650-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70920-3",
+    "title": "Intrinsic stabilization of synaptic plasticity improves learning and robustness in artificial neural networks",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "The article develops a general artificial-network stabilization algorithm inspired by biological feedback, without an actual biomedical dataset or experimentally tested biological application established in the abstract.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70920-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s42255-026-01494-z",
+    "title": "Advances and opportunities in measuring dietary intake: from omics to AI",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s42255-026-01494-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s41589-026-02176-3",
+    "title": "A family portrait of lanmodulin selectivity for enhanced rare-earth separations",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "The assay screens lanmodulin metal-binding selectivity for rare-earth separation. Machine-learning design is a future use of the data, not the reported substantive method.",
+    "source_url": "https://www.nature.com/articles/s41589-026-02176-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70353-y",
+    "title": "Motor cortex somatostatin interneurons adaptively shape the structure of action sequences",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "Reinforcement learning describes mouse biological learning in the background; the actual study measures/intervenes on cortical interneurons and does not report an artificial reinforcement learner.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70353-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70334-1",
+    "title": "Biomimetic hairy affective-touch sensory AI interface",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "CNN/LLM-enabled touch perception primarily enables humanoid-robot emotional interaction; biomimetic sensory fibers do not establish a medical or biological research application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70334-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69856-5",
+    "title": "Celcomen: spatial causal disentanglement for single-cell and tissue perturbation modeling",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69856-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s44161-026-00786-7",
+    "title": "Multiview deep learning improves detection of major cardiac conditions from echocardiography",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44161-026-00786-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70810-8",
+    "title": "Structural evolution of carbon frameworks realizes in vitro interfacial transport in metabolically reprogrammed senescent cells for senolysis",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70810-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70065-3",
+    "title": "Local lateral connectivity is sufficient for replicating cortex-like topographical organization in deep neural networks",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Trained deep networks are used to investigate the formation of cortex-like functional topographic maps, a direct computational neuroscience application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70065-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70818-0",
+    "title": "Learning data-efficient coarse-grained molecular dynamics from forces and noise",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Generative denoising and force matching train coarse-grained models of protein molecular dynamics, directly advancing biomolecular simulation.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70818-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70659-x",
+    "title": "Noradrenaline causes a spread of association in the hippocampal cognitive map",
+    "original_status": "pending",
+    "decision": "pending",
+    "reason": "The paper uses biologically specified spiking-network/plasticity simulations to explain noradrenergic memory changes. Whether this constitutes substantive AI rather than mechanistic neural simulation requires a consistent inclusion threshold.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70659-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70535-8",
+    "title": "EPInformer: scalable and integrative prediction of gene expression from promoter-enhancer sequences with multimodal epigenomic profiles",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70535-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41556-026-01916-w",
+    "title": "An SP110\u2013SP100 axis is a critical regulator of promyelocytic leukaemia body dynamics and mitotic fidelity",
+    "original_status": "included",
+    "decision": "pending",
+    "reason": "AlphaFold is one supporting assay alongside cryo-EM and cellular biochemistry in a molecular-mechanism study; substantive AI-focused method/evaluation is not established in the abstract.",
+    "source_url": "https://www.nature.com/articles/s41556-026-01916-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41556-025-01837-0",
+    "title": "Time-resolved functional genomics using deep learning reveals global hierarchical control of autophagy",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41556-025-01837-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70422-2",
+    "title": "Humans with function-disrupting variants in the myostatin gene (MSTN) have increased skeletal muscle mass and strength, and less adiposity",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70422-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s44160-026-00994-w",
+    "title": "Anti-Friedel\u2013Crafts alkylation via electron donor\u2013acceptor photoinitiation",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "The abstract reports learned selectivity prediction for unseen substrates and late-stage pharmaceuticals in synthetic-route development.",
+    "source_url": "https://www.nature.com/articles/s44160-026-00994-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70048-4",
+    "title": "Machine learning\u2013driven design of engineered cilia enables hybrid operations in acoustic microrobots",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "AI optimizes generic acoustic-actuator geometry and resonance; precision medicine is prospective motivation rather than a substantive demonstrated biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70048-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-026-00082-5",
+    "title": "Safety of a large language model-based clinical decision support system in African primary healthcare",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00082-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s43018-026-01128-z",
+    "title": "Impact of using artificial intelligence as a second reader in breast screening including arbitration",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43018-026-01128-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s43018-026-01127-0",
+    "title": "Diagnostic accuracy, fairness and clinical implementation of AI for breast cancer screening: results of multicenter retrospective and prospective technical feasibility studies",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43018-026-01127-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s43018-026-01126-1",
+    "title": "Prospective evaluation of artificial intelligence integration into breast cancer screening in multiple workflow settings: the GEMINI study",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43018-026-01126-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70457-5",
+    "title": "A paired sequence language model for protein-protein interaction modeling",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70457-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70421-3",
+    "title": "Synthetic data-driven deep learning for label-free autonomous atomic force microscopy",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70421-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70256-y",
+    "title": "Getting robots back on track by reconstituting control in unexpected situations with online learning",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Online learning restores generic robot control after perturbations, without a biomedical or molecular application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70256-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70377-4",
+    "title": "A scalable and quantum-accurate foundation model for biomolecular force fields via linearly tensorized quadrangle attention",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70377-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70251-3",
+    "title": "Accelerated discovery of highly active enzyme nanohybrids with parallelized Bayesian optimization in hybrid space",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70251-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-026-00073-6",
+    "title": "Matching clinicians with clinical trials using AI",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00073-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70224-6",
+    "title": "DiNovo enables high-coverage and high-confidence de novo peptide sequencing via mirror proteases and deep learning",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70224-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41581-026-01060-6",
+    "title": "Bridging structure and function: artificial intelligence-based modelling of kidney proteins",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41581-026-01060-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-026-00076-3",
+    "title": "Cost-effective case-finding strategies for cognitive impairment with digital twin simulations",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00076-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41929-026-01489-9",
+    "title": "Structural insights into metallocluster trafficking in the nitrogenase assembly scaffold NifEN",
+    "original_status": "pending",
+    "decision": "pending",
+    "reason": "AlphaFold supports mechanistic nitrogenase structural interpretation alongside cryo-EM. The abstract does not establish an AI-focused molecular-information method or evaluation beyond auxiliary structure prediction.",
+    "source_url": "https://www.nature.com/articles/s41929-026-01489-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41564-026-02260-3",
+    "title": "Phenogenomics reveals the ecology and evolution of Trichoderma fungi for sustainable agriculture",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "ML correlates fungal traits and genomes for sustainable agriculture; this is an agricultural/ecological phenogenomic application, not a general molecular-AI method or biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41564-026-02260-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69979-9",
+    "title": "Pharmacological stabilization of hypoxia-inducible factor 1-\u03b1 dampens the interferon response and promotes glycolysis in Aicardi-Gouti\u00e8res syndrome",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69979-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69966-0",
+    "title": "Cross-species gene redesign leveraging ortholog information and generative modeling",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69966-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69578-8",
+    "title": "Contrast-free identification of glioma blood-brain barrier status via generative diffusion AI and non-contrast MRI",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69578-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70036-8",
+    "title": "Potent efficacy of an NA-targeting antibody against a broad spectrum of H5N1 influenza viruses",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70036-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70171-2",
+    "title": "Physical echo state network based on the nonlinearity and dynamic response of ambipolar heterostructure transistors",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Physical echo-state hardware is evaluated on MNIST/Fashion-MNIST and generic temporal tasks, without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70171-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-70069-z",
+    "title": "HRCHY-CytoCommunity identifies hierarchical tissue organization in cell-type spatial maps",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-70069-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69816-z",
+    "title": "Computation and resource efficient genome-wide association analysis for large-scale imaging studies",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69816-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s43587-026-01078-2",
+    "title": "Structural signature of plasma proteins classifies the status of Alzheimer\u2019s disease",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43587-026-01078-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s43587-026-01085-3",
+    "title": "Subtyping Alzheimer\u2019s disease and Parkinson\u2019s disease using longitudinal electronic health records",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43587-026-01085-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69872-5",
+    "title": "Machine learning guided resolution of mechanical trade-off in polymer composites via stress adaptive interface",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "ML optimizes structural polymer composites for aerospace, transportation and protection; bone inspiration is not a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69872-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69651-2",
+    "title": "Light-induced assembly and repeatable actuation in Ca2+-driven chemomechanical protein networks",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69651-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41568-026-00912-4",
+    "title": "Artificial intelligence-generated synthetic data for cancer research and clinical trials",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41568-026-00912-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69619-2",
+    "title": "Vulnerability of short-term memory in a mouse model of Alzheimer\u2019s disease",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69619-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69596-6",
+    "title": "FATE-MAP predicts teratogenicity and human gastrulation failure modes by integrating deep learning and mechanistic modeling",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69596-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41477-026-02231-w",
+    "title": "Deep learning-based semantic matching of cis-regulatory DNA sequences facilitates the prediction of gene function",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41477-026-02231-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s43018-026-01115-4",
+    "title": "M-PACT leverages cell-free DNA methylomes to achieve robust classification of pediatric brain tumors",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s43018-026-01115-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68872-9",
+    "title": "Characterising processing conditions that artifactually bias human brain tissue transcriptomes",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68872-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-025-00048-z",
+    "title": "A scoping review of silent trials for medical artificial intelligence",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-025-00048-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s44161-025-00773-4",
+    "title": "Self-powered in-stent restenosis diagnosis via magnetoelastic stents",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44161-025-00773-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41576-026-00931-9",
+    "title": "Bridging technical innovation and computational advances in studies of RNA\u2013protein assemblies",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41576-026-00931-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69663-y",
+    "title": "Deciphering DEL pocket patterns through contrastive learning",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69663-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68355-x",
+    "title": "Machine learning-predicted insulin resistance is a risk factor for 12 types of cancer",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68355-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69477-y",
+    "title": "Near real-time full-wave inverse design of electromagnetic devices",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "The inverse-design method concerns electromagnetic engineering; neither a learned biomedical model nor a medical target is established.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69477-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69302-6",
+    "title": "Multi-to-uni modal knowledge transfer pre-training for molecular representation learning",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69302-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69426-9",
+    "title": "PanMETAI - a high performance tabular foundation model for accurate pancreatic cancer diagnosis via NMR metabolomics",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69426-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41929-026-01478-y",
+    "title": "A geometric foundation model for enzyme retrieval with evolutionary insights",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41929-026-01478-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69482-1",
+    "title": "Dielectrocapillarity for exquisite control of fluids",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Deep learning supports general fluid capillarity/energy-storage physics. Biological membranes are incidental background rather than an actual biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69482-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69158-w",
+    "title": "The human metabolome and machine learning improves predictions of the post-mortem interval",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69158-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69489-8",
+    "title": "XL-MSDigger: a deep learning-based, versatile solution for cross-linking mass spectrometry",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69489-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69321-3",
+    "title": "Diffusion models enable high-fidelity prediction of fuel cell impedance spectrum from short time-domain profiles",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Diffusion models predict fuel-cell impedance, an energy-device task without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69321-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69252-z",
+    "title": "Interpretable and generative deep learning models explicate phase separating intrinsically disordered motifs",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69252-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69185-7",
+    "title": "An equivariant pretrained transformer for unified 3D molecular representation learning",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "An equivariant pretrained molecular transformer predicts ligand binding, protein properties and antiviral compounds, with computational and experimental validation.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69185-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68981-5",
+    "title": "Transfer learning in DeepLC improves LC retention time prediction across substantially different modifications and setups",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68981-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69461-6",
+    "title": "A generic reference defined by consensus peaks for single-cell ATAC-seq data analysis",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69461-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69098-5",
+    "title": "Uncovering Cas9 PAM diversity through metagenomic mining and machine learning",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69098-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-025-00038-1",
+    "title": "Large language models for frontline healthcare support in low-resource settings",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-025-00038-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-025-00017-6",
+    "title": "Socio-demographic gaps in pain management guided by large language models",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-025-00017-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-025-00007-8",
+    "title": "Large language model diagnostic assistance for physicians in a lower-middle-income country: a randomized controlled trial",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-025-00007-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-026-00055-8",
+    "title": "A foundation model for breast and lung cancer screening using non-contrast computed tomography",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-026-00055-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41562-025-02324-0",
+    "title": "Hybrid neural\u2013cognitive models reveal how memory shapes human reward learning",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Artificial neural components are trained within cognitive architectures to explain human reward-learning behavior and memory, directly connecting AI to neuroscience.",
+    "source_url": "https://www.nature.com/articles/s41562-025-02324-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69172-y",
+    "title": "Atomic resolution ensembles of intrinsically disordered proteins with Alphafold",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69172-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69161-1",
+    "title": "Closed-form feedback-free learning with forward projection",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Methods and Results validate the learning method on ECG, chest-X-ray, retinal OCT and human-promoter tasks, with clinician-annotated diagnostic explanation assessment.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69161-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-69102-y",
+    "title": "scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-69102-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68711-x",
+    "title": "Neural and computational mechanisms underlying one-shot perceptual learning in humans",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "A feedback-augmented vision-transformer model predicts human perceptual learning and is compared with human neural measurements.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68711-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41584-026-01353-x",
+    "title": "Advances in cartilage imaging techniques",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41584-026-01353-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68812-7",
+    "title": "An absolute quantification atlas of small non-coding RNAs across diverse mammalian tissues and cell lines",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68812-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41576-026-00933-7",
+    "title": "The genetic foundations of convergent traits",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41576-026-00933-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68806-5",
+    "title": "Recurrent connections facilitate occluded object recognition by explaining-away",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Recurrent convolutional models of the primate visual system are tested against human psychophysics to explain occluded-object perception.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68806-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41585-025-01123-6",
+    "title": "Sperm DNA fragmentation and its influence on mammalian reproduction",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41585-025-01123-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41589-025-02136-3",
+    "title": "De novo design of potent CRISPR\u2013Cas13 inhibitors",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41589-025-02136-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41564-025-02241-y",
+    "title": "Effector\u2013host interactome map links type III secretion systems in healthy gut microbiomes to immune modulation",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41564-025-02241-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41557-025-02041-1",
+    "title": "Collective asymmetric synthesis of the Strychnos alkaloids via thiophene S,S-dioxide cycloadditions",
+    "original_status": "pending",
+    "decision": "pending",
+    "reason": "Machine learning assists mechanistic analysis of bioactive alkaloid synthesis, but the accessible abstract does not resolve whether this is a substantive biomedical AI contribution or auxiliary synthetic-chemistry interpretation.",
+    "source_url": "https://www.nature.com/articles/s41557-025-02041-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68693-w",
+    "title": "High-speed blind structured illumination microscopy via unsupervised algorithm unrolling",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68693-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68601-2",
+    "title": "Emergent universal long-range structure in random-organizing systems",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Random-organization theory and SGD loss landscapes are general statistical physics; ecological examples do not establish a biomedical task.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68601-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68356-w",
+    "title": "The role of low-complexity repeats in RNA\u2013RNA interactions and a deep learning framework for duplex prediction",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68356-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68686-9",
+    "title": "ProteoAutoNet: high-throughput co-eluted protein analysis with robotics and machine learning",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68686-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68580-4",
+    "title": "Identification of Chlamydia pneumoniae and NLRP3 inflammasome activation in Alzheimer\u2019s disease retina",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68580-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68566-2",
+    "title": "A dual context-aware basecaller for nanopore direct RNA sequencing",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68566-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68579-x",
+    "title": "Large-scale serum N-glycomics tracks N-glycosylation dynamics in hepatocellular carcinoma progression and enables early diagnosis",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68579-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s44360-025-00021-w",
+    "title": "A community-codesigned LLM-powered chatbot for primary care: a randomized controlled trial",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44360-025-00021-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41928-025-01555-3",
+    "title": "Memristive cellular neural networks for fast in-pixel computing",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "Memristive computing is evaluated on edge/line image processing; biological-retina inspiration is not a substantive biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41928-025-01555-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68632-9",
+    "title": "Hydrogel with cell-cell adhesion cues enhances neural regeneration",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "Neural networks refer to biological neurons regenerated in hydrogels, not artificial networks; the abstract establishes no substantive AI method.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68632-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68453-w",
+    "title": "Model-agnostic linear-memory online learning in spiking neural networks",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68453-w",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68228-9",
+    "title": "Wearable intelligent throat enables natural speech in stroke patients with dysarthria",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68228-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41563-025-02459-5",
+    "title": "Mechanical behaviour of additively manufactured metals",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Review of engineering-metal mechanics mentions biomedical sectors and future ML, without a substantive biomedical AI method or central application.",
+    "source_url": "https://www.nature.com/articles/s41563-025-02459-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41928-025-01554-4",
+    "title": "Spiking neural networks with fatigue spike-timing-dependent plasticity learning using hybrid memristor arrays",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Memristor-based spiking hardware demonstrates generic temporal learning, without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41928-025-01554-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41571-025-01114-x",
+    "title": "MicroRNAs in oncology: a translational perspective in the era of AI",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41571-025-01114-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41585-025-01122-7",
+    "title": "A multi-modal approach for decision making in bladder cancer",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41585-025-01122-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68415-2",
+    "title": "Identification of modifiable plasma protein markers of cardiometabolic risk in children and adolescents with obesity",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68415-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68384-6",
+    "title": "Sequence-based generative AI design of versatile tryptophan synthases",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68384-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68211-4",
+    "title": "Precision phenotyping of type 2 diabetes in chinese populations using a variational autoencoder-informed tree model",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68211-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-67533-7",
+    "title": "Multi-center multi-omics integration predicts individualized prognosis in medullary thyroid carcinoma",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67533-7",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-026-68317-3",
+    "title": "Superelastic Tellurium Thermoelectric Coatings for Advanced Trimodal Microsensing",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-026-68317-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68151-z",
+    "title": "Neural phase microscopy with metasurface optics for real-time and nanoscale quantitative phase imaging",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68151-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s41568-025-00900-0",
+    "title": "Artificial intelligence agents in cancer research and oncology",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41568-025-00900-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68281-4",
+    "title": "Explainable mechanism for production process anomalies based on digital twin",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Digital-twin anomaly diagnosis targets a discrete-manufacturing workshop, without a biomedical application.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68281-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68277-0",
+    "title": "Critical scaling of novelty in the cortex",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68277-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68229-8",
+    "title": "Very-large-scale mimetic optogenetic synapses for physical reservoir computing",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "The central contribution is large-scale physical reservoir hardware; a medical-image-generation example does not establish a substantive biomedical AI research target.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68229-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-67958-0",
+    "title": "Nonlinear thermodynamic computing out of equilibrium",
+    "original_status": "pending",
+    "decision": "excluded",
+    "reason": "Thermodynamic neural-network computing addresses general nonlinear calculation, without a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67958-0",
+    "scope_audited": true
+  },
+  {
+    "id": "s41596-025-01296-9",
+    "title": "Deployment of a cloud-based passive defecation monitoring system for continuous gut health monitoring",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "The PHIND protocol trains and deploys CNNs for stool-form classification and defecation-event detection in passive gut-health monitoring.",
+    "source_url": "https://www.nature.com/articles/s41596-025-01296-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41928-025-01529-5",
+    "title": "Photonically linked three-dimensional neural networks based on memristive blinking neurons",
+    "original_status": "included",
+    "decision": "excluded",
+    "reason": "Photonically linked memristive networks are evaluated on Google Speech and MNIST, without a biomedical target.",
+    "source_url": "https://www.nature.com/articles/s41928-025-01529-5",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68108-2",
+    "title": "Perioperative tislelizumab plus lenvatinib treatment for resectable hepatocellular carcinoma at high risk of recurrence: single-arm phase II trial",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68108-2",
+    "scope_audited": true
+  },
+  {
+    "id": "s44222-025-00391-6",
+    "title": "Mechanomedicine",
+    "original_status": "included",
+    "decision": "pending",
+    "reason": "The mechanomedicine review presents AI integration as a future translational opportunity; accessible abstract evidence does not resolve a substantial current AI treatment or analysis.",
+    "source_url": "https://www.nature.com/articles/s44222-025-00391-6",
+    "scope_audited": true
+  },
+  {
+    "id": "s44220-025-00568-3",
+    "title": "Machine learning enables efficient neurocognitive profiling in patients with schizophrenia",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44220-025-00568-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41564-025-02214-1",
+    "title": "Approaches for accelerating microbial gene function discovery using artificial intelligence",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41564-025-02214-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68198-y",
+    "title": "Prehospital real-time AI for trauma mortality prediction: a multi-institutional and multi-national validation study",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68198-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68168-4",
+    "title": "Smart hybrid microscopy for cell-friendly detection of rare events",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68168-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-67374-4",
+    "title": "Uncertainty-aware machine learning to predict non-cancer human toxicity for the global chemicals market",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67374-4",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-66988-y",
+    "title": "A Machine Learning-Driven Electrophysiological Platform for Real-Time Tumor-Neural Interaction Analysis and Modulation",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-66988-y",
+    "scope_audited": true
+  },
+  {
+    "id": "s44220-025-00560-x",
+    "title": "Multi-organ AI endophenotypes chart the heterogeneity of brain, eye and heart pan-disease",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44220-025-00560-x",
+    "scope_audited": true
+  },
+  {
+    "id": "s41571-025-01109-8",
+    "title": "Discovery of predictive biomarkers for cancer therapy through computational approaches",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41571-025-01109-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41556-025-01838-z",
+    "title": "The interpretable multimodal dimension reduction framework SpaHDmap enhances resolution in spatial transcriptomics",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41556-025-01838-z",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-67723-3",
+    "title": "Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "Deep-learning epilepsy diagnosis is integrated with closed-loop epidural stimulation, a substantive neurological application beyond the device materials.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67723-3",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-67226-1",
+    "title": "Deep learning guided design of protease substrates",
+    "original_status": "pending",
+    "decision": "included",
+    "reason": "CleaveNet conditionally generates protease substrates and validates cleavage/selectivity experimentally for diagnostic and therapeutic enzyme applications.",
+    "source_url": "https://www.nature.com/articles/s41467-025-67226-1",
+    "scope_audited": true
+  },
+  {
+    "id": "s44220-025-00555-8",
+    "title": "Personalized entropy-informed deep learning for identifying opioid misuse",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s44220-025-00555-8",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-68074-9",
+    "title": "CUL4A-DDB1-DCAF10 is an N-recognin for N-terminally acetylated Src kinases",
+    "original_status": "included",
+    "decision": "pending",
+    "reason": "AlphaFold predictions support a protein-degradation mechanism alongside biochemical assays; the abstract does not establish a substantive AI-focused method or evaluation.",
+    "source_url": "https://www.nature.com/articles/s41467-025-68074-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41467-025-65876-9",
+    "title": "Peptide-functionalized membrane camouflage for endogenous H2S-induced photothermal immunotherapy of orthotopic colorectal cancer",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41467-025-65876-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41590-025-02355-9",
+    "title": "Long noncoding RNA regulation of immunity",
+    "original_status": "included",
+    "decision": "pending",
+    "reason": "The immunity review lists AI among emerging enabling technologies, but accessible abstract evidence does not resolve a substantive AI-focused molecular method or application.",
+    "source_url": "https://www.nature.com/articles/s41590-025-02355-9",
+    "scope_audited": true
+  },
+  {
+    "id": "s41576-025-00920-4",
+    "title": "Interpretation, extrapolation and perturbation of single cells",
+    "original_status": "included",
+    "decision": "included",
+    "reason": "Independent source abstract check confirms an actual learned method, molecular-AI analysis or substantive clinical AI evaluation/review.",
+    "source_url": "https://www.nature.com/articles/s41576-025-00920-4",
+    "scope_audited": true
+  }
+]

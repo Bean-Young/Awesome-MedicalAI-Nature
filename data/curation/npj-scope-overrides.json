@@ -1,0 +1,74 @@
+{
+  "s41746-026-03233-w": {
+    "decision": "excluded",
+    "reason": "Trial of adaptive VR/tablet cognitive games; Methods describes mastery-based progression reflecting reinforcement principles, without a learned policy or substantive AI evaluation."
+  },
+  "s41746-026-02525-5": {
+    "decision": "excluded",
+    "reason": "Medical terminology game RCT; AI-based spaced repetition is suggested only for future work, not part of the evaluated intervention."
+  },
+  "s41746-026-02405-y": {
+    "decision": "excluded",
+    "reason": "Atrial-fibrillation digital decision-aid implementation trial; AI appears only in participant discussion of potential future predictive models."
+  },
+  "s41746-026-02504-w": {
+    "decision": "excluded",
+    "reason": "Cervical-screening cohort uses cause-specific frailty models to assess EMR adoption. AI colposcopy is a platform feature, without a substantive AI model or AI-specific evaluation."
+  },
+  "s41746-026-03004-7": {
+    "decision": "excluded",
+    "reason": "Conventional bibliometric mapping of robotic surgery; emerging AI is a discussion theme rather than the research method or central evaluated subject."
+  },
+  "s41746-026-02603-8": {
+    "decision": "excluded",
+    "reason": "EEG biomarker derived using L1-regularized logistic regression and evaluated for TMS stratification; routine penalized regression alone does not meet the substantive AI criterion."
+  },
+  "s41746-026-02469-w": {
+    "decision": "excluded",
+    "reason": "Observational association between OSA/snoring and vascular aging; automated consumer-device measurements do not constitute a substantive AI method evaluation."
+  },
+  "s41746-026-03259-0": {
+    "decision": "excluded",
+    "reason": "Clinical-trial workflow/evidence-chain platform evaluation; no substantive learned AI method or AI-specific experiment is established."
+  },
+  "s41746-026-03021-6": {
+    "decision": "excluded",
+    "reason": "Qualitative thematic analysis of digital CBT-I experiences; AI is not the tested intervention or substantive analytical method."
+  },
+  "s41746-026-03049-8": {
+    "decision": "excluded",
+    "reason": "Scoping review of video-observed tuberculosis therapy; AI/LLM screening or incidental future technology mentions are not the clinical review target."
+  },
+  "s41746-026-02917-7": {
+    "decision": "excluded",
+    "reason": "Legal EHDS health-app data-holder mapping; the AI Act is a cited regulation, without substantive AI application or AI-focused evidence evaluation."
+  },
+  "s41746-026-02814-z": {
+    "decision": "excluded",
+    "reason": "Secure multiparty-computation patient-reported outcome platform; named LLMs were used only for manuscript language editing."
+  },
+  "s41746-026-02784-2": {
+    "decision": "excluded",
+    "reason": "General health-record secondary-use legal guidance; AI Act inclusion alone does not make this an AI-focused biomedical study."
+  },
+  "s41746-026-02737-9": {
+    "decision": "excluded",
+    "reason": "Evidence mapping for digital therapeutics; ChatGPT was used only to assist writing analysis code, not as the substantive study method or target."
+  },
+  "s41746-026-02666-7": {
+    "decision": "excluded",
+    "reason": "FHIR interoperability/data engineering toolkit; suitability of exported data for future machine learning is not an evaluated AI contribution."
+  },
+  "s41746-026-02555-z": {
+    "decision": "excluded",
+    "reason": "Audiovisual stimulation study; neural-network wording refers to biological brain interactions, without an artificial neural-network analysis."
+  },
+  "s41746-026-02523-7": {
+    "decision": "excluded",
+    "reason": "Review of design features of digital mental-health interventions; AI-assisted literature screening is an auxiliary review workflow, not the substantive biomedical AI target."
+  },
+  "s41746-026-02437-4": {
+    "decision": "excluded",
+    "reason": "Skills/distraction/sham VR chronic-back-pain trial; no substantive AI intervention or AI-focused analysis is reported."
+  }
+}

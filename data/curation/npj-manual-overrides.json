@@ -1,0 +1,2382 @@
+{
+  "s41746-026-03221-0": {
+    "research_problem": "Screen for Turner syndrome from facial appearance when training examples are scarce.",
+    "ai_method": "Hybrid deep facial features and geometric prior knowledge.",
+    "outcome_summary": "The reported prospective-cohort accuracy was 95.41%. Strong sensitivity in a difficulty-selected subset should not be generalized to the full screening population.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02774-4": {
+    "research_problem": "Detect heart failure from ECGs while reducing noise in diagnostic-code labels.",
+    "ai_method": "Deep ECG neural network trained with NT-proBNP-supported labels.",
+    "outcome_summary": "Discrimination varied substantially with the HF label definition. MIMIC-IV external testing supported transportability, but biomarker thresholds must accompany performance claims.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 25300,
+        "unit": "patients",
+        "role": "development",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 43727,
+        "unit": "patients",
+        "role": "independent test",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 161352,
+        "unit": "patients",
+        "role": "MIMIC-IV external validation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02743-x": {
+    "research_problem": "Shorten screening-to-diagnosis delays for women at high breast-cancer risk in a safety-net clinic.",
+    "ai_method": "Real-time Mirai one-year risk scores embedded in mammography workflow.",
+    "outcome_summary": "Most consenting high-risk women received immediate reads, and diagnostic and biopsy timelines shortened. The enrollment-day comparison was observational, not a patient RCT.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 4145,
+        "unit": "mammograms",
+        "role": "screening population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 525,
+        "unit": "mammograms",
+        "role": "high-risk flags",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 100,
+        "unit": "women",
+        "role": "expedited-care participants",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02671-w": {
+    "research_problem": "Reduce the cost and item burden of evaluating medical knowledge in LLMs.",
+    "ai_method": "Item-response-theory computerized adaptive testing, simulation and empirical LLM evaluation.",
+    "outcome_summary": "Using 1.3% of the item bank approximated full-bank scores and preserved model rankings. The benchmark measures knowledge, not clinical safety.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 38,
+        "unit": "LLMs",
+        "role": "empirical benchmark",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02768-2": {
+    "research_problem": "Organize fragmented medical AI education across undergraduate, postgraduate and continuing training.",
+    "ai_method": "Integrative evidence review and Bloom-based AI-PACE competency framework.",
+    "outcome_summary": "The review identified weak reinforcement, specialty imbalance and limited affective-domain coverage; educational effectiveness remains to be tested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 23,
+        "unit": "articles",
+        "role": "integrative review",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02762-8": {
+    "research_problem": "Measure adoption of ambient AI documentation tools and perceived benefits and risks in UK general practice.",
+    "ai_method": "Cross-sectional survey of AI-scribe use, with regression analysis of adoption factors.",
+    "outcome_summary": "Forty percent of respondents reported current use. Perceived efficiency and safety concerns were self-reported, rather than independently measured clinical effects.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 598,
+        "unit": "GPs",
+        "role": "survey respondents",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02627-0": {
+    "research_problem": "Compare missed disease and referral burden across autonomous-AI and store-and-forward diabetic-retinopathy screening.",
+    "ai_method": "Diagnostic-accuracy systematic review, meta-analysis and decision-consequence modeling.",
+    "outcome_summary": "Pooled sensitivity favored AI, but net benefit depended on prevalence, thresholds and error weighting; results do not establish universal pathway superiority.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 28,
+        "unit": "studies",
+        "role": "diagnostic-accuracy synthesis",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02757-5": {
+    "research_problem": "Test whether passive EHR access to graft-loss risk estimates improves treatment-option discussions after kidney transplantation.",
+    "ai_method": "EHR-integrated machine-learning risk model evaluated in the PRIMA-AI randomized trial.",
+    "outcome_summary": "Conversation frequency and secondary outcomes did not improve. Low and variable uptake highlighted workflow barriers.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 76,
+        "unit": "recipients",
+        "role": "randomized population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 36,
+        "unit": "recipients",
+        "role": "AI intervention",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 40,
+        "unit": "recipients",
+        "role": "usual care",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02725-z": {
+    "research_problem": "Identify missing discharge diagnoses while limiting alert fatigue and coding errors.",
+    "ai_method": "Cross-level fusion of EHR data and medical knowledge, combined with an expert system.",
+    "outcome_summary": "The model improved detection metrics across six hospitals; some flagged omissions changed DRG assignments. Coding changes should not be equated with patient benefit.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 6,
+        "unit": "hospitals",
+        "role": "EHR sources",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02761-9": {
+    "research_problem": "Map proposed AI competencies for undergraduate medical education.",
+    "ai_method": "PRISMA-ScR scoping review and classification of competency statements.",
+    "outcome_summary": "The synthesis organized seven domains,37 competencies and 170 learning objectives. Predominantly opinion-based sources require stakeholder validation and prioritization.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 54,
+        "unit": "studies",
+        "role": "included evidence",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 22,
+        "unit": "countries",
+        "role": "source coverage",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 564,
+        "unit": "statements",
+        "role": "competency analysis",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02665-8": {
+    "research_problem": "Separate progression speed from progression pathway in heterogeneous ALS trajectories.",
+    "ai_method": "DiSPAH continuous-time hidden-Markov machine-learning framework with patient-specific speed.",
+    "outcome_summary": "Inferred trajectories and speed related to baseline characteristics and supported future-course prediction. Treatment-guidance benefit was not established.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02655-w": {
+    "research_problem": "Identify accessible PPG features associated with underdiagnosed peripheral artery disease.",
+    "ai_method": "Explainable PPG-feature machine learning, with and without clinical covariates.",
+    "outcome_summary": "The PPG-only and augmented models achieved AUCs of 0.83 and 0.85; prospective workflow validation remained future work.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2362,
+        "unit": "patients",
+        "role": "unique individuals",
+        "context": "unique individuals",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 5237,
+        "unit": "leg measurements",
+        "role": "PPG and ABI analysis",
+        "context": "PPG and ABI analysis",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02663-w": {
+    "research_problem": "Discover interpretable survival-risk groups across cancer types and data modalities.",
+    "ai_method": "Neural clustering optimized for survival heterogeneity, with post-hoc explanation.",
+    "outcome_summary": "Myeloma laboratory and NSCLC CT applications identified recognizable risk factors and underwent external validation; treatment benefit was not tested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02637-y": {
+    "research_problem": "Develop reproducible open medical language models with stronger safety evaluation.",
+    "ai_method": "Aloe models: curated and synthetic data, direct preference optimization and retrieval augmentation.",
+    "outcome_summary": "The models showed competitive benchmark performance and improved safety measures. Research-only assets do not establish clinical readiness.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 1800000000,
+        "unit": "tokens",
+        "role": "training corpus",
+        "context": "training corpus",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02714-2": {
+    "research_problem": "Assess whether dataset-documentation standards adequately support responsible healthcare AI.",
+    "ai_method": "Comparison of five frameworks against STANDING Together recommendations.",
+    "outcome_summary": "None was widely adopted or fully suited to health datasets; the analysis recommends a healthcare-specific standard and implementation support.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 5,
+        "unit": "documentation frameworks",
+        "role": "comparative analysis",
+        "context": "comparative analysis",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02709-z": {
+    "research_problem": "Model longitudinal multimorbidity while preserving competing risks and event timing.",
+    "ai_method": "SurvivEHR generative Transformer pretrained on time-to-next-event objectives.",
+    "outcome_summary": "Pretraining supported discrimination and downstream prognostic tasks, particularly with limited task-specific data; clinical intervention benefit was not tested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 23000000,
+        "unit": "patients",
+        "role": "UK primary-care source population",
+        "context": "UK primary-care source population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 7600000000,
+        "unit": "coded events",
+        "role": "pretraining corpus",
+        "context": "pretraining corpus",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02691-6": {
+    "research_problem": "Provide individualized consent answers while balancing unsafe responses against excessive refusal.",
+    "ai_method": "RESPECT document-grounded RAG assistant and refusal–utility evaluation.",
+    "outcome_summary": "Grounding improved appropriate refusal relative to GPT-4 but reduced useful answering; staff evaluation supported development, not unsupervised deployment.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02722-2": {
+    "research_problem": "Evaluate AKI predictors under repeated monitoring rather than a single prediction time.",
+    "ai_method": "LSTM-Attention, masked CNN and ITE-Transformer, compared with XGBoost and logistic regression.",
+    "outcome_summary": "Retrospective online simulation showed that the highest single-point AUROC could coexist with the worst alert burden, changing the preferred model.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 157323,
+        "unit": "admissions",
+        "role": "three retrospective EHR cohorts",
+        "context": "three retrospective EHR cohorts",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02626-1": {
+    "research_problem": "Determine whether LLM-generated leukemia pharmacotherapy simulations meet educational and safety standards.",
+    "ai_method": "Four LLMs with expert meta-prompts, counterbalanced student sessions and expert assessment.",
+    "outcome_summary": "Only 51.5% of sessions passed every domain; clinical accuracy lagged instructional design, and student satisfaction did not reliably track expert quality.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 104,
+        "unit": "PharmD students",
+        "role": "simulation participants",
+        "context": "simulation participants",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 103,
+        "unit": "sessions",
+        "role": "expert-evaluated simulations",
+        "context": "expert-evaluated simulations",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 4,
+        "unit": "LLMs",
+        "role": "simulation generators",
+        "context": "simulation generators",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02587-5": {
+    "research_problem": "Identify requirements for patient-centered implementation of healthcare AI.",
+    "ai_method": "Qualitative interviews using postpartum-depression risk prediction as a concrete AI use case.",
+    "outcome_summary": "Stakeholders prioritized actionable benefit, professional interpretation and shared accountability, with unresolved explainability and communication tensions.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 18,
+        "unit": "patients",
+        "role": "interview participants",
+        "context": "interview participants",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 8,
+        "unit": "health professionals",
+        "role": "interview participants",
+        "context": "interview participants",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 8,
+        "unit": "developers",
+        "role": "interview participants",
+        "context": "interview participants",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02669-4": {
+    "research_problem": "Detect and safely manage failures in online AI-driven just-in-time health interventions.",
+    "ai_method": "Monitoring framework with severity levels and prespecified fallback policies.",
+    "outcome_summary": "Two implementation examples detected issues in real time and used fallback actions to safeguard participants and preserve analyzable data.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2,
+        "unit": "case studies",
+        "role": "monitoring implementations",
+        "context": "monitoring implementations",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02662-x": {
+    "research_problem": "Generate useful biobank data without exposing sensitive individual records.",
+    "ai_method": "Deep generative synthesis, Transformer diffusion, differential privacy and domain-guided checks.",
+    "outcome_summary": "Across 26 datasets, correlation- and distribution-aware training improved fidelity, utility and privacy trade-offs; guarantees depend on the selected setup.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 26,
+        "unit": "biobank datasets",
+        "role": "synthesis evaluation",
+        "context": "synthesis evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02658-7": {
+    "research_problem": "Transfer blood-proteomic cancer information to saliva-based head-and-neck cancer detection.",
+    "ai_method": "CNN-Synth with variational-autoencoder augmentation and sample-type transfer.",
+    "outcome_summary": "Independent saliva testing reached AUC 0.88 versus at most 0.77 without augmentation; the case-control proof of concept requires further validation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 13208,
+        "unit": "cancer cases",
+        "role": "UK Biobank training",
+        "context": "UK Biobank training",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 39806,
+        "unit": "controls",
+        "role": "UK Biobank training",
+        "context": "UK Biobank training",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 156,
+        "unit": "participants",
+        "role": "independent saliva case-control evaluation",
+        "context": "independent saliva case-control evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02686-3": {
+    "research_problem": "Differentiate necrotizing fasciitis from osteomyelitis using routine blood tests.",
+    "ai_method": "Explainable ten-biomarker LightGBM classifier with independent-center testing.",
+    "outcome_summary": "External AUC was 0.926. A web tool was released, but reductions in diagnostic delay or patient harm were not prospectively demonstrated.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 3415,
+        "unit": "patients",
+        "role": "retrospective multicenter cohort",
+        "context": "retrospective multicenter cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 579,
+        "unit": "patients",
+        "role": "necrotizing fasciitis",
+        "context": "necrotizing fasciitis",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 2836,
+        "unit": "patients",
+        "role": "osteomyelitis",
+        "context": "osteomyelitis",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02693-4": {
+    "research_problem": "Improve endoscopic AI generalization across video-processor appearance differences.",
+    "ai_method": "EndoStyle StarGANv 2 style transfer and synthetic augmentation.",
+    "outcome_summary": "Converted images appeared realistic to endoscopists and reduced detector false positives on two datasets; workflow benefit remains untested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 5,
+        "unit": "processor styles",
+        "role": "style-transfer targets",
+        "context": "style-transfer targets",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 2,
+        "unit": "datasets",
+        "role": "downstream detection evaluation",
+        "context": "downstream detection evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02673-8": {
+    "research_problem": "Objectively score airway-collapse degree and cause during sleep endoscopy.",
+    "ai_method": "EfficientNet-B 2 CNNs with attention-based multiple-instance learning.",
+    "outcome_summary": "Internal and external evaluation supported automated scoring, with performance varying by target; improved treatment outcomes were not established.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 1904,
+        "unit": "patients",
+        "role": "sleep-endoscopy video source",
+        "context": "sleep-endoscopy video source",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 5,
+        "unit": "hospitals",
+        "role": "multicenter coverage",
+        "context": "multicenter coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02674-7": {
+    "research_problem": "Evaluate sequential tool-using clinical agents under incomplete information.",
+    "ai_method": "AgentClinic multimodal simulated-clinic benchmark with interaction, retrieval and persistent notes.",
+    "outcome_summary": "Sequential diagnosis was harder than source multiple-choice tasks, and tool benefits depended on the LLM, limiting static-benchmark conclusions.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 9,
+        "unit": "specialties",
+        "role": "benchmark coverage",
+        "context": "benchmark coverage",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 7,
+        "unit": "languages",
+        "role": "benchmark coverage",
+        "context": "benchmark coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02670-x": {
+    "research_problem": "Integrate MRI, PSA and clinical text for heterogeneous prostate-cancer diagnosis.",
+    "ai_method": "Prost-LM multimodal language model with shared cross-modal representations.",
+    "outcome_summary": "The combined model outperformed an MRI-only comparator internally; clinical-use effectiveness was not established by diagnostic metrics.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 3940,
+        "unit": "patients",
+        "role": "multicenter development and validation",
+        "context": "multicenter development and validation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02661-y": {
+    "research_problem": "Track Huntington chorea during daily life rather than relying only on clinic ratings.",
+    "ai_method": "Smartwatch accelerometry with a machine-learning score anchored to clinical chorea assessments.",
+    "outcome_summary": "The score captured change over two years across four studies; the monitoring analysis itself was not a randomized treatment-effect evaluation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 1025,
+        "unit": "participants",
+        "role": "four source studies",
+        "context": "four source studies",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 4,
+        "unit": "studies",
+        "role": "longitudinal monitoring sources",
+        "context": "longitudinal monitoring sources",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02648-9": {
+    "research_problem": "Integrate CT-based assessment of ARDS diagnosis, physiology, progression and prognosis.",
+    "ai_method": "AutoARDS foundation model with multitask pretraining and adversarial perturbation.",
+    "outcome_summary": "Multicenter evaluation supported diagnostic and physiological estimates, including oxygenation prediction; predictive accuracy does not itself demonstrate improved critical-care outcomes.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 50000,
+        "unit": "CT volumes",
+        "role": "training; source reports more than this number",
+        "context": "training; source reports more than this number",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 6153,
+        "unit": "individuals",
+        "role": "multicenter validation",
+        "context": "multicenter validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 6,
+        "unit": "medical centers",
+        "role": "validation coverage",
+        "context": "validation coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02619-0": {
+    "research_problem": "Determine how explanation format affects radiologists using LLM diagnostic advice.",
+    "ai_method": "Randomized reader experiment comparing no support, diagnosis-only, differential and chain-of-thought outputs.",
+    "outcome_summary": "Chain-of-thought support improved accuracy in controlled vignette assessments; this was a reader study rather than a patient treatment trial.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2020,
+        "unit": "reader assessments",
+        "role": "randomized explanation-format experiment; not unique patients or readers",
+        "context": "randomized explanation-format experiment; not unique patients or readers",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02624-3": {
+    "research_problem": "Assess how cohort versus case-control sampling changes asthma-exacerbation predictions.",
+    "ai_method": "Identical Transformer architecture and predictors across two healthcare systems.",
+    "outcome_summary": "Event-enriched sampling produced higher AUC but different absolute risks, showing that study design affects calibration and intended-use interpretation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02642-1": {
+    "research_problem": "Predict clinically significant prostate cancer when MRI or rectal-examination data are variably available.",
+    "ai_method": "Calibrated random-forest ensembles using PSA, biopsy history and clinical information.",
+    "outcome_summary": "MRI-enhanced models had better validation discrimination than simpler models; the evidence was observational and did not measure biopsy-policy outcomes.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 6,
+        "unit": "organizations",
+        "role": "observational source cohorts",
+        "context": "observational source cohorts",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": "1626–2191",
+        "unit": "patients per model",
+        "role": "training-cohort range",
+        "context": "training-cohort range",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": "378–1318",
+        "unit": "patients per model",
+        "role": "validation-cohort range",
+        "context": "validation-cohort range",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02618-1": {
+    "research_problem": "Triage chronic-dyspepsia patients for gastric-cancer endoscopy using existing blood tests.",
+    "ai_method": "RBT-GC machine-learning biomarker built from routine laboratory and demographic features.",
+    "outcome_summary": "Temporal validation identified a high-risk group with lower numbers needed to scope; operational and patient benefits require implementation testing.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 210463,
+        "unit": "subjects",
+        "role": "2000–2015 training cohort",
+        "context": "2000–2015 training cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 3071,
+        "unit": "gastric-cancer cases",
+        "role": "training subset",
+        "context": "training subset",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 90479,
+        "unit": "subjects",
+        "role": "2016–2020 temporal validation",
+        "context": "2016–2020 temporal validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 2066,
+        "unit": "gastric-cancer cases",
+        "role": "validation subset",
+        "context": "validation subset",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02616-3": {
+    "research_problem": "Determine whether AI-assisted diabetic-retinopathy pathways improve completed referrals.",
+    "ai_method": "Systematic review and meta-analysis of randomized and nonrandomized pathway comparisons.",
+    "outcome_summary": "Referral uptake improved in pooled evidence with substantial heterogeneity; pathway redesign and behavioral support accompanied AI in many studies.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 6,
+        "unit": "studies",
+        "role": "meta-analysis inclusion",
+        "context": "meta-analysis inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02631-4": {
+    "research_problem": "Build multimodal surgical-scene understanding beyond general-purpose vision-language models.",
+    "ai_method": "ORQA specialized foundation-model family integrating visual, audio and structured information.",
+    "outcome_summary": "ORQA outperformed generalist comparators on surgical understanding benchmarks; safety-critical operating-room impact was not directly established.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02607-4": {
+    "research_problem": "Organize recurring ethical and governance failures in medical AI.",
+    "ai_method": "Literature-derived conceptual framework followed by an international stakeholder opinion poll.",
+    "outcome_summary": "Stakeholders broadly agreed on the proposed risks, with differences in regulation attitudes; agreement validates perceived concerns rather than intervention effectiveness.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 914,
+        "unit": "stakeholders",
+        "role": "opinion-poll respondents",
+        "context": "opinion-poll respondents",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 143,
+        "unit": "countries",
+        "role": "survey coverage",
+        "context": "survey coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02595-5": {
+    "research_problem": "Map how AI-system complexity relates to healthcare startup investment and representation.",
+    "ai_method": "Five-tier AI complexity classification applied to startup characteristics and funding.",
+    "outcome_summary": "Investment concentrated in higher-complexity diagnostic, decision-support and drug-discovery ventures, with geographic and team-representation imbalances.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 3807,
+        "unit": "startups",
+        "role": "AI-health investment landscape",
+        "context": "AI-health investment landscape",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02582-w": {
+    "research_problem": "Evaluate psychiatric reasoning, management and follow-up beyond small interview or synthetic-chat corpora.",
+    "ai_method": "PsychiatryBench expert-annotated textbook/casebook tasks and multi-LLM evaluation.",
+    "outcome_summary": "Models showed consistency and safety gaps, particularly in longitudinal and management tasks; benchmark performance does not establish clinical readiness.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 5188,
+        "unit": "items",
+        "role": "expert-annotated benchmark",
+        "context": "expert-annotated benchmark",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 11,
+        "unit": "task types",
+        "role": "benchmark coverage",
+        "context": "benchmark coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02541-5": {
+    "research_problem": "Reduce ICD-10-CM coding workload across heterogeneous clinical documentation.",
+    "ai_method": "BioMistral-based pipeline, HL 7-aligned prompts and human-in-the-loop coder evaluation.",
+    "outcome_summary": "The 13-week workflow trial reduced coding time while maintaining measured accuracy; randomized participants were coding specialists rather than patients.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 10,
+        "unit": "coding specialists",
+        "role": "randomized workflow study",
+        "context": "randomized workflow study",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 13,
+        "unit": "weeks",
+        "role": "study duration",
+        "context": "study duration",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02636-z": {
+    "research_problem": "Automate discharge-summary quality auditing over an entire improvement project.",
+    "ai_method": "LLMs trained on clinician-graded content, followed by held-out evaluation and large-scale processing.",
+    "outcome_summary": "High agreement on targeted fields enabled broad audit coverage and revealed trends missed by sampled manual review; this evaluated documentation monitoring.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 1876,
+        "unit": "discharge summaries",
+        "role": "clinician-graded model-development data",
+        "context": "clinician-graded model-development data",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 107000,
+        "unit": "summaries",
+        "role": "project-wide automated audit",
+        "context": "project-wide automated audit",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02601-w": {
+    "research_problem": "Identify performance gaps between an AI blood-morphology analyzer and expert readers.",
+    "ai_method": "MC-100 i cell classification compared with morphology experts and an adjudicated reference.",
+    "outcome_summary": "Overall performance was strong, but immature and atypical cells exposed systematic AI–human differences requiring targeted improvement.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 104,
+        "unit": "blood smears",
+        "role": "evaluation material",
+        "context": "evaluation material",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 19174,
+        "unit": "cells",
+        "role": "cell-level analysis",
+        "context": "cell-level analysis",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 15,
+        "unit": "morphologists",
+        "role": "comparative readers",
+        "context": "comparative readers",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 3,
+        "unit": "senior experts",
+        "role": "reference-standard adjudication",
+        "context": "reference-standard adjudication",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02614-5": {
+    "research_problem": "Reconsider why cohort-level brain comparisons have yielded few clinically useful biomarkers.",
+    "ai_method": "Conceptual analysis of AI biomarker research using a thought experiment.",
+    "outcome_summary": "The authors advocate multimodal longitudinal grouping; this article does not report a new clinically validated prediction system.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02609-2": {
+    "research_problem": "Identify marketed ICU-specific AI devices and barriers to clinical adoption.",
+    "ai_method": "Multimethod regulatory and market landscape review.",
+    "outcome_summary": "The search identified 36 devices, mostly predictive; device availability should not be interpreted as demonstrated patient benefit.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 36,
+        "unit": "devices",
+        "role": "marketed ICU-specific AI products",
+        "context": "marketed ICU-specific AI products",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02539-z": {
+    "research_problem": "Re-evaluate LLMs against conventional methods on nongenerative clinical prediction.",
+    "ai_method": "ClinicRealm benchmark covering GPT-style, BERT-style and traditional models on notes and structured EHRs.",
+    "outcome_summary": "Leading LLMs were competitive, particularly with limited data; performance varied by input type and data regime.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 15,
+        "unit": "GPT-style LLMs",
+        "role": "benchmark models",
+        "context": "benchmark models",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 5,
+        "unit": "BERT-style models",
+        "role": "benchmark models",
+        "context": "benchmark models",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 11,
+        "unit": "traditional methods",
+        "role": "benchmark comparators",
+        "context": "benchmark comparators",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02586-6": {
+    "research_problem": "Compare radiology impressions from a locally specialized model, a general LLM and original authors.",
+    "ai_method": "Retrospective blinded assessment by radiologists and oncologists.",
+    "outcome_summary": "The custom model approached human preference, while generic outputs were less concise; low harm ratings were subjective, with variable inter-rater reliability.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 200,
+        "unit": "oncologic CT reports",
+        "role": "retrospective evaluation",
+        "context": "retrospective evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 10,
+        "unit": "clinicians",
+        "role": "human reviewers",
+        "context": "human reviewers",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02557-x": {
+    "research_problem": "Subtype NSCLC without conventional tissue staining.",
+    "ai_method": "Deep classification and virtual TTF-1/p 40 staining from autofluorescence intensity and lifetime images.",
+    "outcome_summary": "Classification and blinded virtual-stain assessments were promising; diagnostic workflow and treatment benefits require separate validation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 3,
+        "unit": "thoracic pathologists",
+        "role": "blinded virtual-stain evaluation",
+        "context": "blinded virtual-stain evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02518-4": {
+    "research_problem": "Recover missing wearable heart-rate data for early infection detection.",
+    "ai_method": "GAN imputation trained on external COVID-19 data, paired with rule-based physiological alerts.",
+    "outcome_summary": "Imputation enabled additional malaria alerts despite sparse data; cross-pathogen feasibility does not establish a clinically deployed diagnostic threshold.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 300,
+        "unit": "participants",
+        "role": "Kenyan wearable cohort",
+        "context": "Kenyan wearable cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 161,
+        "unit": "malaria-positive participants",
+        "role": "cohort subset",
+        "context": "cohort subset",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 3318,
+        "unit": "participants",
+        "role": "external COVID-19 source for GAN training",
+        "context": "external COVID-19 source for GAN training",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02520-w": {
+    "research_problem": "Turn musculoskeletal MRI into scalable quantitative biomarkers and risk estimates.",
+    "ai_method": "Fine-tuned SAM-family foundation segmenters, automated prompts and downstream prediction models.",
+    "outcome_summary": "Measurements agreed with experts and supported triage and knee-outcome models; implementation effects remain distinct from modeled net benefit.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02535-3": {
+    "research_problem": "Consider regulation as ICU AI evolves from narrow tools to agentic systems.",
+    "ai_method": "Conceptual five-paradigm framework for medical-AI regulatory complexity.",
+    "outcome_summary": "The perspective proposes broader orchestration oversight; it does not validate a deployed clinical system.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02484-x": {
+    "research_problem": "Assess opportunistic chest-radiograph screening for low bone density in Asian health-check populations.",
+    "ai_method": "AI radiograph screening compared with DXA and subgroup decision analysis.",
+    "outcome_summary": "Overall discrimination was high, but small subgroup event counts limited intersectional conclusions and multicenter generalization remained unconfirmed.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2384,
+        "unit": "adults",
+        "role": "health-examination validation",
+        "context": "health-examination validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 255,
+        "unit": "suspected cases",
+        "role": "AI-positive flags",
+        "context": "AI-positive flags",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 94,
+        "unit": "confirmed cases",
+        "role": "DXA-confirmed positives",
+        "context": "DXA-confirmed positives",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02536-2": {
+    "research_problem": "Validate image-based dietary AI against physiological energy-expenditure measurement in women with obesity.",
+    "ai_method": "SNAQ food-image estimation compared with doubly labeled water and dietary recall.",
+    "outcome_summary": "The app substantially underestimated intake and had poor individual agreement, illustrating the gap between algorithm capability and dietary-assessment validity.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 20,
+        "unit": "women with obesity",
+        "role": "free-living validation",
+        "context": "free-living validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 7,
+        "unit": "days",
+        "role": "measurement protocol",
+        "context": "measurement protocol",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02279-6": {
+    "research_problem": "Rapidly classify spinal tumors from unprocessed tissue during surgical workflows.",
+    "ai_method": "SpineXtract Transformer applied to stimulated-Raman histology.",
+    "outcome_summary": "The international simulated evaluation achieved high balanced accuracy within five minutes; existing-image single-arm testing was not prospective intraoperative deployment.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 44,
+        "unit": "patients",
+        "role": "existing SRH dataset",
+        "context": "existing SRH dataset",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 142,
+        "unit": "slide images",
+        "role": "simulated classification evaluation",
+        "context": "simulated classification evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 3,
+        "unit": "institutions",
+        "role": "international source coverage",
+        "context": "international source coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02551-3": {
+    "research_problem": "Interpret printed or digital 12-lead ECG images when raw waveforms are unavailable.",
+    "ai_method": "PULSE multimodal LLM with large instruction-tuning data and an expert-developed benchmark.",
+    "outcome_summary": "The specialized model outperformed general-purpose comparators on benchmark accuracy; routine clinical effectiveness was not measured.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 1000000,
+        "unit": "samples",
+        "role": "instruction-tuning corpus; source reports more than this number",
+        "context": "instruction-tuning corpus; source reports more than this number",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 9,
+        "unit": "datasets",
+        "role": "ECG benchmark sources",
+        "context": "ECG benchmark sources",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02530-8": {
+    "research_problem": "Assess noninvasive coronary-disease detection from heart sounds.",
+    "ai_method": "Systematic review of signal-processing and machine-learning diagnostic methods.",
+    "outcome_summary": "Machine-learning studies generally reported stronger accuracy and more independent validation, but larger multicenter studies remain necessary.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 40,
+        "unit": "studies",
+        "role": "systematic-review inclusion",
+        "context": "systematic-review inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 13814,
+        "unit": "participants",
+        "role": "pooled source population",
+        "context": "pooled source population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 19,
+        "unit": "studies",
+        "role": "machine-learning subset",
+        "context": "machine-learning subset",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02529-1": {
+    "research_problem": "Balance liver-transplant graft failure against changing waitlist mortality and donor availability.",
+    "ai_method": "Offline reinforcement learning using SRTR waitlist trajectories.",
+    "outcome_summary": "Retrospective policy analysis suggested better allocation opportunities; estimated decisions cannot establish realized survival gains under prospective use.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02537-1": {
+    "research_problem": "Assess whether LLMs can explain audiograms accurately and accessibly to patients.",
+    "ai_method": "Eight-LLM blinded multicenter evaluation by clinicians and lay reviewers.",
+    "outcome_summary": "Patient-facing comprehension ratings were encouraging, but diagnostic performance and hallucinations remained limiting, supporting auxiliary rather than replacement use.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 140,
+        "unit": "audiogram reports",
+        "role": "multicenter model evaluation",
+        "context": "multicenter model evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 8,
+        "unit": "LLMs",
+        "role": "evaluated models",
+        "context": "evaluated models",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02521-9": {
+    "research_problem": "Examine associations between supervised AI participation, AI literacy and medical critical thinking.",
+    "ai_method": "Longitudinal student cohort with cross-lagged and mediation analysis.",
+    "outcome_summary": "Participation tracked later literacy and critical thinking, but observational mediation does not establish that AI use caused educational improvement.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 372,
+        "unit": "medical students",
+        "role": "longitudinal cohort",
+        "context": "longitudinal cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 12,
+        "unit": "months",
+        "role": "follow-up duration",
+        "context": "follow-up duration",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02528-2": {
+    "research_problem": "Estimate daily-life gait metrics from wrist rather than specialized lower-body sensors.",
+    "ai_method": "ElderNet self-supervised accelerometer model with clinical validation.",
+    "outcome_summary": "The model estimated gait speed and other metrics and classified mobility disability better than comparators; clinical utility requires workflow evaluation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 819,
+        "unit": "older adults",
+        "role": "Rush cohort",
+        "context": "Rush cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 85,
+        "unit": "individuals with gait impairments",
+        "role": "Mobilise-D validation",
+        "context": "Mobilise-D validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 6,
+        "unit": "medical centers",
+        "role": "combined coverage",
+        "context": "combined coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02507-7": {
+    "research_problem": "Compare short-term breast-cancer risk models across screening equipment.",
+    "ai_method": "Four deep-learning algorithms evaluated on negative mammograms with five-year follow-up.",
+    "outcome_summary": "Risk discrimination and high-score cancer capture differed between models, supporting comparative prospective trials rather than assuming interchangeability.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 112621,
+        "unit": "negative mammograms",
+        "role": "retrospective screening cohort",
+        "context": "retrospective screening cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 1225,
+        "unit": "future cancers",
+        "role": "follow-up outcomes",
+        "context": "follow-up outcomes",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 4,
+        "unit": "algorithms",
+        "role": "risk-model comparison",
+        "context": "risk-model comparison",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02519-3": {
+    "research_problem": "Assess AI-chatbot engagement and HIV prevention care delivery.",
+    "ai_method": "Retrospective PrEP-support cohort comparing chatbot users and non-users.",
+    "outcome_summary": "Users had higher initiation and attendance, but self-selection and observational confounding limit causal conclusions.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 155217,
+        "unit": "adults",
+        "role": "eligible retrospective PrEP population",
+        "context": "eligible retrospective PrEP population",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02497-6": {
+    "research_problem": "Expose and reduce shortcut learning in chest-radiograph interpretation models.",
+    "ai_method": "RoentMod counterfactual editing built from RoentGen and image-to-image modification.",
+    "outcome_summary": "Synthetic counterfactual augmentation improved several internal and external diagnostic tasks; reader realism assessments did not establish patient benefit.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02461-4": {
+    "research_problem": "Outline continuous hybrid care for multiple sclerosis.",
+    "ai_method": "Conceptual digital-care framework with AI discussed as a future extension.",
+    "outcome_summary": "The perspective does not evaluate a substantive deployed AI method and should not be included as an AI application study.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "scope_override": "excluded",
+    "scope_reason": "AI is discussed only as motivation or a future extension; the actual contribution does not analyze or apply a substantive AI method."
+  },
+  "s41746-026-02456-1": {
+    "research_problem": "Predict sudden cardiac death over short and long intervals from routine ECGs.",
+    "ai_method": "Extreme-gradient-boosting models using software-derived ECG parameters and clinical risk factors.",
+    "outcome_summary": "Performance was modest and sensitive to sampling balance; repeated ECG changes added information but prospective effectiveness was not established.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 17625,
+        "unit": "cardiac patients",
+        "role": "retrospective ECG cohort",
+        "context": "retrospective ECG cohort",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02500-0": {
+    "research_problem": "Detect pediatric abdominal sepsis using routine early clinical variables.",
+    "ai_method": "Explainable ABSeD machine-learning model with retrospective development and independent prospective-source testing.",
+    "outcome_summary": "The nine-variable model retained strong discrimination across hospitals; the evidence concerns diagnosis prediction rather than improved treatment outcomes.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 6566,
+        "unit": "children",
+        "role": "retrospective development",
+        "context": "retrospective development",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 308,
+        "unit": "children",
+        "role": "independent prospective-source validation",
+        "context": "independent prospective-source validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 7,
+        "unit": "hospitals",
+        "role": "external validation coverage",
+        "context": "external validation coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02480-1": {
+    "research_problem": "Handle multiple fundus diseases, rare labels and cross-domain shifts.",
+    "ai_method": "RetExpert ophthalmic foundation models with clinical priors and lightweight test-time adaptation.",
+    "outcome_summary": "Evaluation across 15 datasets improved several reliability and detection measures; dynamic adaptation requires separate implementation and safety assessment.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 15,
+        "unit": "datasets",
+        "role": "public and private evaluation sources",
+        "context": "public and private evaluation sources",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02486-9": {
+    "research_problem": "Monitor depression severity from naturalistic smartphone voice diaries.",
+    "ai_method": "Sentence embeddings, stacked generalization and BERTopic interpretation.",
+    "outcome_summary": "Textual embeddings outperformed acoustic baselines, while performance was weaker within the MDD-only subgroup, limiting broad screening claims.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 284,
+        "unit": "adults",
+        "role": "speech-monitoring population",
+        "context": "speech-monitoring population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 3151,
+        "unit": "weekly diaries",
+        "role": "repeated speech measurements",
+        "context": "repeated speech measurements",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 128,
+        "unit": "MDD participants",
+        "role": "clinical subgroup",
+        "context": "clinical subgroup",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 156,
+        "unit": "controls",
+        "role": "comparison subgroup",
+        "context": "comparison subgroup",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02477-w": {
+    "research_problem": "Examine causal-AI methodology and regulation in drug development.",
+    "ai_method": "Review of causal-inference methods, regulatory activities and illustrative applications.",
+    "outcome_summary": "The paper identifies methodological and regulatory challenges; it does not establish a single prospectively validated drug-development system.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02473-0": {
+    "research_problem": "Extract eviction-related social determinants from clinical notes with limited labels.",
+    "ai_method": "LLM-generated synthetic EHRs, human annotation, prompt optimization and reasoning-augmented tuning.",
+    "outcome_summary": "Fine-tuned models improved extraction on human-validated data and reduced annotation effort; downstream health benefits were not tested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 14,
+        "unit": "categories",
+        "role": "fine-grained SDoH extraction labels",
+        "context": "fine-grained SDoH extraction labels",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02494-9": {
+    "research_problem": "Capture clinically important visual details that audio-only AI scribes omit.",
+    "ai_method": "Gemini video-enabled documentation using smart-glasses medication-history recordings.",
+    "outcome_summary": "Video processing reduced omissions versus audio-only input in simulated interviews; accuracy should not be generalized to live patient care without validation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 10,
+        "unit": "clinical pharmacists",
+        "role": "simulated interview creators",
+        "context": "simulated interview creators",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 110,
+        "unit": "recordings",
+        "role": "simulation corpus",
+        "context": "simulation corpus",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 10,
+        "unit": "recordings",
+        "role": "prompt development",
+        "context": "prompt development",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 100,
+        "unit": "recordings",
+        "role": "held-out evaluation",
+        "context": "held-out evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 2160,
+        "unit": "data points",
+        "role": "field-level assessment; not patients",
+        "context": "field-level assessment; not patients",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02463-2": {
+    "research_problem": "Treat retraining and maintenance as core requirements of medical AI research.",
+    "ai_method": "Perspective using ophthalmology cases to discuss model updating and sharing.",
+    "outcome_summary": "The article identifies maintenance gaps rather than validating a new clinical AI application.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02435-6": {
+    "research_problem": "Monitor multilingual public-health discourse beyond general-purpose LLM capability.",
+    "ai_method": "PH-LLM Qwen-based models fine-tuned with QLoRA and LoRA-plus.",
+    "outcome_summary": "Specialized models outperformed several larger comparators on held-out English and multilingual tasks; public-health policy effects were not evaluated.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 19,
+        "unit": "English tasks",
+        "role": "held-out benchmark",
+        "context": "held-out benchmark",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 20,
+        "unit": "multilingual tasks",
+        "role": "held-out benchmark",
+        "context": "held-out benchmark",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02452-5": {
+    "research_problem": "Synthesize evidence for AI-supported microsurgical skill training.",
+    "ai_method": "Systematic review of detection, motion-analysis and coaching models.",
+    "outcome_summary": "Simulation findings were promising but heterogeneous, with high bias risk and very low certainty; multicenter effectiveness trials were still needed.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 13,
+        "unit": "studies",
+        "role": "systematic-review inclusion",
+        "context": "systematic-review inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": "3–50",
+        "unit": "participants per study",
+        "role": "source-study sample range",
+        "context": "source-study sample range",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02450-7": {
+    "research_problem": "Separate high-confidence autonomous decisions from cases requiring human review.",
+    "ai_method": "Safety-aware ROC framework and gray-zone workload metric.",
+    "outcome_summary": "A cancer-screening case study showed that a higher-AUC model could offer less usable high-confidence coverage, distinguishing discrimination from operational policy.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2,
+        "unit": "algorithms",
+        "role": "FDA-cleared cancer-screening case study",
+        "context": "FDA-cleared cancer-screening case study",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02442-7": {
+    "research_problem": "Explain feature-level pathways underlying pediatric myopia predictions.",
+    "ai_method": "Neural networks combined with unit-level causal-inference analysis and falsification tests.",
+    "outcome_summary": "The framework identified plausible pathways in a longitudinal cohort, but observational causal modeling should not be confused with a randomized intervention.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 3000,
+        "unit": "children",
+        "role": "longitudinal source cohort; source reports more than this number",
+        "context": "longitudinal source cohort; source reports more than this number",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02443-6": {
+    "research_problem": "Quantify performance gains and resource costs of tool-using clinical agents.",
+    "ai_method": "OpenManus and Manus evaluated across AgentClinic, MedAgentsBench and HLE.",
+    "outcome_summary": "Accuracy gains were modest relative to increased tokens and latency, and hallucinations persisted despite safeguards.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2,
+        "unit": "agent systems",
+        "role": "OpenManus and Manus evaluation",
+        "context": "OpenManus and Manus evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 3,
+        "unit": "benchmark families",
+        "role": "evaluation coverage",
+        "context": "evaluation coverage",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02322-6": {
+    "research_problem": "Enable legally compliant transatlantic health-data exchange.",
+    "ai_method": "Mixed-methods data-governance framework developed through surveys and Delphi meetings.",
+    "outcome_summary": "The main contribution concerns general data exchange; AI is a motivation rather than a substantive method or directly evaluated AI application.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 56,
+        "unit": "expert responses",
+        "role": "governance survey",
+        "context": "governance survey",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 4,
+        "unit": "Delphi meetings",
+        "role": "consensus process",
+        "context": "consensus process",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ],
+    "scope_override": "excluded",
+    "scope_reason": "AI is discussed only as motivation or a future extension; the actual contribution does not analyze or apply a substantive AI method."
+  },
+  "s41746-025-02329-z": {
+    "research_problem": "Compare decentralized healthcare learning against local and pooled-data models.",
+    "ai_method": "Systematic review of federated, swarm and ensemble learning comparisons.",
+    "outcome_summary": "Decentralized learning usually improved local models but traded some threshold-dependent performance against centralized models; privacy and performance require joint reporting.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 160,
+        "unit": "articles",
+        "role": "systematic-review inclusion",
+        "context": "systematic-review inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 710,
+        "unit": "models",
+        "role": "decentralized learning models",
+        "context": "decentralized learning models",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 8149,
+        "unit": "performance comparisons",
+        "role": "paired and other metric comparisons",
+        "context": "paired and other metric comparisons",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02418-7": {
+    "research_problem": "Adapt medical-AI governance to organizations with different resources.",
+    "ai_method": "Systematic review of implementation frameworks and HAIRA governance-maturity model.",
+    "outcome_summary": "The five-level framework organizes governance pathways, but improved clinical outcomes from adoption were not established.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 35,
+        "unit": "frameworks",
+        "role": "systematic-review inclusion",
+        "context": "systematic-review inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02407-w": {
+    "research_problem": "Improve transparency and usability of medical-AI regulatory databases.",
+    "ai_method": "Perspective informed by international regulatory-data experience.",
+    "outcome_summary": "The article proposes a regulatory data ecosystem, rather than reporting a new validated AI model.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02421-y": {
+    "research_problem": "Predict whether invasive endomyocardial biopsy will produce a diagnosis.",
+    "ai_method": "Random-forest score derived from noninvasive imaging, biomarkers and clinical data.",
+    "outcome_summary": "Discrimination declined from internal evaluation to independent validation, supporting further evaluation before changing biopsy decisions.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 775,
+        "unit": "heart-failure patients",
+        "role": "retrospective development population",
+        "context": "retrospective development population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 171,
+        "unit": "patients",
+        "role": "independent external validation",
+        "context": "independent external validation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02413-y": {
+    "research_problem": "Predict running injuries using multidisciplinary risk factors and repeated monitoring.",
+    "ai_method": "Comparative ML models, including random forests, using prospective-source runner data.",
+    "outcome_summary": "Prediction improved moderately, and adding lower-evidence features did not consistently help; repeated weekly samples are not independent participants.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 142,
+        "unit": "runners",
+        "role": "prospectively monitored participants",
+        "context": "prospectively monitored participants",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 6181,
+        "unit": "weekly samples",
+        "role": "repeated participant measurements",
+        "context": "repeated participant measurements",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02404-z": {
+    "research_problem": "Approximate expensive aneurysm-flow simulations for rapid hemodynamic assessment.",
+    "ai_method": "Physics-constrained graph neural network trained on CFD fields.",
+    "outcome_summary": "The model generalized to unseen geometries and inflow settings; simulation agreement is not prospective aneurysm-rupture prediction.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 105,
+        "unit": "aneurysm geometries",
+        "role": "patient-derived CFD benchmark",
+        "context": "patient-derived CFD benchmark",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02367-1": {
+    "research_problem": "Make ECG graph-network classifications more interpretable.",
+    "ai_method": "xGNN4MI lead-relationship graph models with task-specific explanation evaluation.",
+    "outcome_summary": "The models supported diagnostic and infarct-localization tasks with clinically recognizable explanations; trustworthy deployment requires additional clinical evidence.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02353-7": {
+    "research_problem": "Extract scalable evidence from complex medical-device regulatory documents.",
+    "ai_method": "LLM annotation evaluated against experts and LLM-based judges.",
+    "outcome_summary": "Applications covered validation practices, device reports and adverse-event analyses; extraction accuracy varied and does not validate the regulated devices themselves.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02394-y": {
+    "research_problem": "Plan safer outpatient stem-cell mobilization in multiple myeloma.",
+    "ai_method": "ML classification and timing regression for mobilization adverse events.",
+    "outcome_summary": "Some event predictions were strong but fever was difficult; estimated bed reductions came from simulation rather than prospective outpatient implementation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 109,
+        "unit": "myeloma patients",
+        "role": "mobilization cohort",
+        "context": "mobilization cohort",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02410-1": {
+    "research_problem": "Develop safer clinician–AI collaboration using aviation lessons.",
+    "ai_method": "Perspective proposing training, benchmarking and maintained unaided practice.",
+    "outcome_summary": "The recommendations are conceptual and do not constitute a clinical effectiveness study.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02395-x": {
+    "research_problem": "Predict progression of multimorbidity-related complexity at population scale.",
+    "ai_method": "Machine-learning prediction and disease co-occurrence network analysis.",
+    "outcome_summary": "Baseline morbidity burden outperformed diagnosis-only models; longitudinal associations support integrated-care research without proving prevention effects.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 5500000,
+        "unit": "adults",
+        "role": "population cohort",
+        "context": "population cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 10,
+        "unit": "years",
+        "role": "follow-up period",
+        "context": "follow-up period",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02360-8": {
+    "research_problem": "Estimate cognitive performance from scalable spontaneous-speech measurements.",
+    "ai_method": "Linguistic and acoustic ML regression followed by impairment classification.",
+    "outcome_summary": "Speech features added information beyond demographics and generalized to an independent Alzheimer dataset; clinical deployment effectiveness remains untested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 1003,
+        "unit": "older adults",
+        "role": "speech-based cognitive evaluation",
+        "context": "speech-based cognitive evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02263-0": {
+    "research_problem": "Examine whether EU AI Act research exemptions reflect modern research and commercial boundaries.",
+    "ai_method": "Legal analysis with practical AI-research scenarios.",
+    "outcome_summary": "The article identifies regulatory uncertainty; its biomedical relevance must be established separately rather than inferred from the journal alone.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02383-1": {
+    "research_problem": "Estimate post-stroke upper-limb function during low-cost camera-based rehabilitation gameplay.",
+    "ai_method": "MediaPipe trajectory extraction and interpretable kinematic regression.",
+    "outcome_summary": "Twelve-person evaluation linked features to Fugl-Meyer scores; strong within-sample prediction is preliminary and does not establish treatment efficacy.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 12,
+        "unit": "post-stroke participants",
+        "role": "pilot population",
+        "context": "pilot population",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 24,
+        "unit": "limbs",
+        "role": "evaluated limbs",
+        "context": "evaluated limbs",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 14,
+        "unit": "affected limbs",
+        "role": "limb subset",
+        "context": "limb subset",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02356-4": {
+    "research_problem": "Predict who will respond to digital alcohol interventions before delivery.",
+    "ai_method": "Random forests integrating psychological, social-network and neural measures.",
+    "outcome_summary": "Initial performance fell in the external sample but retained predictive information; prospective adaptive-treatment benefit remains to be tested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 67,
+        "unit": "young adults",
+        "role": "first study",
+        "context": "first study",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 114,
+        "unit": "young adults",
+        "role": "external test sample",
+        "context": "external test sample",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02320-8": {
+    "research_problem": "Compare wearable approaches to fertility-window and menstrual-cycle detection.",
+    "ai_method": "Systematic review and Bayesian network meta-analysis, including random-forest algorithms.",
+    "outcome_summary": "Wearables showed useful pooled accuracy with substantial uncertainty; physiological design and algorithm choices affected performance.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 27,
+        "unit": "studies",
+        "role": "systematic-review inclusion",
+        "context": "systematic-review inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 13,
+        "unit": "studies",
+        "role": "ovulation-tracking subset",
+        "context": "ovulation-tracking subset",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02380-4": {
+    "research_problem": "Generate diagnostic impressions from brain-MRI report findings.",
+    "ai_method": "Ten-LLM benchmark, optimized differential prompting and assisted reader evaluation.",
+    "outcome_summary": "DeepSeek-R 1 performed best among tested models and improved reader metrics; this supports report drafting rather than autonomous diagnosis.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 4293,
+        "unit": "MRI reports",
+        "role": "three-center benchmark",
+        "context": "three-center benchmark",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 9973,
+        "unit": "diagnostic labels",
+        "role": "report annotations",
+        "context": "report annotations",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 10,
+        "unit": "LLMs",
+        "role": "evaluated models",
+        "context": "evaluated models",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 500,
+        "unit": "reports",
+        "role": "assisted-reader subset",
+        "context": "assisted-reader subset",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 6,
+        "unit": "radiologists",
+        "role": "reader participants",
+        "context": "reader participants",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02368-0": {
+    "research_problem": "Decode sleep stages from intracranial recordings during DBS.",
+    "ai_method": "Personalized supervised classifiers and unsupervised-cluster-trained linear models.",
+    "outcome_summary": "Small-cohort multi-night results supported sleep-state decoding feasibility; the study did not test sleep-targeted adaptive stimulation benefit.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 5,
+        "unit": "participants",
+        "role": "intracranial monitoring cohort",
+        "context": "intracranial monitoring cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 283,
+        "unit": "hours",
+        "role": "multi-night recordings",
+        "context": "multi-night recordings",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02370-6": {
+    "research_problem": "Predict cranioplasty complications and explore modifiable surgical factors.",
+    "ai_method": "Random-forest prediction, double machine learning and counterfactual explanations.",
+    "outcome_summary": "Spatial and temporal validation showed strong discrimination; estimated drainage and material effects remain observational causal inferences.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 15,
+        "unit": "algorithms",
+        "role": "prediction-method comparison",
+        "context": "prediction-method comparison",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02349-3": {
+    "research_problem": "Identify patients at risk of disengaging from HIV care.",
+    "ai_method": "EMR-fine-tuned language model for adherence, viral suppression and follow-up risks.",
+    "outcome_summary": "The model showed promise relative to baselines, but physician agreement was incomplete and improved patient retention was not directly demonstrated.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 4800000,
+        "unit": "EMR records",
+        "role": "Tanzanian HIV program; not unique patients",
+        "context": "Tanzanian HIV program; not unique patients",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02357-3": {
+    "research_problem": "Improve fine-grained melanocytic-neoplasm differential diagnosis without retuning the vision backbone.",
+    "ai_method": "Melan-Dx frozen vision-language models with image-and-knowledge retrieval.",
+    "outcome_summary": "The knowledge corpus improved patch and whole-slide benchmarks over several baselines; broader clinical effectiveness remains untested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2893,
+        "unit": "images",
+        "role": "curated pathology corpus",
+        "context": "curated pathology corpus",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 1102,
+        "unit": "knowledge entries",
+        "role": "expert-annotated retrieval database",
+        "context": "expert-annotated retrieval database",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02180-2": {
+    "research_problem": "Link sepsis detection to actionable quality-of-care feedback.",
+    "ai_method": "HERACLES classification embedded in a sepsis learning-health system and dynamic dashboards.",
+    "outcome_summary": "Mortality and coding changed favorably in implementation wards, but before-and-after controls cannot eliminate secular trends and residual confounding.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 97559,
+        "unit": "ward stays",
+        "role": "SLHS implementation wards",
+        "context": "SLHS implementation wards",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 25851,
+        "unit": "ward stays",
+        "role": "control wards",
+        "context": "control wards",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02334-2": {
+    "research_problem": "Approximate breast-cancer transcriptomic recurrence-risk information from routine histology.",
+    "ai_method": "MAKO pathology-foundation-model benchmark with attention-based multiple-instance learning and HIPPO explanation.",
+    "outcome_summary": "Several models surpassed baselines and reproduced risk stratification externally; replacing transcriptomic assays clinically requires further validation.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 12,
+        "unit": "pathology foundation models",
+        "role": "benchmark models",
+        "context": "benchmark models",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 2,
+        "unit": "non-pathology models",
+        "role": "baseline comparators",
+        "context": "baseline comparators",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02241-6": {
+    "research_problem": "Synthesize physiological pain markers and automated assessment methods across pain types.",
+    "ai_method": "Scoping review of classical ML and deep-learning pain models.",
+    "outcome_summary": "The review organizes signal-feature variation and modeling approaches, highlighting an unmet need for objective assessment rather than a single validated solution.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-026-02340-y": {
+    "research_problem": "Passively monitor cognitive and affective variation with everyday wearables.",
+    "ai_method": "Multimodal AI prediction from longitudinal behavior, physiology and environmental exposure.",
+    "outcome_summary": "Cross-validation supported prediction of reported outcomes more than performance-based measures; subject-dependent evaluation limits claims about unseen-person deployment.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 82,
+        "unit": "healthy adults",
+        "role": "monitoring cohort",
+        "context": "monitoring cohort",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 10,
+        "unit": "months",
+        "role": "longitudinal acquisition",
+        "context": "longitudinal acquisition",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 21,
+        "unit": "outcomes",
+        "role": "cognitive and mental-health targets",
+        "context": "cognitive and mental-health targets",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02327-1": {
+    "research_problem": "Recover usable waveforms from archived paper ECG images.",
+    "ai_method": "Automated image-to-signal digitization pipeline evaluated against reference datasets.",
+    "outcome_summary": "The open-source pipeline handled common scan artifacts and exceeded comparison methods; downstream AI diagnostic benefit was not itself tested.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 37191,
+        "unit": "ECG images",
+        "role": "total validation material",
+        "context": "total validation material",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 1596,
+        "unit": "images",
+        "role": "Akershus source",
+        "context": "Akershus source",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 35595,
+        "unit": "images",
+        "role": "Emory source",
+        "context": "Emory source",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-026-02339-5": {
+    "research_problem": "Propose human-supervised automation of radiotherapy treatment planning.",
+    "ai_method": "Conceptual human-centric intelligent treatment-planning framework.",
+    "outcome_summary": "Expected speed and quality improvements are proposals rather than measured clinical study results.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-025-02313-7": {
+    "research_problem": "Compare educational properties of GPT-4o and expert-authored imaging examination questions.",
+    "ai_method": "Preregistered blinded within-person comparison with expert oversight.",
+    "outcome_summary": "Item difficulty and discrimination were similar, but low expert agreement and a single-center design constrain educational-equivalence claims.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 24,
+        "unit": "GPT-generated items",
+        "role": "examination material",
+        "context": "examination material",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 24,
+        "unit": "human-authored items",
+        "role": "matched comparison material",
+        "context": "matched comparison material",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 82,
+        "unit": "medical students",
+        "role": "examinees",
+        "context": "examinees",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 46,
+        "unit": "physicians",
+        "role": "examinees",
+        "context": "examinees",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02311-9": {
+    "research_problem": "Diagnose retinitis pigmentosa and predict visual outcomes from fundus images.",
+    "ai_method": "Pretrained deep image models combined with ML survival analysis and clinical metadata.",
+    "outcome_summary": "Imaging added prognostic information beyond either modality alone; independent multicenter confirmation remained necessary.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening"
+  },
+  "s41746-025-02296-5": {
+    "research_problem": "Predict long-term heart-failure mortality from routine primary-care records.",
+    "ai_method": "TRisk Transformer survival model with international transfer learning.",
+    "outcome_summary": "TRisk outperformed an EHR-adapted conventional score, but US evaluation used transfer learning and should not be described as unchanged-model portability.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 403534,
+        "unit": "HF patients",
+        "role": "UK development and validation",
+        "context": "UK development and validation",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 1418,
+        "unit": "general practices",
+        "role": "UK source coverage",
+        "context": "UK source coverage",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 21767,
+        "unit": "patients",
+        "role": "US transfer-learning evaluation",
+        "context": "US transfer-learning evaluation",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02280-z": {
+    "research_problem": "Assess the privacy, utility and fairness trade-offs of medical deep learning.",
+    "ai_method": "Scoping review of differential-privacy methods in centralized and federated learning.",
+    "outcome_summary": "Stricter privacy often reduced performance and sometimes widened subgroup gaps; privacy-budget and fairness reporting were inconsistent.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 74,
+        "unit": "studies",
+        "role": "scoping-review inclusion",
+        "context": "scoping-review inclusion",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  },
+  "s41746-025-02176-y": {
+    "research_problem": "Improve outcome prediction for rare and low-frequency ICU conditions.",
+    "ai_method": "KnowRare self-supervised representations, condition-knowledge graphs and domain adaptation.",
+    "outcome_summary": "Across two datasets and five tasks, the framework exceeded compared models and ICU scores; prospective care effects were not established.",
+    "manual_review": "source_abstract_read_2026-10-23",
+    "source_evidence": "publisher abstract with source Methods screening",
+    "experiment_scale": [
+      {
+        "value": 2,
+        "unit": "ICU datasets",
+        "role": "evaluation sources",
+        "context": "evaluation sources",
+        "source_section": "Abstract",
+        "verified": true
+      },
+      {
+        "value": 5,
+        "unit": "prediction tasks",
+        "role": "benchmark targets",
+        "context": "benchmark targets",
+        "source_section": "Abstract",
+        "verified": true
+      }
+    ]
+  }
+}
