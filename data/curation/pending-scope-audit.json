@@ -1,0 +1,346 @@
+[
+  {
+    "id": "s41467-025-68074-9",
+    "doi": "10.1038/s41467-025-68074-9",
+    "journal": "Nature Communications",
+    "status": "excluded",
+    "reason": "AI structure predictions support a primarily mechanistic biology study; no substantive AI-method development or AI-system evaluation is established.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41467-026-70659-x",
+    "doi": "10.1038/s41467-026-70659-x",
+    "journal": "Nature Communications",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. This is a mechanistic computational-neuroscience model; it does not validate a clinical diagnostic AI.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41556-026-01916-w",
+    "doi": "10.1038/s41556-026-01916-w",
+    "journal": "Nature Cell Biology",
+    "status": "excluded",
+    "reason": "AI structure predictions support a primarily mechanistic biology study; no substantive AI-method development or AI-system evaluation is established.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41557-025-02041-1",
+    "doi": "10.1038/s41557-025-02041-1",
+    "journal": "Nature Chemistry",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. The biomedical connection is bioactive natural-product synthesis, not patient testing or demonstrated drug efficacy.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41564-026-02486-1",
+    "doi": "10.1038/s41564-026-02486-1",
+    "journal": "Nature Microbiology",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. The abstract establishes an AI-designed functional component, but does not identify the design model or its training scale.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41568-026-00950-y",
+    "doi": "10.1038/s41568-026-00950-y",
+    "journal": "Nature Reviews Cancer",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. This is an evidence synthesis; it does not report a new AI trial or a pooled patient cohort.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41576-026-00989-5",
+    "doi": "10.1038/s41576-026-00989-5",
+    "journal": "Nature Reviews Genetics",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. Machine-learning extraction is one component of imaging genomics; the review itself does not train a single new model.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41584-026-01380-8",
+    "doi": "10.1038/s41584-026-01380-8",
+    "journal": "Nature Reviews Rheumatology",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. Predictive accuracy must be checked against functional assays, especially for gain-of-function variants; no universal clinical accuracy is established.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41590-025-02355-9",
+    "doi": "10.1038/s41590-025-02355-9",
+    "journal": "Nature Immunology",
+    "status": "excluded",
+    "reason": "AI is mentioned as an emerging future technology in a broader immunity review; no substantive AI-method synthesis established.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-025-02328-0",
+    "doi": "10.1038/s41746-025-02328-0",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Publisher identifies this record as a retracted article; excluded from confirmed research evidence.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-02649-8",
+    "doi": "10.1038/s41746-026-02649-8",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Publisher identifies this record as a retracted article; excluded from confirmed research evidence.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-02966-y",
+    "doi": "10.1038/s41746-026-02966-y",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03036-z",
+    "doi": "10.1038/s41746-026-03036-z",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. 97,559 valid signal samples come from 1,810 people; signal samples are not independent participants.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03065-8",
+    "doi": "10.1038/s41746-026-03065-8",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. The study evaluates risk prediction; external follow-up and predictor coverage limit claims about transportability and clinical benefit.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03101-7",
+    "doi": "10.1038/s41746-026-03101-7",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. This review does not establish that all reviewed models generalize across populations or clinical settings.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03129-9",
+    "doi": "10.1038/s41746-026-03129-9",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03131-1",
+    "doi": "10.1038/s41746-026-03131-1",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. Biological exclusions change the eligible prediction population; results do not establish prospective treatment benefit for excluded tumor states.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03139-7",
+    "doi": "10.1038/s41746-026-03139-7",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03142-y",
+    "doi": "10.1038/s41746-026-03142-y",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. This is retrospective trajectory discovery; clinical factors and routine-care sampling can confound biological interpretations.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03152-w",
+    "doi": "10.1038/s41746-026-03152-w",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. This evaluates governance of deployed medical AI rather than training or testing a predictive model.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03166-4",
+    "doi": "10.1038/s41746-026-03166-4",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03172-6",
+    "doi": "10.1038/s41746-026-03172-6",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03182-4",
+    "doi": "10.1038/s41746-026-03182-4",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03184-2",
+    "doi": "10.1038/s41746-026-03184-2",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03200-5",
+    "doi": "10.1038/s41746-026-03200-5",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. Conformal coverage and prediction-set size trade off; retrospective audit prioritization is not demonstrated prevention of fraud or patient harm.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03212-1",
+    "doi": "10.1038/s41746-026-03212-1",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. The six simulated valve configurations are not six patients; validation against a material map does not establish prospective patient outcomes.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03225-w",
+    "doi": "10.1038/s41746-026-03225-w",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03230-z",
+    "doi": "10.1038/s41746-026-03230-z",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03231-y",
+    "doi": "10.1038/s41746-026-03231-y",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03289-8",
+    "doi": "10.1038/s41746-026-03289-8",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. Pooled accuracy is not evidence of deployment readiness or superiority of one modality; included studies are not a newly randomized patient cohort.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03299-6",
+    "doi": "10.1038/s41746-026-03299-6",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03308-8",
+    "doi": "10.1038/s41746-026-03308-8",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03337-3",
+    "doi": "10.1038/s41746-026-03337-3",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03340-8",
+    "doi": "10.1038/s41746-026-03340-8",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03347-1",
+    "doi": "10.1038/s41746-026-03347-1",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03370-2",
+    "doi": "10.1038/s41746-026-03370-2",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03385-9",
+    "doi": "10.1038/s41746-026-03385-9",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. Prospective photograph collection does not itself establish prospective external AI validation or home-use effectiveness.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03400-z",
+    "doi": "10.1038/s41746-026-03400-z",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03401-y",
+    "doi": "10.1038/s41746-026-03401-y",
+    "journal": "npj Digital Medicine",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41746-026-03415-6",
+    "doi": "10.1038/s41746-026-03415-6",
+    "journal": "npj Digital Medicine",
+    "status": "included",
+    "reason": "Substantive computational AI methods or evaluation of AI-enabled medicine form an explicit component of this biomedical study or evidence synthesis. This is a prognostic modeling study, not a randomized test of AI-directed treatment; patient cohorts and CT habitat regions must not be pooled.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s41929-026-01489-9",
+    "doi": "10.1038/s41929-026-01489-9",
+    "journal": "Nature Catalysis",
+    "status": "excluded",
+    "reason": "AI structure predictions support a primarily mechanistic biology study; no substantive AI-method development or AI-system evaluation is established.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s44220-026-00593-w",
+    "doi": "10.1038/s44220-026-00593-w",
+    "journal": "Nature Mental Health",
+    "status": "excluded",
+    "reason": "Actual source evaluates digital health, observational associations, biological mechanisms or ordinary behavioral modeling without a substantive AI contribution.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  },
+  {
+    "id": "s44222-025-00391-6",
+    "doi": "10.1038/s44222-025-00391-6",
+    "journal": "Nature Reviews Bioengineering",
+    "status": "pending",
+    "reason": "Retained pending source centrality review.",
+    "screening_method": "manual_abstract_plus_selected_fulltext_pending_audit"
+  }
+]
